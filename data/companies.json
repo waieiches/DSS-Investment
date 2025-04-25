@@ -1,0 +1,7 @@
+[
+    {"ticker": "TSLA", "name": "Tesla"},
+    {"ticker": "AAPL", "name": "Apple"},
+    {"ticker": "AMZN", "name": "Amazon"},
+    {"ticker": "NVDA", "name": "Nvidia"},
+    {"ticker": "MSFT", "name": "Microsoft"}
+  ]
