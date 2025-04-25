@@ -1,7 +1,39 @@
-[
-    {"ticker": "TSLA", "name": "Tesla"},
-    {"ticker": "AAPL", "name": "Apple"},
-    {"ticker": "AMZN", "name": "Amazon"},
-    {"ticker": "NVDA", "name": "Nvidia"},
-    {"ticker": "MSFT", "name": "Microsoft"}
-  ]
+{
+    "AI_Chips": [
+      { "name": "NVIDIA", "ticker": "NVDA" },
+      { "name": "AMD", "ticker": "AMD" },
+      { "name": "Intel", "ticker": "INTC" },
+      { "name": "Qualcomm", "ticker": "QCOM" },
+      { "name": "Broadcom", "ticker": "AVGO" },
+      { "name": "Google", "ticker": "GOOGL" },
+      { "name": "Amazon", "ticker": "AMZN" },
+      { "name": "Apple", "ticker": "AAPL" },
+      { "name": "Meta", "ticker": "META" },
+      { "name": "Huawei", "ticker": null }
+    ],
+    "Quantum_Computing": [
+      { "name": "IBM", "ticker": "IBM" },
+      { "name": "Google", "ticker": "GOOGL" },
+      { "name": "Microsoft", "ticker": "MSFT" },
+      { "name": "IonQ", "ticker": "IONQ" },
+      { "name": "Rigetti Computing", "ticker": "RGTI" },
+      { "name": "D-Wave Quantum", "ticker": "QBTS" },
+      { "name": "Amazon", "ticker": "AMZN" },
+      { "name": "Intel", "ticker": "INTC" },
+      { "name": "SpinQ", "ticker": null },
+      { "name": "Xanadu", "ticker": null }
+    ],
+    "Cybersecurity": [
+      { "name": "Palo Alto Networks", "ticker": "PANW" },
+      { "name": "CrowdStrike", "ticker": "CRWD" },
+      { "name": "Zscaler", "ticker": "ZS" },
+      { "name": "Okta", "ticker": "OKTA" },
+      { "name": "Fortinet", "ticker": "FTNT" },
+      { "name": "SentinelOne", "ticker": "S" },
+      { "name": "Check Point Software", "ticker": "CHKP" },
+      { "name": "Cisco Systems", "ticker": "CSCO" },
+      { "name": "Rapid7", "ticker": "RPD" },
+      { "name": "Proofpoint", "ticker": "PFPT" }
+    ]
+  }
+  
