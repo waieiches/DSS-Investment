@@ -4,10 +4,21 @@ import requests
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 import click
+from newspaper import Article
 
 # .env에서 API 키 불러오기
 load_dotenv()
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
+
+def extract_full_content(url):
+    try:
+        article = Article(url)
+        article.download()
+        article.parse()
+        return article.text
+    except Exception as e:
+        print(f"❌ 본문 추출 실패 ({url}): {e}")
+        return None
 
 # 뉴스 수집 함수
 def collect_news(ticker, name, days=7, page_size=20):
@@ -31,6 +42,14 @@ def collect_news(ticker, name, days=7, page_size=20):
 
     articles = response.json().get("articles", [])
     print(f"✅ {ticker} 기사 수: {len(articles)}")
+    
+    for article in articles:
+        url = article.get("url")
+        if url:
+            full_content = extract_full_content(url)
+            article["full_content"] = full_content
+        else:
+            article["full_content"] = None
     return articles
 
 # 저장 함수

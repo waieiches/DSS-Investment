@@ -1,0 +1,282 @@
+[
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Emma Cosgrove",
+    "title": "A guide to Nvidia's competitors: AMD, Qualcomm, Broadcom, startups, and more are vying to compete in the AI chip market",
+    "description": "Despite Nvidia's AI semiconductor dominance, competitors are innovating to challenge its lead. Read about AMD, Qualcomm, Broadcom, Amazon, and more.",
+    "url": "https://www.businessinsider.com/nvidia-competitors",
+    "urlToImage": "https://i.insider.com/681509b2c6ad288d147fe203?width=1200&format=jpeg",
+    "publishedAt": "2025-05-11T08:57:02Z",
+    "content": "Nvidia CEO Jensen Huang and his team got an early foothold in the AI chip market — but now, they have competition.I-Hwa Cheng/AFP/Getty Images\r\n<ul><li>Nvidia dominates the AI semiconductor market.</… [+5915 chars]",
+    "full_content": "Nvidia CEO Jensen Huang and his team got an early foothold in the AI chip market — but now, they have competition.\n\nNvidia CEO Jensen Huang and his team got an early foothold in the AI chip market — but now, they have competition. I-Hwa Cheng/AFP/Getty Images\n\nThis story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.\n\nNvidia is undoubtably dominant in the AI semiconductor space. Estimates fluctuate, but the company has more than 80% market share by some estimates when it comes to the chips that reside inside data centers and make products like ChatGPT and Claude possible.\n\nThat enviable dominance goes back almost two decades, when researchers began to realize that the same kind of intensive computing that made complex, visually stunning video games and graphics possible, could enable other types of computing too.\n\nThe company started building its famous software stack, named Compute Unified Device Architecture or CUDA, 16 years before the launch of ChatGPT. For much of that time, it lost money. But CEO Jensen Huang and a team of true believers saw the potential for graphics processing units to enable artificial intelligence. And today, Nvidia and its products are responsible for most of the artificial intelligence at work in the world.\n\nThanks to the prescience of Nvidia's leadership, the company had a big head start when it came to AI computing, but challengers are running fast to catch up. Some were competitors in the gaming or traditional semiconductor spaces, and others have started up from scratch.\n\nAMD\n\nAMD, led by CEO Lisa Su, lags behind Nvidia but remains its most serious competitor. I-Hwa Cheng/AFP via Getty Images\n\nAMD is Nvidia's top competitor in the market for AI computing in the data center. Helmed by its formidable CEO Lisa Su, AMD launched its own GPU, called the MI300, for the data center in 2024, more than a full year after Nvidia's second generation of data center GPUs started shipping.\n\nThough experts and analysts have touted the chip's specifications and potential based on its design and architecture, the company's software is still somewhat behind that of Nvidia, making these chips somewhat harder to program and use to their full potential.\n\nAnalysts predict that the company has under 15% market share. But AMD executives insist that they are committed to bringing its software up to par and that future expectations for the evolution of the accelerated computing market will benefit the company — specifically, the spread of AI into so-called edge devices like phones and laptops.\n\nQualcomm, Broadcom, and custom chips\n\nAlso challenging Nvidia are application-specific integrated circuits or ASICs. These custom-designed chips are less versatile than GPUs, but they can be designed for specific AI computing workloads at a much lower cost, which have made them a popular option for hyperscalers.\n\nThough multipurpose chips like Nvidia's and AMD's graphics processing units are likely to maintain the largest share of the AI-chip market in the long term, custom chips are growing fast. Morgan Stanley analysts expected the market for ASICs to double in size in 2025.\n\nCompanies that specialize in ASICs include Broadcom and Marvell, along with the Asia-based players Alchip Technologies and MediaTek.\n\nMarvell is in part responsible for Amazon's Trainium chips while Broadcom builds Google's tensor processing units, among others. OpenAI, Apple, Microsoft, Meta, and TikTok parent company ByteDance have all entered the race for a competitive ASIC as well.\n\nRelated stories Business Insider tells the innovative stories you want to know Business Insider tells the innovative stories you want to know\n\nAmazon and Google\n\nWhile also being prominent customers of Nvidia, the major cloud providers like Amazon Web Services and Google Cloud Platform, often called hyperscalers, have also made efforts to design their own chips, often with the help of semiconductor companies.\n\nAmazon's Trainium chips and Google's TPUs are the most scaled of these efforts and offer a cheaper alternative to Nvidia chips, mostly for the companies' internal AI workloads. However, the companies have shown some progress in getting customers and partners to use their chips as well. Anthropic has committed to running some workloads on Amazon's chips, and Apple has done the same with Google's.\n\nIntel\n\nIntel and its Gaudi line of AI chips has struggled to compete with Nvidia and AMD. Mandel Ngan/AFP via Getty Images\n\nOnce the great American name in chip-making, Intel has fallen far behind its competitors in the age of AI. But, the firm does have a line of AI chips called Gaudi that some reports have said can stand up to Nvidia's in some respects.\n\nIntel installed a new CEO, semiconductor veteran Lip-Bu Tan, in the first quarter of 2025 and one of his first actions was to flatten the organization so that the AI chip operations reports directly to him.\n\nHuawei\n\nThough Nvidia's American hopeful challengers are many, China's Huawei is perhaps the most concerning competitor of all for Nvidia and all those concerned with continued US supremacy in AI.\n\nHuang himself has called Huawei the \"single most formidable\" tech company in China. Reports that Huawei's AI chip innovation is catching up are increasing in frequency. New restrictions from the Biden and Trump administrations on shipping even lower-power GPUs to China have further incentivized the company to catch up and serve the Chinese markets for AI. Analysts say further restrictions being considered by the Trump administration are now unlikely to hamper China's AI progress.\n\nStartups\n\nAlso challenging Nvidia are a host of startups offering new chip designs and business models to the AI computing market.\n\nThese firms are starting out at a disadvantage, as they don't have the full-sized sales and distribution machines decades of chip sales in other types of tech bring. But several are holding their own by finding use cases, customers, and distribution methods that are attractive to customers based on faster processing speeds or lower cost. These new AI players include Cerebras, Etched, Groq, Positron AI, Sambanova Systems, and Tenstorrent, among others."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Techmeme.com"
+    },
+    "author": null,
+    "title": "Broadcom is sending cease-and-desist letters to owners of VMware perpetual licenses with expired support contracts, to get them to buy VMware product bundles (Scharon Harding/Ars Technica)",
+    "description": "Scharon Harding / Ars Technica:\nBroadcom is sending cease-and-desist letters to owners of VMware perpetual licenses with expired support contracts, to get them to buy VMware product bundles  —  Broadcom has been sending cease-and-desist letters to owners of V…",
+    "url": "https://www.techmeme.com/250508/p55",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1335564212-1152x648.jpg",
+    "publishedAt": "2025-05-09T03:05:01Z",
+    "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 11:05 PM ET, May 8, 2025.\r\nThe most current version of the site as always is available at our home page.\r\nTo view … [+146 chars]",
+    "full_content": "Invest Like the Best:\n\nThe leading destination to learn about business and investing. We do this by showcasing exceptional talent and ideas.\n\n\n\n\n\nSubscribe to Invest Like the Best"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Internet"
+    },
+    "author": "info@thehackernews.com (The Hacker News)",
+    "title": "Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization",
+    "description": "Threat actors with links to the Play ransomware family exploited a recently patched security flaw in Microsoft Windows as a zero-day as part of an attack targeting an unnamed organization in the United States.\nThe attack, per the Symantec Threat Hunter Team, …",
+    "url": "https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html",
+    "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6aNvkvpfvspGBVXWiABqaZSeFgnTKq1CHZvx_1BaE_8QfpREnLmNlVHYTYdwmtljBFj939Q9sADVf3O2feZxv-_qDmKNCRW8-heIVCqSbnqffnmAa4XKTBOBgnW3u6heAfqzHgzULosSG8x-M5QIewpFBaMvx6DGC58A-EjD-DlvdTajBZkqPsvvtowt/s728-rw-e365/ransomware-malware.jpg",
+    "publishedAt": "2025-05-07T10:44:00Z",
+    "content": "Threat actors with links to the Play ransomware family exploited a recently patched security flaw in Microsoft Windows as a zero-day as part of an attack targeting an unnamed organization in the Unit… [+8782 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Marko Zivkovic)",
+    "title": "Apple working on M6 & M7 chips alongside new AI server processor",
+    "description": "While Apple's M5 chip is expected to debut on Mac and iPad, in late 2025, the company's M6 and M7 chips are in the works, in conjunction with a new AI server farm processor.An M5-powered MacBook Pro could debut in 2025, while M6 and M7 chips will likely follo…",
+    "url": "https://appleinsider.com/articles/25/05/08/apple-working-on-m6-m7-chips-alongside-new-ai-server-processor",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/63565-132148-63147-131210-62650-129979-62019-128435-61511-127060-M3-MBA-7-xl-xl-xl-xl-xl.jpg",
+    "publishedAt": "2025-05-08T18:02:55Z",
+    "content": "While Apple's M5 chip is expected to debut on Mac and iPad, in late 2025, the company's M6 and M7 chips are in the works, in conjunction with a new AI server farm processor.\r\nThe current M4 chip was … [+2058 chars]",
+    "full_content": "An M5-powered MacBook Pro could debut in 2025, while M6 and M7 chips will likely follow in the coming years.\n\nWhile Apple's M5 chip is expected to debut on Mac and iPad, in late 2025, the company's M6 and M7 chips are in the works, in conjunction with a new AI server farm processor.\n\nThe current M4 chip was introduced back in May 2024, making its debut with the iPad Pro. In October of the same year, it made its wayto the iMac, Mac mini, and MacBook Pro, while the MacBook Air received the system-on-chip in March 2025.\n\nMuch like the M4, Apple's new-and-improved M5 chip is expected to appear in the iPad Pro and MacBook Pro as early as the end of 2025. According to a Bloomberg report on Thursday, however, the iPhone maker is already working on multiple other chips, planned for future iPad and Mac products.\n\nSpecifically, the report claims that the M6 chip, codenamed \"Komodo,\" and the M7, internally referred to as \"Borneo,\" are in the works. There's even said to be an advanced Mac-related system-on-chip in development, known under the codename \"Sotra,\" though no further details about the project were provided.\n\nSupposedly, Apple also has plans for new AI server chips, which would replace the M2 Ultra that the company currently uses to process remote Apple Intelligence requests. A December 2024 report indicated that Apple was working with Broadcom. The claim was reiterated in Thursday's article, which says the project is dubbed \"Baltra,\" and that it's set to be completed by 2027.\n\nThe iPhone maker is said to be experimenting with chips that have two, four, or even six times as many CPU and GPU cores as the high-end M3 Ultra. If implemented, the new AI chip would likely improve Apple Intelligence features, making them more powerful and competitive.\n\nClaims about Apple's AI-related endeavors have been all over the place, however. A March 2025 report suggested that the company was investing in Nvidia AI servers for AI development, while an April 2025 rumor said the company might partner with a Japanese chipmaker for its Apple Intelligence needs.\n\nAs for the M5 chip, previous reports have indicated that it will debut in the MacBook Pro, which likely won't receive a redesign in 2025. An M5-powered iPad Pro would then follow, and it's reportedly already in testing.\n\nThe M5 could even make its way to the Apple Vision Pro in 2025 as well."
+  },
+  {
+    "source": {
+      "id": "techradar",
+      "name": "TechRadar"
+    },
+    "author": "Craig Hale",
+    "title": "Broadcom is cracking down on some VMware users hard - here's why",
+    "description": "VMware perpetual licenses are not lucrative enough for Broadcom, so it's reportedly sending cease-and-desist letters.",
+    "url": "https://www.techradar.com/pro/broadcom-is-cracking-down-on-some-vmware-users-hard-heres-why",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Vr7mkRg2vWt7rkVG7uC2a6.jpg",
+    "publishedAt": "2025-05-08T10:28:00Z",
+    "content": "<ul><li>Broadcom said to be sending out cease-and-desist letters to perpetual license holders</li><li>They can use the products, but they mustn't use updates</li><li>Legal action is being used as a t… [+2341 chars]",
+    "full_content": "Broadcom said to be sending out cease-and-desist letters to perpetual license holders\n\nThey can use the products, but they mustn't use updates\n\nLegal action is being used as a threat\n\nBroadcom is reportedly sending out cease-and-desist letters to VMware perpetual license holders whose support contracts have expired.\n\nThe news comes around 18 months after the company acquired VMware, when one of the first big changes it made was to end perpetual licenses in a bid to transition to more lucrative subscription-based models.\n\nAt the time, users reported seeing considerable price hikes, with many opting to leave the new Broadcom-led VMware.\n\nBroadcom is addressing VMware perpetual licenses, again\n\nUsers can continue using existing software under their perpetual licenses, however they cannot access updates or support unless they had a pre-existing contract, Ars Technica explained.\n\nNow, customers are receiving letters demanding that they stop using any updates, patches or releases issued after their support packages had expired, with the exception of zero-day security patches.\n\nCustomers are even being asked to uninstall updated if they've already had them applied. The continued use of such updates is being framed as a breach of contract and intellectual property infringement, therefore Broadcom has expressed a willingness to explore legal options.\n\n\"Any such use of Support past the Expiration Date constitutes a material breach of the Agreement with VMware and an infringement of VMware’s intellectual property rights, potentially resulting in claims for enhanced damages and attorneys’ fees,\" an extract from the letter reads.\n\nAre you a pro? Subscribe to our newsletter Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed! Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors\n\nAccording to the report, letters are also mentioning the possibility of audits for non-compliance, while some have been received by customers who are not in breach of Broadcom's policies, including those who have moved away from VMware altogether.\n\nThe decision to press on with ending perpetual licenses for good doesn't come as a big surprise, but Broadcom has reversed some of its controversial changes to pacify customers after some of its execs came online to respond to disgruntled customers.\n\nTechRadar Pro has asked Broadcom to confirm details of the letter and to offer further context, but the company did not respond to our email."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Steve McDowell, Contributor, \n Steve McDowell, Contributor\n https://www.forbes.com/sites/stevemcdowell/",
+    "title": "Nutanix And Pure Storage Collaborate To Answer VMware Uncertainty",
+    "description": "Nutanix and Pure Storage partner to offer an integrated solution for virtualization as VMware customers seek alternatives under Broadcom ownership.",
+    "url": "https://www.forbes.com/sites/stevemcdowell/2025/05/07/nutanix-and-pure-storage--collaborate-to-answer-vmware-uncertainty/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681b95a1213e12361353c7a3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-05-07T17:36:54Z",
+    "content": "Digital transformation.\r\ngetty\r\nNutanix and Pure Storage announced a strategic partnership at Nutanixs.NEXT Conference in Washington, D.C. The new alliance sees the companies responding directly to g… [+7695 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": null,
+    "title": "Well-Known Investor Cuts His Stakes in NVDA, AVGO, AAPL",
+    "description": null,
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_853eabec-cac2-431e-9e3d-144eb3774447",
+    "urlToImage": null,
+    "publishedAt": "2025-05-07T15:41:34Z",
+    "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Noor Ul Ain Rehman",
+    "title": "Is Broadcom Inc. (AVGO) the Most Promising Future Stock According to Hedge Funds?",
+    "description": "We recently published a list of 11 Most Promising Future Stocks According to Hedge Funds. In this article, we are going to take a look at where Broadcom Inc....",
+    "url": "https://finance.yahoo.com/news/broadcom-inc-avgo-most-promising-130413359.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_XH4s0HiERvNsKsidfPiIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/4a31470717140dc0b5330d507cacd0ab",
+    "publishedAt": "2025-05-07T13:04:13Z",
+    "content": "We recently published a list of 11 Most Promising Future Stocks According to Hedge Funds. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other most p… [+7089 chars]",
+    "full_content": "We recently published a list of 11 Most Promising Future Stocks According to Hedge Funds. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other most promising future stocks to buy now.\n\nThe past year has seen investors pour money into futuristic trends such as electric vehicles and AI. These trends have raised the question of whether regulators will slow their growth in 2025 or attain more space to run with a green signal from the government. Venture Capitalist Bradley Tusk appeared on CNBC to talk about the industries that are expected to thrive in 2025 and how policy changes could affect investments across these hot industries.\n\nHe said that while some of the policies on big tech might continue, we would likely see a friendlier climate towards M&A activity and new technology in fintech, healthcare tech, and energy. The various factors are thus coming together well, especially in the world of venture capital. While it has not been all that vibrant there in the past few years, things are starting to turn around now.\n\nWhat Could the Future Look Like for AI?\n\nHowever, Tusk said that he does not feel confident that the current administration would provide the necessary safety and security while also letting technology get competitive. He provides Internet 2.0 as evidence, saying that we still have to regulate social media while we are a decade and a half into this experiment now. While we have a good idea of how to regulate AI, the federal and state-level authorities have not been particularly competent at broadly regulating new technologies. If you leave it to the state, you will likely get 50 different intellectual and analytical frameworks on regulating AI, which becomes almost impossible for the companies to comply with. Tusk thus opines that we could really use some competent leadership at the federal level, as these factors might be a potential hindrance to the upside of this technology.\n\nTalking further about the future of the AI industry, he said that people will likely continue to build an arms race in the area, and the momentum and excitement will continue irrespective of the circumstances. Companies in this area are so heavily invested that they have to keep investing no matter what. At the same time, AI is still a world of unfulfilled potential. There is a lot of talk about what it could be and how it could change the way we create new drugs, teach children, discover minerals, or anything else. But at some point, it has to go from a cool search engine and exciting potential idea to actual revenue and savings. Tusk said that this is the year it has to start being shown, as you can’t just forever continue investing for the potential that may come someday; at one point, the economics have to come in too."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TechSpot"
+    },
+    "author": "Alfonso Maruccia",
+    "title": "Broadcom pressures VMware customers with cease-and-desist letters over perpetual licenses",
+    "description": "Broadcom wants to push every single VMware customer \"owning\" a perpetual license to a new subscription-based contract, and is willing to antagonize the entire VMware userbase to reach this goal. Companies and professionals still using VMware products have rec…",
+    "url": "https://www.techspot.com/news/107852-broadcom-now-trying-stop-vmware-customers-installing-software.html",
+    "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/05/2025-05-08-image-31.jpg",
+    "publishedAt": "2025-05-08T20:41:00Z",
+    "content": "Editor's take: After acquiring VMware in 2023, Broadcom has wasted no time reshaping the company into a profit-focused operation, often at the expense of good customer relations. The latest move in t… [+2741 chars]",
+    "full_content": "Editor's take: After acquiring VMware in 2023, Broadcom has wasted no time reshaping the company into a profit-focused operation, often at the expense of good customer relations. The latest move in this contentious strategy involves cease-and-desist letters sent to VMware users, warning that they won't receive new patches or bug fixes unless they continue paying for official support.\n\nBroadcom wants to push every single VMware customer \"owning\" a perpetual license to a new subscription-based contract, and is willing to antagonize the entire VMware userbase to reach this goal. Companies and professionals still using VMware products have recently started receiving a new kind of cease-and-desist letter, with Broadcom asking for new support contracts or even threatening an active \"inquiry\" into users' systems.\n\nThe letters are seemingly targeting VMware customers that acquired a perpetual license before Broadcom digested the virtualization giant. Some organizations are threatened because they chose not to convert the previous license to a subscription, as they are likely looking for alternative solutions or don't want to give in to Broadcom unreasonable requests.\n\nThe wording used by Broadcom in its letters focuses on official support services, which are no longer available if a software product was previously purchased with a perpetual license. Therefore, Broadcom \"demands\" that such customers stop installing new updates to VMware products, including maintenance releases, minor releases, patches, or security fixes. The only exception is about zero-day vulnerabilities for vSphere 7.x and 8.x, Broadcom said, and only when the flaws have a CVSS score greater than or equal to 9.0.\n\nBroadcom now treats patches and bug fixes as part of its official support services, effectively forcing companies to pay for the right to install updates. According to the company, applying a patch without an active subscription violates VMware's software license and infringes on its intellectual property – grounds Broadcom appears willing to pursue in court.\n\nBroadcom has escalated the situation by claiming the right to audit customers, aiming to catch anyone installing official patches on perpetually licensed software without an active support contract. Critics have dubbed these cease-and-desist letters \"nastygrams,\" all signed by Mike Brown, who serves as Broadcom's Managing Director.\n\nDean Colpitts, CTO of Canadian service provider Members IT Group, told Ars Technica some customers received Broadcom's letter shortly after their support contracts expired. While a few organizations pushed back with legal teams, the tactic has spread confusion within online communities about Broadcom's motives.\n\nBroadcom has repeatedly shown a willingness to force a subscription model on most VMware users. The company has imposed steep price hikes and taken legal action against major ICT firms refusing to pay for new support licenses."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": null,
+    "title": "Broadcom Inc. (AVGO): Among Richard Chilton’s Stock Picks with Huge Upside Potential",
+    "description": null,
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_122365b2-42f0-4ba3-84bf-d8cea46de9b0",
+    "urlToImage": null,
+    "publishedAt": "2025-05-07T08:08:35Z",
+    "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "XDA Developers"
+    },
+    "author": "Ayush Pande",
+    "title": "Does the free version of ESXi offer anything more than Proxmox?",
+    "description": "With the free variant of ESXI back in town, is there really a need to migrate from Proxmox?",
+    "url": "https://www.xda-developers.com/does-the-free-version-of-esxi-offer-anything-more-than-proxmox/",
+    "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/proxmox-home-projects.jpg",
+    "publishedAt": "2025-05-11T14:00:19Z",
+    "content": "VMwares ESXi was all the rage in the home server ecosystem a decade ago, with a large chunk of the tinkering community using the hypervisor to manage their virtualization projects. But over the years… [+5677 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Raspberrypi.org"
+    },
+    "author": "Sophie Ashford",
+    "title": "Celebrating young innovators at Coolest Projects USA",
+    "description": "Last month, the Science Museum of Minnesota buzzed with excitement as young tech creators from across the country came together for Coolest Projects USA in a celebration of creativity, curiosity, and coding. Around 40 young people showcased their projects on …",
+    "url": "https://www.raspberrypi.org/blog/celebrating-young-innovators-at-coolest-projects-usa/",
+    "urlToImage": "https://www.raspberrypi.org/app/uploads/2025/05/54475386306_ced29ee009_k-500x334.jpg",
+    "publishedAt": "2025-05-06T12:00:18Z",
+    "content": "Last month, the Science Museum of Minnesota buzzed with excitement as young tech creators from across the country came together for Coolest Projects USA in a celebration of creativity, curiosity, and… [+3879 chars]",
+    "full_content": "Last month, the Science Museum of Minnesota buzzed with excitement as young tech creators from across the country came together for Coolest Projects USA in a celebration of creativity, curiosity, and coding.\n\nAround 40 young people showcased their projects on the day, sharing their work with friends, family, and the wider coding community. With hands-on tech activities, project demonstrations, fun swag, and certificates of achievement, the day was packed with energy and enthusiasm.\n\nCoolest Projects is all about empowering young people to show off what they’ve built, no matter their skill level or experience. From first-time coders to budding engineers, everyone was welcomed and learnt something from the day.\n\nCelebrating impact: Broadcom Foundation Coding with Commitment®\n\nOne of the standout moments was the presentation of the Broadcom Foundation Coding with Commitment® special recognition, which highlights a project that uses code to solve real-world problems.\n\nThe award went to Kaila for her project, Car vs Road, a self-driving car simulation designed to explore how natural disasters like hurricanes, floods, and tornadoes might impact autonomous vehicle technology.\n\n“My project was inspired by Waymo. After hearing about Coolest Projects through the Minnesota State Science and Engineering Fair, I decided to attend — and absolutely loved it! The atmosphere was welcoming, the judges were so involved, and the entire experience was truly unforgettable.” – Kaila, 2025 Coding with Commitment® recipient\n\nBroadcom Foundation’s partnership with Coolest Projects USA highlights how coding can be a powerful tool for tackling global challenges, from health to climate change, and champions digital literacy for all youth.\n\nCelebrating creativity across categories\n\nWith seven categories available for entries, the judges had their work cut out for them choosing their favourite projects. Here are some that captured their attention on the day:\n\nMila | Sports Compilation, Scratch\n\nMila’s project, Sports Compilation, tells a story through animated sports scenes that inspire people to try new things and embrace their rebellious side.\n\n“I wanted to show my mom that I could code — even though I’m not a ‘full-time coder’. I kept working on my original sports scene and added more to create something bigger.”\n\n“My biggest challenge was making it reset automatically. At first, I didn’t understand the instructions I found online, but then I figured out how to use timing and broadcasts to make it work.” “Coolest Projects was so fun, my teacher hyped it up, and it lived up to the excitement!”\n\nEthan | Coding AI to Enhance Speech Therapy\n\nEthan’s project was inspired by his experience with speech therapy. He used machine learning to help people identify and correct different types of incorrect pronunciations of the /s/ sound. Ethan shared his motivations behind attending:\n\n“I went to Coolest Projects USA to get the opportunity to present my work and receive feedback from a large audience of judges, participants, and other viewers on how to improve my project and the presentation of it.”\n\n“I had fun at Coolest Projects USA, seeing the different ways that young people like me are taking advantage of technology to try and help the lives of others, and also seeing the creativity and determination that we have.”\n\nA big thank you\n\nWe want to say a huge thank you to every young creator who presented a project, to the families who cheered them on, and to our amazing volunteers and partners. We also want to give a special shoutout to our sponsors, Broadcom Foundation and Best Buy Inc., for their incredible support. We couldn’t have done it without you.\n\nThank you for making Coolest Projects USA 2025 such a special day!\n\nThere’s still time to get involved with Coolest Projects this year…\n\nIf you missed the event or are feeling inspired, there are still ways to join the Coolest Projects global community!\n\nThe online Coolest Projects showcase is open for entries from young people anywhere in the world. Entries close 28 May.\n\nCoolest Projects UK takes place in Bradford on 17 May. Come along and discover what young people are creating.\n\nPartner events are held around the world — head to the Coolest Projects website to find out more."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BetaNews"
+    },
+    "author": "Sean Tilley",
+    "title": "Overcoming the cloud of uncertainty",
+    "description": "The cloud industry has evolved significantly over the years, with VMware standing out as a key player in cloud computing, its reputation in the market helped it gain significant market share and facilitated a successful acquisition by tech giant Broadcom in N…",
+    "url": "https://betanews.com/2025/05/07/overcoming-the-cloud-of-uncertainty/",
+    "urlToImage": "https://betanews.com/wp-content/uploads/2025/03/Cloud-question-50x50.jpg",
+    "publishedAt": "2025-05-07T13:01:41Z",
+    "content": "The cloud industry has evolved significantly over the years, with VMware standing out as a key player in cloud computing, its reputation in the market helped it gain significant market share and faci… [+6222 chars]",
+    "full_content": "The cloud industry has evolved significantly over the years, with VMware standing out as a key player in cloud computing, its reputation in the market helped it gain significant market share and facilitated a successful acquisition by tech giant Broadcom in November 2023. It has been over a year since this happened and, as with all acquisitions, it prompted companies to consider how it might impact their requirements.\n\nBroadcom implemented several changes to VMware’s cloud offering, including sunsetting the option to buy perpetual VMware in 2024, terminating OEM agreements and ending support contacts. Most recently it announced its licence changes whereby it is raising the minimum core licensing requirements to 72 cores.\n\nWhile these changes have created some uncertainty, they have also driven innovation in the private and hybrid cloud environment, with many organizations looking at VMware based cloud platforms from 3rd party providers to maintain the VMware skills they have in house whilst also reviewing how to innovate in other ways in the cloud and reflecting on what they want from cloud-based solutions.\n\nFactors driving cloud adoption\n\nIn addition to the changes that have unfolded in the cloud industry, the IT landscape has transformed, hybrid work has increased, and organizations have reached an inflection point on their cloud journey.\n\nFirstly, they are starting to recognize the value in AI’s ability to radically improve their business but to benefit from it, they need to modernize the systems that AI programs rely on to work effectively.\n\nAt the same time, the attack surface is rapidly increasing along with the complexity and variety of cyber threats. Companies need robust cyber security strategies to safeguard their core systems and data with advanced security measures and continuous monitoring.\n\nFinally, they are aware that they do not have a large enough IT team and resources to manage the increasingly complex computing, networking and storage environment which includes on-premises, private and public clouds.\n\nThese are the key drivers behind the growth in cloud computing.\n\nBalancing the (hyper)scales\n\nAccording to Grand View Research, in the next five years, the cloud market is expected to reach over £498 billion with a compound annual growth rate (CAGR) of 21.2 percent. To attract and secure some of this market share, hyperscale cloud models are improving their offerings to deliver compelling solutions to organizations across various industries.\n\nCompanies are spoilt for choice when looking to migrate to the cloud, change cloud providers or implement multi-cloud solutions to gain access to vast computing resources and infrastructure to support their data processing, storage, and application needs.\n\nHowever, before migrating, companies must understand how these hyperscale solutions differ to determine which is best for their needs. AWS, for example, is known for its mature and extensive ecosystem, global reach with numerous data centers, and strong community and support network. Microsoft Azure integrates seamlessly with Microsoft products such as Windows Server, Active Directory, and Office 365, making it an attractive choice for enterprises using Microsoft technologies. VMware's extensive ecosystem includes a large network of partners, developers, and users, providing strong support and resources for its solutions.\n\nBased on this, organizations must understand their specific needs and the cloud options that are available to make the right move to the cloud.\n\nKey considerations when moving to the cloud\n\nEvery organization’s optimal cloud journey is unique and must be considered according to various factors including workloads and applications. To get the most out of a cloud solution, companies must consider what each provider offers and then measure this against their specific requirements.\n\nBeyond this initial cloud selection process, organizations also need to consider migrating systems and optimizing the new cloud investment. They should also consider protecting and managing the system in the long term.\n\nRegulation and compliance requirements must also be top of mind to ensure the organization adheres to all regulatory requirements. Finally, the connectivity needs to be robust and secure to ensure that employees can quickly and efficiently access the cloud with minimal disruption.\n\nSilver linings\n\nThe cloud journey can be daunting, even with in-house expertise. However, a Managed Services Provider (MSP) experienced in working across cloud platforms including private and public cloud, can help guide the process.\n\nTo successfully migrate to the cloud, the MSP will develop a strategic approach and evaluate the cloud options, ranging from private to hyperscale cloud solutions, against the organization’s specific needs. They will also plan and predict costs, which often pose the biggest challenges when migrating to a public hyperscale cloud.\n\nAfter migrating to the cloud, MSPs continue to add value by providing ongoing support to optimise cloud performance. This includes monitoring and managing the cloud environment to ensure it meets the company’s performance requirements.\n\nJust as every organization’s needs differ, so too do the cloud offerings available on the market differ from each other. As such, companies must make informed decisions when opting for a cloud solution, whether it be a private cloud or looking at hyperscale cloud solutions.\n\nExperience over the years has shown us that a number of organizations will likely end up with a multi-cloud or hybrid cloud approach as different systems and applications will have different needs. There has been a shift towards more Software-as-a-Service (SaaS) and Platform-as-a-Service (PaaS) as a way of migrating to the cloud, this adds complexities from a resilience perspective, as the cloud is it is not a ‘one size fits all’ solution.\n\nManaging complex multi cloud and hybrid environments can be challenging, navigating this decision with an experienced MSP partner can simplify the process and deliver quality at a better price.\n\nThe evolution of cloud is only set to continue, migrating workloads to the cloud is not a question of if, but when, therefore getting the right cloud for your environment is crucial to ensure the ongoing evolution of business.\n\nImage Credit: Frenta / Dreamstime.com\n\nSean Tilley is Senior Director of Sales of EMEA at 11:11 Systems"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "barrons.com",
+    "title": "Nvidia and 29 Other Stocks to Play AI",
+    "description": "",
+    "url": "https://biztoc.com/x/0f55fb26e90e102b",
+    "urlToImage": "https://biztoc.com/cdn/0f55fb26e90e102b_s.webp",
+    "publishedAt": "2025-05-08T19:38:56Z",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Bitcoin surpass $100K today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will US-UK trade deal affect tar… [+881 chars]",
+    "full_content": ""
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Securityaffairs.com"
+    },
+    "author": "Pierluigi Paganini",
+    "title": "U.S. CISA adds GoVision device flaws to its Known Exploited Vulnerabilities catalog",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds GoVision device flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Qualitia Active! Mail, Broadcom Brocade Fabric OS, a…",
+    "url": "https://securityaffairs.com/177599/security/u-s-cisa-adds-govision-device-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+    "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+    "publishedAt": "2025-05-08T08:04:03Z",
+    "content": "U.S. CISA adds GoVision device flaws to its Known Exploited Vulnerabilities catalog\r\n | Polish authorities arrested 4 people behind DDoS-for-hire platforms\r\n | Play ransomware affiliate leveraged zer… [+162445 chars]",
+    "full_content": "U.S. CISA adds GoVision device flaws to its Known Exploited Vulnerabilities catalog\n\nPierluigi Paganini May 08, 2025 May 08, 2025\n\nU.S. Cybersecurity and Infrastructure Security Agency (CISA) adds GoVision device flaws to its Known Exploited Vulnerabilities catalog.\n\nThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities (KEV) catalog.\n\nBelow are the descriptions for these flaws:\n\nCVE-2024-6047 (CVSS score 9.8) GeoVision Devices OS Command Injection Vulnerability. Multiple EOL GeoVision devices fail to properly filter user input for the specific functionality. An unauthenticated remote attacker can exploit the CVE-2024-6047 vulnerability to inject and execute arbitrary system commands on the device.\n\nCVE-2024-11120 (CVSS score 9.8) GeoVision Devices OS Command Injection Vulnerability. An unauthenticated remote attacker can exploit this vulnerability to inject and execute arbitrary system commands on the device. The vulnerability has already been exploited by attackers in the wild. In November 2024, researchers at the Shadowserver Foundation observed a botnet exploiting the zero-day flaw CVE-2024-11120 in GeoVision EOL (end-of-Life) devices to compromise devices in the wild. The GeoVision zero-day CVE-2024-11120 (CVSS 9.8) is a pre-auth command injection vulnerability that was discovered by Shadowserver Foundation and verified with the help of TWCERT. The vulnerability impacts the following EoL products: GV-VS12, GV-VS11, GV-DSP_LPR_V3, GVLX 4 V2, GVLX 4 V3. “Certain EOL GeoVision devices have an OS Command Injection vulnerability. Unauthenticated remote attackers can exploit this vulnerability to inject and execute arbitrary system commands on the device.” reads the advisory published by TWCERT. “Moreover, this vulnerability has already been exploited by attackers, and we have received related reports.” The botnet was used to carry out DDoS or cryptomining attacks. According to Shadowserver Foundation, there were approximately 17,000 Internet-facing GeoVision devices vulnerable to the CVE-2024-11120 zero-day. Unfortunately, the number of Internet-facing GeoVision devices vulnerable to the CVE-2024-11120 zero-day, is still high. Most of the exposed devices are based in the United States (8,720), followed by Germany (1,518), Taiwan (789), and Canada (761).\n\nAccording to Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities, FCEB agencies have to address the identified vulnerabilities by the due date to protect their networks against attacks exploiting the flaws in the catalog.\n\nExperts also recommend private organizations review the Catalog and address the vulnerabilities in their infrastructure.\n\nCISA orders federal agencies to fix the vulnerabilities by May 28, 2025.\n\nFollow me on Twitter: @securityaffairs and Facebook and Mastodon\n\nPierluigi Paganini\n\n(SecurityAffairs – hacking, CISA)"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "benzinga.com",
+    "title": "Here's How Much You Would Have Made Owning Broadcom Stock In The Last 15 Years",
+    "description": "Broadcom (NASDAQ:AVGO) has outperformed the market over the past 15 years by 24.81% on an annualized basis producing an average annual return of 36.07%. Currently, Broadcom has a market capitalization of $978.01 billion. \nBuying $1000 In AVGO: If an ...\nFull …",
+    "url": "https://biztoc.com/x/2a0b2dd8613fa7fd",
+    "urlToImage": "https://biztoc.com/cdn/2a0b2dd8613fa7fd_s.webp",
+    "publishedAt": "2025-05-09T23:38:08Z",
+    "content": "Broadcom (NASDAQ:AVGO) has outperformed the market over the past 15 years by 24.81% on an annualized basis producing an average annual return of 36.07%. Currently, Broadcom has a market capitalizatio… [+147 chars]",
+    "full_content": "Broadcom (NASDAQ:AVGO) has outperformed the market over the past 15 years by 24.81% on an annualized basis producing an average annual return of 36.07%. Currently, Broadcom has a market capitalization of $978.01 billion.\n\nBuying $1000 In AVGO: If an ...\n\nFull story available on Benzinga.com\n\nThis story appeared on benzinga.com , 2025-05-09 23:30:16."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Internet"
+    },
+    "author": "info@thehackernews.com (The Hacker News)",
+    "title": "OtterCookie v4 Adds VM Detection and Chrome, MetaMask Credential Theft Capabilities",
+    "description": "The North Korean threat actors behind the Contagious Interview campaign have been observed using updated versions of a cross-platform malware called OtterCookie with capabilities to steal credentials from web browsers and other files.\nNTT Security Holdings, w…",
+    "url": "https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html",
+    "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnbBFETgOTBltmYR4p4Hz9Lu_2-lzDfvaza03-i3ZqF7I4tXdjUsdb-nkKPa0W5FP-rk4a9ZHiwXRuG50WHSnQp8nxDVCIgaHmo4hWO5Fay8eNutygWhbOC_TmvXplMUZ3hk7sb3mP6DxSnmgM3thiqzoSKoN-h4R_sY4Rp8Ohhc0Huiffzpaf6t8LUAq/s728-rw-e365/browser-malware.jpg",
+    "publishedAt": "2025-05-09T16:25:00Z",
+    "content": "The North Korean threat actors behind the Contagious Interview campaign have been observed using updated versions of a cross-platform malware called OtterCookie with capabilities to steal credentials… [+8347 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "finance.yahoo.com",
+    "title": "Well-Known Investor Cuts His Stakes in NVDA, AVGO, AAPL",
+    "description": "In This Article:\nProminent investor Bill Baruch yesterday told CNBC that he had reduced his stakes in Nvidia (NVDA), Broadcom (AVGO), and Apple (AAPL). Baruch, the founder and president of Blue Line Futures, cited several reasons for his moves, including spec…",
+    "url": "https://biztoc.com/x/2fc288065883a24d",
+    "urlToImage": "https://biztoc.com/cdn/2fc288065883a24d_s.webp",
+    "publishedAt": "2025-05-07T15:50:12Z",
+    "content": "In This Article:Prominent investor Bill Baruch yesterday told CNBC that he had reduced his stakes in Nvidia (NVDA), Broadcom (AVGO), and Apple (AAPL). Baruch, the founder and president of Blue Line F… [+149 chars]",
+    "full_content": "In This Article:\n\nProminent investor Bill Baruch yesterday told CNBC that he had reduced his stakes in Nvidia (NVDA), Broadcom (AVGO), and Apple (AAPL). Baruch, the founder and president of Blue Line Futures, cited several reasons for his moves, including speculation about tariffs being…\n\nThis story appeared on finance.yahoo.com , 2025-05-07 15:41:34."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BetaNews"
+    },
+    "author": "Brian Fagioli",
+    "title": "Donald Trump secures China trade deal that may ease smartphone and PC prices",
+    "description": "President Trump just pulled off what might be one of the biggest wins of his second term, and it could have major implications for the tech world. After some high-stakes negotiations in Geneva, the United States and China have struck a trade deal that could r…",
+    "url": "https://betanews.com/2025/05/11/donald-trump-secures-china-trade-deal-that-may-ease-smartphone-and-pc-prices/",
+    "urlToImage": "https://betanews.com/wp-content/uploads/2025/05/Don-Trump-wins-again--50x50.png",
+    "publishedAt": "2025-05-11T21:02:38Z",
+    "content": "President Trump just pulled off what might be one of the biggest wins of his second term, and it could have major implications for the tech world. After some high-stakes negotiations in Geneva, the U… [+2054 chars]",
+    "full_content": "President Trump just pulled off what might be one of the biggest wins of his second term, and it could have major implications for the tech world. After some high-stakes negotiations in Geneva, the United States and China have struck a trade deal that could reshape the global electronics industry. While the full details should be revealed tomorrow, what we know today already has industry insiders buzzing.\n\nTreasury Secretary Scott Bessent and U.S. Trade Representative Jamieson Greer both confirmed that meaningful progress was made, thanks in part to the productive setting provided by the Swiss. But let’s not kid ourselves; this deal wasn’t born in the Alps.\n\nThis deal was clearly the result of a long-term strategy from President Trump, who took a lot of heat early on for slapping tariffs on Chinese goods and declaring a national emergency over the country’s enormous $1.2 trillion trade deficit. At the time, critics called it reckless. Now, it looks more like Donald Trump was playing chess while others were busy playing Chinese checkers.\n\nFor the tech industry, this could be huge. With tariffs possibly being reduced or eliminated on electronics and components, companies like Apple, HP, Lenovo, and Dell may finally see some relief. That could mean smoother production, cheaper parts, and maybe even more competitive pricing for laptops, smartphones, and other gadgets. Chipmakers like Qualcomm and Broadcom, who rely heavily on Chinese factories and suppliers, could also benefit from fewer restrictions and lower costs.\n\nIt’s also possible this opens the door for a more aggressive return of Chinese smartphone brands to the U.S. market -- brands like Xiaomi, OnePlus, and even Huawei. Whether national security politics allows that to happen is another story, but the trade pathways could be there now in a way they haven’t been for years. I won’t hold my breath on this one, however.\n\nLook, folks, this was always about forcing China to the table and coming away with terms that could finally start to correct the trade imbalance. Trump said he would get tough on China. Now it looks like he did just that. The rest of the world will get the full picture tomorrow, but for now, it sure seems like the U.S. president just changed the game."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizchina.com"
+    },
+    "author": "Abdullah Mustapha",
+    "title": "Apple teams up with Broadcom to develop powerful AI server chip",
+    "description": "Apple and Broadcom joined forces to create a new server processor dubbed Baltra. The chip is meant for workloads that employ artificial intelligence (AI) and ...\nThe post Apple teams up with Broadcom to develop powerful AI server chip appeared first on Gizchi…",
+    "url": "https://www.gizchina.com/2025/05/12/apple-teams-up-with-broadcom-to-develop-powerful-ai-server-chip/",
+    "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2024/11/Apple-Company.jpg",
+    "publishedAt": "2025-05-12T10:52:04Z",
+    "content": "Apple and Broadcom joined forces to create a new server processor dubbed Baltra. The chip is meant for workloads that employ artificial intelligence (AI) and managing big data. The chip represents a … [+2467 chars]",
+    "full_content": "Apple and Broadcom joined forces to create a new server processor dubbed Baltra. The chip is meant for workloads that employ artificial intelligence (AI) and managing big data. The chip represents a major milestone in Apple’s journey in the data center segment.\n\nApple Merges with Broadcom on High-End AI Server Chip\n\nAccording to Bloomberg, the Baltra chip will power the services that are hosted on Apple’s AI platform, which is referred to as Apple Intelligence. It will not only deliver high-performance CPUs. It will also feature custom AI accelerators to manage complex machine learning tasks. They can consist of custom tensor and matrix units, which are commonly used in AI models.\n\nApple is experimenting with different versions of the chip. They have between two to eight times the number of cores available in the current M3 Ultra chip. This implies that Baltra would be much more powerful than Apple’s existing chips.\n\nOne of the most impressive things about Baltra is that it uses High Bandwidth Memory (HBM). This is quite a new memory technology that allows for faster data transfer. It is most suitable for applications that require good performance and efficiency.\n\nBaltra will also be scalable in its design. This will enable it to be deployed in all the data centers, from small setups to systems at an enormous level. Its modularity may also enable Apple to compete in the growing market for AI and cloud computing.\n\nApple and Broadcom Collaborate on Powerful New Server Chip Designed for AI and Data Centers\n\nThe chip is not yet complete. Apple will release it later in 2027. But the company has other chip projects beyond Baltra. Apple is also designing new processors for future Macs and iPads.\n\nBy designing its own server chips, Apple desires more control over its technology. That can lead to better performance, power management, and enhanced security. It also reduces reliance on outside chipmakers.\n\nThe partnership with Broadcom is noteworthy. Broadcom knows networking and chip making. The two companies together want to create a server chip that will be capable of servicing the requirements of future AI systems.\n\nApple entering this space means that it’s not just consumer electronics for it. It likes to get more involved in AI and cloud infrastructure too.\n\nWhat are your thoughts on Apple’s chip strategy? Will it go well in the data center market?"
+  }
+]

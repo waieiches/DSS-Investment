@@ -1,0 +1,282 @@
+[
+  {
+    "source": {
+      "id": null,
+      "name": "Slashdot.org"
+    },
+    "author": "msmash",
+    "title": "IBM CEO Says AI Has Replaced Hundreds of Workers But Created New Programming, Sales Jobs",
+    "description": "IBM CEO Arvind Krishna said the tech giant has used AI, and specifically AI agents, to replace the work of a couple hundred human resources workers. As a result, it has hired more programmers and salespeople, he said. From a report: Krishna's comments on Mond…",
+    "url": "https://slashdot.org/story/25/05/07/143250/ibm-ceo-says-ai-has-replaced-hundreds-of-workers-but-created-new-programming-sales-jobs",
+    "urlToImage": "https://a.fsdn.com/sd/topics/ibm_64.png",
+    "publishedAt": "2025-05-07T14:03:00Z",
+    "content": "Krishna's comments on Monday come as businesses sort through the workforce impacts of AI and AI agents, the independent bots that can autonomously perform tasks like analyze spreadsheets, conduct res… [+491 chars]",
+    "full_content": "IBM CEO Arvind Krishna said the tech giant has used AI, and specifically AI agents, to replace the work of a couple hundred human resources workers . As a result, it has hired more programmers and salespeople, he said. From a report:"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hackaday"
+    },
+    "author": "Jenny List",
+    "title": "Another Old ThinkPad Gets A New Motherboard",
+    "description": "The Thinkpad line of laptops, originally from IBM, and then from Lenovo, have long been the choice of many in our community. They offer a level of robustness and reliability missing in many cheaper…",
+    "url": "https://hackaday.com/2025/05/10/another-old-thinkpad-gets-a-new-motherboard/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2025/05/thinkpad-mb-featured.jpg",
+    "publishedAt": "2025-05-11T05:00:09Z",
+    "content": "The Thinkpad line of laptops, originally from IBM, and then from Lenovo, have long been the choice of many in our community. They offer a level of robustness and reliability missing in many cheaper m… [+1017 chars]",
+    "full_content": "The Thinkpad line of laptops, originally from IBM, and then from Lenovo, have long been the choice of many in our community. They offer a level of robustness and reliability missing in many cheaper machines. You may not be surprised to find that this article is being written on one. With such a following, it’s not surprising that a significant effort has gone into upgrading older models. For example, we have [Franck Deng]’s new motherboard for the Thinkpad X200 and X201. These models from the end of the 2000s shipped as far as we can remember with Core 2 Duo processors, so we can imagine they would be starting to feel their age.\n\nIt’s fair to say the new board isn’t a cheap option, but it does come with a new Core Ultra 7 CPU, DDR5 memory, M.2 interfaces for SSDs alongside the original 2.5″ device, and USB-C with Thunderbolt support. There are a range of screen upgrade options. For an even more hefty price, you can buy a completely rebuilt laptop featuring the new board. We’re impressed with the work, but we have to wonder how it would stack up against a newer Thinkpad for the price.\n\nIf you’re curious to see more of the same, this isn’t the first such upgrade we’ve seen.\n\nThanks [Max] for the tip."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Theregister.com"
+    },
+    "author": "Tobias Mann",
+    "title": "Cerebras CEO actually finds common ground with Nvidia as startup notches IBM win",
+    "description": "Feldman calls US's AI Diffusion rules ‘bad policy’\nCerebras Systems' dinner-plate-sized chips currently power the latest AI inference offerings from Meta and, soon, those of IBM, but US trade policy weighs heavy on its prospects worldwide.…",
+    "url": "https://www.theregister.com/2025/05/06/cerebras_ceo_blasts_us_trade/",
+    "urlToImage": "https://regmedia.co.uk/2021/03/30/cerebras_cs1.png",
+    "publishedAt": "2025-05-06T14:00:08Z",
+    "content": "Cerebras Systems' dinner-plate-sized chips currently power the latest AI inference offerings from Meta and, soon, those of IBM, but US trade policy weighs heavy on its prospects worldwide.\r\n\"The [AI]… [+5796 chars]",
+    "full_content": "Cerebras Systems' dinner-plate-sized chips currently power the latest AI inference offerings from Meta and, soon, those of IBM, but US trade policy weighs heavy on its prospects worldwide.\n\n\"The [AI] diffusion rule is bad policy,\" CEO Andrew Feldman said during a press conference ahead of IBM's annual Think conference, which kicked off on Tuesday.\n\nThese and other AI-related rules, set to go into effect later this month unless the Trump administration intervenes, were put forward in the final hours of former President Joe Biden's first term and seek to limit the sale of American GPUs and AI accelerators outside the US and a select few allies.\n\nOne of the goals of the policy is to prevent China and other nations barred from getting around the bans by buying American accelerators directly from using countries where they are legal.\n\nYet while some AI startups have called for even tougher controls on AI exports, US chip companies aren't a fan. Last week, Nvidia CEO Jensen Huang, whose GPU empire stands to lose the most from the rules, called on the Trump administration to revise them.\n\nEssentially, the diffusion rule would impose strict export controls and offer only a small allocation of chips per year for every country except 18 favored nations that are considered allies of the US. Chipmakers would prefer if the government did not dictate exactly how many items they can sell to whom, as it caps the total addressable market. In the past, the government has handled security concerns by adding specific countries to the US Entities list, which then requires vendors to obtain special licenses to do business with those countries.\n\nFeldman is no fan of Nvidia, and previously accused the company of \"arming\" China by continuing to build and sell sanctions-compliant accelerators for the Middle Kingdom. But here, he agrees the diffusion rule is too strict. And, he points out, so do a lot of other big players in tech.\n\n\"You know how hard it is to get me and Nvidia and Oracle and Google and Amazon and Microsoft to agree on something. It's really hard to get an entire industry of competitors to agree on something and that policy was not good policy,\" he said.\n\n\"What we want is US exports, including technology exports in the hands of our allies, and we want to support US companies while they do that. We want reasonable safeguards to make sure that the equipment doesn't end up in China or being used by the Chinese. We want real penalties if companies turn a blind eye to their equipment being used by Chinese or other adversaries.\" Feldman added. \"I don't think those goals were achieved by the diffusion rules, and I think we can do better.\"\n\nFeldman acknowledged the difficulty faced by the US Commerce Department in crafting trade policy that protects American interests without infringing on a US company's ability to do business worldwide.\n\n\"I'm hoping we roll back to more thoughtful policy, not to no policy,\" he said.\n\nFeldman is less concerned about the impact of tariffs on supply chains. This is, in part, because Cerebras' dinner plate sized chips are fabbed at TSMC, but critically, Feldman says, don't rely on Chinese components.\n\n\"I will say that uncertainty and surprises are challenging, and those are hard on everybody's supply chain,\" he said. \"You buy sub-assemblies, you buy things from other people, and someone's got to figure out whether this bit was made in Mexico or Malaysia or in Austin, right? And that takes an enormous amount of time and effort.\n\n\"[G]ive us some heads up, and at least we're not running around like chickens without our heads, trying to figure out what to charge,\" he said, adding that the added cost ultimately gets passed along to the end customer.\n\nHigher component costs are potentially problematic for Cerebras going forward as the company's business model, at least for inference, already relies on customers being willing to pay a premium for its speed advantage in generation. The folks at Artificial Analysis have clocked Cerebras running the Llama 4 Scout at over 2,600 tokens a second, well ahead of GPU-based API providers like Fireworks or Together.ai, which top out at around 130 tokens per second. But while miles faster than the competition, it's also among the most expensive.\n\nHowever, that's a price many are willing to pay, as we saw with IBM's tie-up with Cerebras on Tuesday. Big Blue's Watson-X AI Gateway is set to run, at least in part, on Cerebras' wafer-scale accelerators.\n\nI will say that uncertainty and surprises are challenging, and those are hard on everybody's supply chain... If you give us some heads up, and at least we're not running around like chickens without our heads, trying to figure out what to charge\n\nBut before you get too carried away, IBM isn't deploying clusters of Cerebras CS-3s. The agreement closely mirrors its collab with Hugging Face, and will see Big Blue provide a common API interface and billing platform with the actual inference workloads running in Cerebras datacenters.\n\nToday's announcement comes a week after Cerebras notched another win, when Meta confirmed at least a portion of its new Llama API service would run Cerebras hardware as well.\n\nThese wins serve to diversify the company's customer base. Until recently, it was extremely dependent on United Arab Emirates-based AI cloud provider G42, which accounted for 87 percent of its revenues in the first half of 2024.\n\nThe UAE is one of several nations in the Middle East where shipments of American-designed AI accelerators remain heavily restricted. G42 has been able to sidestep many of these challenges by financing the construction of several Cerebras AI supercomputers, in the US.\n\nAnd despite rumors the Trump administration may loosen restrictions on AI accelerators to the UAE, the country would still be subject to AI diffusion rule limits on compute unless the Trump administration moves to scrap them. That's one likely reason why G42 has reportedly</a incorporated a US division. ®"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Techmeme.com"
+    },
+    "author": null,
+    "title": "An IBM survey of 2,000 CEOs finds that only 25% of AI initiatives have delivered expected ROI over the last few years, and only 16% have scaled enterprise wide (Tobias Mann/The Register)",
+    "description": "Tobias Mann / The Register:\nAn IBM survey of 2,000 CEOs finds that only 25% of AI initiatives have delivered expected ROI over the last few years, and only 16% have scaled enterprise wide  —  Just 1 in 4 bets paying off so far  —  Only a quarter of AI initiat…",
+    "url": "https://www.techmeme.com/250508/p10",
+    "urlToImage": "https://regmedia.co.uk/2025/05/06/fomo.jpg",
+    "publishedAt": "2025-05-08T07:35:01Z",
+    "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 3:35 AM ET, May 8, 2025.\r\nThe most current version of the site as always is available at our home page.\r\nTo view a… [+65 chars]",
+    "full_content": "About This Page\n\nThis is a Techmeme archive page. It shows how the site appeared at 9:35 AM ET, May 8, 2025.\n\nThe most current version of the site as always is available at our home page. To view an earlier snapshot click here and then modify the date indicated."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "kottke.org"
+    },
+    "author": "Jason Kottke",
+    "title": "16-bit Intel 8088 Chip by Charles Bukowski",
+    "description": "Today I learned that Charles Bukowski, “laureate of American lowlife”, wrote about the incompatibilities of early comp",
+    "url": "https://kottke.org/25/05/16-bit-intel-8088-chip-by-charles-bukowski",
+    "urlToImage": "",
+    "publishedAt": "2025-05-09T15:54:27Z",
+    "content": "Today I learned that Charles Bukowski, “laureate of American lowlife”, wrote about the incompatibilities of early computing platforms in a poem called 16-bit Intel 8088 Chip:\n\n16-bit Intel 8088 chip\r… [+697 chars]",
+    "full_content": "16-bit Intel 8088 Chip by Charles Bukowski\n\nToday I learned that Charles Bukowski, “laureate of American lowlife”, wrote about the incompatibilities of early computing platforms in a poem called 16-bit Intel 8088 Chip:\n\n16-bit Intel 8088 chip with an Apple Macintosh\n\nyou can’t run Radio Shack programs\n\nin its disc drive.\n\nnor can a Commodore 64\n\ndrive read a file\n\nyou have created on an\n\nIBM Personal Computer.\n\nboth Kaypro and Osborne computers use\n\nthe CP/M operating system\n\nbut can’t read each other’s\n\nhandwriting\n\nfor they format (write\n\non) discs in different\n\nways.\n\nthe Tandy 2000 runs MS-DOS but\n\ncan’t use most programs produced for\n\nthe IBM Personal Computer\n\nunless certain\n\nbits and bytes are\n\naltered\n\nbut the wind still blows over\n\nSavannah\n\nand in the Spring\n\nthe turkey buzzard struts and\n\nflounces before his\n\nhens.\n\nLovely. And accurate. And somehow even maybe profound? (via sing, memory)"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Michael Barclay",
+    "title": "Cisco enters the quantum race",
+    "description": "Cisco Systems (CSCO) became the latest tech company to announce a new quantum computing chip, following similar announcements in the last six months from Google, IBM, and Microsoft. With each new development, the timeline for the technology to scale up and se…",
+    "url": "https://qz.com/quantum-computing-chip-cisco-systems-1851779544",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e095aba97ec93189fa0e4ec21f2463d9.jpg",
+    "publishedAt": "2025-05-07T16:20:00Z",
+    "content": "In This Story\r\nCisco Systems (CSCO) became the latest tech company to announce a new quantum computing chip, following similar announcements in the last six months from Google, IBM, and Microsoft. Wi… [+2511 chars]",
+    "full_content": "Cisco Systems (CSCO-0.12% ) became the latest tech company to announce a new quantum computing chip, following similar announcements in recent months from Google, IBM, and Microsoft. With each new development, the timeline for the technology to scale up and see use in real-world situations gets shorter and shorter.\n\nHow Trump’s tariffs could make your iPhone cost $3,500 CC Share Subtitles Off\n\nEnglish view video How Trump’s tariffs could make your iPhone cost $3,500\n\nHow Trump’s tariffs could make your iPhone cost $3,500 CC Share Subtitles Off\n\nEnglish How Trump’s tariffs could make your iPhone cost $3,500\n\nWhile Nvidia (NVDA-1.54% ) CEO Jensen Huang said in January that quantum computing would not be usable for at least 20 years — which sent stocks of quantum companies tumbling — Cisco and others say the revolution might begin as early as 2030.\n\nAdvertisement\n\nOne Cisco exec said that quantum is about to have its “ChatGPT moment,” at which point skeptics recognize the exponential advances and practical uses of a once-fantastical technology. Of course, skepticism remains.\n\nAdvertisement\n\nCisco’s contribution to the sector is its new entanglement source chip, revealed yesterday. Entanglement is when two particles are connected even over a vast range, via quantum teleportation. Albert Einstein called this “spooky action at a distance.” Cisco claimed its chip generates up to one million entangled photon pairs per second, at room temperature, meaning less energy use.\n\nAdvertisement\n\nThe company also said the chip is compatible with existing fiber-optic infrastructure and uses less than one megawatt of power; traditional supercomputers use upwards of 30 megawatts. Cisco’s chip “enables quantum networks to scale,” the company said in a press release.\n\nIt’s that vendor-agnostic network that the company aims to assist all companies building quantum processors: “By building this infrastructure now, Cisco is helping to accelerate the entire quantum ecosystem,” it said. “This approach mirrors Cisco’s historical strength in networking—we don’t need to pick winners because we’re building the networking fabric that will enable various quantum technologies to scale.”\n\nAdvertisement\n\nQuantum technology runs on qubits — as opposed to traditional bits in coding — and the challenge is to use more qubits, which are incredibly fragile and susceptible to interference, while reducing errors. Quantum-error correction has been the industry’s biggest challenge for the past 30 years.\n\nIBM’s (IBM+0.27% ) chips have more qubits than Google’s (GOOGL-1.57% ) but the latter claims their chips are more reliable — even while using more qubits. Microsoft (MSFT-0.92% ) announced its own quantum chip in February, using fewer qubits and again claiming it was less error-prone than competitors’.\n\nAdvertisement\n\nPotential uses of quantum technology include the development of energy alternatives, new drugs, and superior battery power.\n\nIt also raises serious cybersecurity concerns, with its ability to break through data encryption.\n\n\n\nAdvertisement\n\nCisco also announced it’s opening a quantum lab in Santa Monica, California.\n\n\n\n"
+  },
+  {
+    "source": {
+      "id": "techradar",
+      "name": "TechRadar"
+    },
+    "author": "waynewilliams@onmail.com (Wayne Williams)",
+    "title": "The Gr-AI-m Reaper: Hundreds of jobs at IBM and Crowdstrike vanish as artificial intelligence makes humans more dispensable",
+    "description": "CrowdStrike and IBM lay off hundreds of human workers as AI takes over critical tasks once handled by people.",
+    "url": "https://www.techradar.com/pro/security/the-gr-ai-m-reaper-hundreds-of-jobs-at-ibm-and-crowdstrike-vanish-as-artificial-intelligence-makes-humans-more-dispensable",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/7YSmYZCfTNzJeivwGhrD9L.png",
+    "publishedAt": "2025-05-10T17:32:00Z",
+    "content": "<ul><li>AI threatens jobs across sectors from routine work to skilled professions</li><li>CrowdStrike cuts 500 jobs citing efficiency and AI-driven restructuring</li><li>IBM uses AI to streamline HR … [+2955 chars]",
+    "full_content": "AI threatens jobs across sectors from routine work to skilled professions\n\nCrowdStrike cuts 500 jobs citing efficiency and AI-driven restructuring\n\nIBM uses AI to streamline HR while increasing hires in tech roles\n\nMany people worry the rise of AI and robotics could lead to job losses, as machines become increasingly capable of performing tasks faster, cheaper, and more accurately than humans, concerns have grown about the long-term impact on employment, wages, and job security.\n\nEven skilled professions, such as those in healthcare, finance, law, and technology, may not be immune. The growing capabilities of AI suggest that no sector is entirely safe from disruption.\n\nThese concerns are no longer hypothetical, they're becoming reality for some IT workers, after CrowdStrike recently announced it is cutting 500 jobs, which equates to around 5% of its workforce.\n\nRealigning the business\n\nIn a memo announcing the cuts, the security firm's CEO George Kurtz said, “CrowdStrike is defined by our mission to stop breaches, our disciplined execution, and our commitment to protecting customers.\"\n\n\"Today, our customers are facing an intensifying threat landscape and growing complexity. They trust us to help them move faster and operate more securely. To keep earning that trust, we are evolving how we operate.\"\n\nExplained the company would be \"realigning\" parts of the business \"to continue scaling with focus and discipline\" and explained that: “AI has always been foundational to how we operate. AI flattens our hiring curve, and helps us innovate from idea to product faster. It streamlines go-to-market, improves customer outcomes, and drives efficiencies across both the front and back office. AI is a force multiplier throughout the business.”\n\nCrowdStrike isn’t the only tech firm cutting jobs because of AI.\n\nAre you a pro? Subscribe to our newsletter Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed! Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors\n\nThe Wall Street Journal reports IBM has, “used artificial intelligence, and specifically AI agents, to replace the work of a couple hundred human resources workers.”\n\nHowever, as a result of these cuts, it was able to hire more programmers and sales and marketing people.\n\n“While we have done a huge amount of work inside IBM on leveraging AI and automation on certain enterprise workflows, our total employment has actually gone up, because what it does is it gives you more investment to put into other areas,” IBM CEO Arvind Krishna told the publication.\n\nSo while AI might be taking some people’s jobs, it’s resulting in an increase of opportunities in other areas.\n\nKrishna also urged the Trump administration to increase, rather than cut, federal AI R&D funding, telling TechCrunch:\n\n“We have been an extremely strong advocate - and this is both the company and me personally - on that federally funded R&D should be increased. That’s the position, which is unequivocal, and we strongly believe in that.”"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Osnews.com"
+    },
+    "author": "Thom Holwerda",
+    "title": "IBM unveils the LinuxONE Emperor 5",
+    "description": "Following the recent release of the IBM z17 mainframe, IBM today unveiled the LinuxONE Emperor 5, which packs much of the same hardware as the z17, but focused on Linux use. Today we’re announcing IBM LinuxONE 5, performant Linux computing platform for data, …",
+    "url": "https://www.osnews.com/story/142287/ibm-unveils-the-linuxone-emperor-5/",
+    "urlToImage": null,
+    "publishedAt": "2025-05-06T20:23:44Z",
+    "content": "Following the recent release of the IBM z17 mainframe, IBM today unveiled the LinuxONE Emperor 5, which packs much of the same hardware as the z17, but focused on Linux use.\r\nToday we’re announcing I… [+711 chars]",
+    "full_content": "Following the recent release of the IBM z17 mainframe, IBM today unveiled the LinuxONE Emperor 5, which packs much of the same hardware as the z17, but focused on Linux use.\n\nToday we’re announcing IBM LinuxONE 5, performant Linux computing platform for data, applications and your trusted AI, powered by the IBM Telum II processor with built-in AI acceleration. This launch comes at a pivotal time, as technology leaders focus on three critical imperatives: enabling security, improving cost-efficiency, and integrating AI into enterprise systems. ↫ Marcel Mitran and Tina Tarquinio\n\nYes, much like the z17, the LinuxONE 5 is a huge “AI” buzzword bonanza, but that’s to be expected in this day and age. The LinuxONE 5, which, again, few of us will ever get to work with, officially supports Red Hat, OpenSUSE, and Ubuntu, but a variety of other Linux distributions offers support for IBM’s Z hardware, as well."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "247wallst.com",
+    "title": "IBM Is America’s Worst Tech Company",
+    "description": "International Business Machines Corporation (NYSE: IBM) was one of America’s greatest, if not its greatest, tech companies. Founded in 1911, it had among the most outstanding CEOs in tech history, led by Thomas J. Watson and Louis V. Gerstner, Jr. In 1980, it…",
+    "url": "https://biztoc.com/x/b23ff706be9896ea",
+    "urlToImage": "https://biztoc.com/cdn/931/og.png",
+    "publishedAt": "2025-05-10T15:32:57Z",
+    "content": "International Business Machines Corporation (NYSE: IBM) was one of Americas greatest, if not its greatest, tech companies. Founded in 1911, it had among the most outstanding CEOs in tech history, led… [+145 chars]",
+    "full_content": "International Business Machines Corporation (NYSE: IBM) was one of America’s greatest, if not its greatest, tech companies. Founded in 1911, it had among the most outstanding CEOs in tech history, led by Thomas J. Watson and Louis V. Gerstner, Jr. In 1980, it ranked No.4 on the Fortune…\n\nThis story appeared on 247wallst.com , 2025-05-10 14:02:34."
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Dan DeFrancesco",
+    "title": "AI engines are starting to challenge Google's search dominance",
+    "description": "AI tools like ChatGPT and Perplexity AI are coming for traditional search engines.",
+    "url": "https://www.businessinsider.com/ai-engines-google-search-dominance-openai-chatgpt-2025-5",
+    "urlToImage": "https://i.insider.com/681c911aa466d2b74ab55c1f?width=1200&format=jpeg",
+    "publishedAt": "2025-05-08T12:15:01Z",
+    "content": "illustration by Cheng Xin/Getty Images\r\n<ul><li>This post originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>… [+7199 chars]",
+    "full_content": "This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.\n\nHappy almost Friday! Some good news this morning: A cheap, widely-prescribed diabetes drug is showing some promise in preventing colon cancer .\n\nIn today's big story, Google's stock tanked after an Apple exec said AI engines are starting to challenge the search engine's dominance .\n\nIf you haven't subscribed to our new newsletter Tech Memo , what are you waiting for?\n\nWhat's on deck\n\nMarkets: Trump teases first 'major trade deal' — and it's set to be with the UK .\n\nTech: Big Tech is all about rewarding its stars and getting rid of everyone else .\n\nBusiness: People are fed up with companies' ' bait and switch pricing .'\n\nBut first, can you Google ChatGPT this?\n\nIf this was forwarded to you, sign up here.\n\nThe big story\n\nSearch and destroy\n\nGonzalo Fuentes/REUTERS\n\nAI giveth, and AI taketh.\n\nGoogle seems to be learning that the hard way, as the new tech is gaining ground on one of its crown jewels.\n\nApple executive Eddy Cue said searches on its Safari browser shrank for the first time last month, and he's pointing the finger at AI engines , writes BI's Peter Kafka.\n\nCue also said AI tools like OpenAI and Perplexity AI would eventually supplant traditional search engines, and Apple will offer them to Safari users in the future.\n\nGoogle investors took the news hard, with shares dropping more than 8% on Wednesday.\n\nCue has a vested interest in Google's search business, since Google pays Apple at least $20 billion a year to make its search engine the default on the iPhone . Still, in theory, Apple might be able to replace some or all of that money with payments from the OpenAIs of the world.\n\n(Cue's comments came while testifying in the federal antitrust suit against Google's parent company, Alphabet. When it rains, it pours.)\n\nThe AI boom obviously hasn't been all bad for Google. The interest in the tech gave it the green light to invest billions in new development. The results weren't always great , but it largely seems happy with the progress made on things like its AI Overviews .\n\nBut as much as it tries to reshape itself, the progress made by its younger, smaller AI rivals is becoming undeniable.\n\nillustration by Cheng Xin/Getty Images\n\nIt's not just the new kids on the block enjoying the AI revolution.\n\nA very, very old player has newfound success leveraging AI. IBM is full speed ahead on its AI strategy, and Wall Street is eating it up , writes BI's Matthew Fox.\n\nThe company's stock is up almost 15% this year, far outpacing the tech-heavy Nasdaq 100, which is down 5%. At its recent conference, CEO Arvind Krishna said its generative AI business is now worth $6 billion.\n\nIBM's focus is helping companies adopt AI, and has the added benefit of an open-source approach. That allows it to work with clients regardless of the AI tools they prefer, Wedbush analyst Dan Ives told Matthew.\n\n(If you're looking for more tech coverage like this, subscribe to our upcoming tech newsletter Tech Memo . Alistair Barr will be running the show, and he does a much better job of covering tech than me.)\n\n3 things in markets\n\nCarl Court/Getty Images\n\n1. Trump's first post-tariffs trade deal. The White House is expected to announce a trade deal with the UK on Thursday. A Downing Street spokeswoman told BI that talks between the two countries had been \"continuing at pace\" and the Prime Minister, Keir Starmer, would provide an update later on Thursday.\n\n2. No surprises from the Fed. The central bank held interest rates steady as expected, although Chairman Jerome Powell had faced calls from President Trump and members of his administration to lower them. Powell has stressed waiting to see how tariffs affect the economy.\n\n3. Jefferies banker's death ruled an accident. Carter McIntosh, a 28-year-old associate, died of a toxic mix of drugs including fentanyl and cocaine, an autopsy revealed . His death in January sparked widespread backlash against the bank's work culture.\n\n3 things in tech\n\nGetty Images; Tyler Le/BI\n\n1. Big Tech has a new playbook. Tech companies like Google, Amazon, and Microsoft are doubling down on performance-based rewards , with top performers receiving larger payouts and low performers facing the heat. Meanwhile, new-hire offers are being reduced.\n\n2. How a meme empire is sliding into your DMs. The Instagram gold rush isn't in the grid anymore — it's in your DMs. Doing Things, the company that owns meme accounts like Overheard, told BI its strategy to get users to share its content.\n\n3. Meet Valarian, a new addition from the Palantir mafia. The Palantir-alumni-founded startup wants to help governments and companies control their data and has plans to expand into the defense sector. Its current seed round has raised $20 million .\n\n3 things in business\n\nCayce Clifford for BI\n\n1. Pro-Tesla, anti-Musk. Working for Tesla was Matthew LaBrot's dream job, but he was fired after publishing a website protesting Elon Musk. In an interview with BI, he shared his concern for how the billionaire is affecting Tesla's brand and sales — and why he still believes in the company anyway.\n\n2. Recession fears got nothing on Disney adults. They know a Disney vacation is pricey, but they're going anyway. Disney World visits are surging , US parks revenue soared last quarter, and soon, they'll have a new magical destination to add to the list: Abu Dhabi .\n\n3. Does $19.95 to rent a U-Haul truck sound too good to be true? That's because it is. Companies are using \"bait-and-switch\" tactics to lure customers in with one price, only to tack on extra fees and make the total nowhere near what was initially expected. It's so common that customers often throw their hands up and pay anyway .\n\nIn other news\n\nWhat's happening today\n\nParamount, News Corp, Coinbase, and Lyft report earnings.\n\nThe Business Insider Today team: Dan DeFrancesco, deputy editor and anchor, in New York. Hallam Bullock, senior editor, in London. Grace Lett, editor, in Chicago. Amanda Yen, associate editor, in New York. Lisa Ryan, executive editor, in New York. Ella Hopkins, associate editor, in London. Elizabeth Casolo, fellow, in Chicago."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Robert Kramer, Contributor, \n Robert Kramer, Contributor\n https://www.forbes.com/sites/moorinsights/people/robertkramer/",
+    "title": "IBM Think 2025 Showcases Watsonx.data’s Role In Generative AI",
+    "description": "IBM has evolved the watsonx.data platform to address roadblocks in scaling generative and agent-based AI, especially the need to bridge structured and unstructured data.",
+    "url": "https://www.forbes.com/sites/moorinsights/2025/05/07/ibm-think-2025-showcases-watsonxdatas-role-in-generative-ai/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681b95da9365fbd1e16c5ca7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-05-07T17:21:27Z",
+    "content": "IBMs Think 2025 showcases watsonx.data as the cornerstone of its generative AI strategies.\r\nIBM\r\nOne of the themes for IBM Think 2025 this weeks flagship event for customers, partners and analysts is… [+10586 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Tim Bajarin, Contributor, \n Tim Bajarin, Contributor\n https://www.forbes.com/sites/timbajarin/",
+    "title": "The 20th Anniversary Of Lenovo-IBM Deal That Reshaped The PC Industry",
+    "description": "The Lenovo-IBM deal in 2005, was more than just a business transaction - it was a seismic event that reshaped the PC industry, and made Lenovo a household name.",
+    "url": "https://www.forbes.com/sites/timbajarin/2025/05/06/the-20th-anniversary-of-lenovo-ibm-deal-that-reshaped-the-pc-industry/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/633b6ad50fdcbe24b678b209/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-05-06T14:00:00Z",
+    "content": "20 years ago, Lenovo completed the acquisition of IBMs Personal Computing Division, a defining ... More milestone.\r\ngetty\r\nIn December 2004, the global technology landscape was rocked by the announce… [+6687 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ubuntu.com"
+    },
+    "author": "Frank Heimes (Frank Heimes)",
+    "title": "IBM LinuxONE 5 and Ubuntu Server, a great combination from day one",
+    "description": "Today, IBM announced the launch of their latest server: the new IBM LinuxONE Emperor 5. This fifth generation redefines IBM’s LinuxONE system as their most secure and high-performing Linux computing platform for data, applications and trusted AI.  Canonical s…",
+    "url": "https://ubuntu.com/blog/ibm-linuxone-emperor-5-ubuntu-server-integration",
+    "urlToImage": "https://ubuntu.com/wp-content/uploads/ae3c/Stock-image-Two-logos-Light.png",
+    "publishedAt": "2025-05-06T03:59:49Z",
+    "content": "Today, IBM announced the launch of their latest server: the new IBM LinuxONE Emperor 5. This fifth generation redefines IBMs LinuxONE system as their most secure and high-performing Linux computing p… [+4131 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lwn.net"
+    },
+    "author": "jzb",
+    "title": "Security updates for Wednesday",
+    "description": "Security updates have been issued by Fedora (incus and nodejs20), Red Hat (freetype, kernel, kernel-rt, libsoup, libtiff, redis, redis:6, and thunderbird), SUSE (apparmor, chromium, grafana, ImageMagick, java-11-openjdk, java-17-openjdk, libsoup, libsoup2, li…",
+    "url": "https://lwn.net/Articles/1020404/",
+    "urlToImage": null,
+    "publishedAt": "2025-05-07T13:05:09Z",
+    "content": "Copyright © 2025, Eklektix, Inc.Comments and public postings are copyrighted by their creators.Linux is a registered trademark of Linus Torvalds",
+    "full_content": "Copyright © 2025, Eklektix, Inc.\n\nComments and public postings are copyrighted by their creators.\n\nLinux is a registered trademark of Linus Torvalds\n\n"
+  },
+  {
+    "source": {
+      "id": "techradar",
+      "name": "TechRadar"
+    },
+    "author": "Ellen Jennings-Trace",
+    "title": "IRS could use AI to replace workers after mass layoffs",
+    "description": "Considerable IRS workforce cuts could be replaced with bots.",
+    "url": "https://www.techradar.com/pro/irs-could-use-ai-to-replace-workers-after-mass-layoffs",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/2tU6QMFtYxP35p2qFB2Uv7.jpg",
+    "publishedAt": "2025-05-09T16:38:41Z",
+    "content": "<ul><li>The IRS plans to use AI to supplement its workforce</li><li>The organization has laid off 25% of its staff</li><li>More cuts are likely to follow, report claim</li></ul>\r\nThe US Internal Reve… [+2177 chars]",
+    "full_content": "The IRS plans to use AI to supplement its workforce\n\nThe organization has laid off 25% of its staff\n\nMore cuts are likely to follow, report claim\n\nThe US Internal Revenue Service (IRS) plans to use AI to replace workers having made extensive cuts to its workforce.\n\nUS Treasury Secretary Scott Bessent discussed the budget proposal in a House Appropriations Committee hearing, with reports confirming the IRS has lost almost a third of its tax auditors since the start of the second Trump administration - with Elon Musk’s Department of Government Efficiency (DOGE) trimming the workforce through layoffs and ‘deferred resignations’.\n\nBessent argued further proposed reductions and plans to push further layoffs would not affect the agency’s tax collection abilities thanks to the “current AI boom” - although he didn’t explain exactly how the agency will be deploying the tech.\n\nSlash and burn\n\nThe ramifications of personnel reductions will not result in a loss of capability, despite the majority of those fired being revenue agents, with 31% of the IRS’s revenue agent workforce laid off.\n\n\"I believe through smarter IT, through this AI boom, that we can use that to enhance collections and I would expect that collections would continue to be very robust as they were this year,\" Besset said.\n\nThe 25% reduction in workforce for the IRS could lead to potential delays in tax refunds for American taxpayers, but it seems the cuts are likely to continue.\n\nMusk’s DOGE department has also cancelled multiple government contracts in the name of cost-cutting, including with IBM, Deloitte, and Gartner - to name just a few.\n\nAre you a pro? Subscribe to our newsletter Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed! Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors\n\nOver half of UK businesses who replaced workers with AI now report regretting their decision, and there’s huge amounts of uncertainty - with 38% of leaders not fully understanding AI’s impact in their business, and 25% unsure of which roles are most at risk.\n\nTech giants including IBM, CrowdStrike, and, most recently Google, have been cutting staff in recent months, with many are planning to replace these jobs with AI.\n\nVia The Register"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": null,
+    "title": "International Business Machines Corporation (IBM): Watsonx Teams With Oracle Cloud to Advance Multi-Agent AI Workflows",
+    "description": null,
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0640116c-e314-4219-a632-fe1b398f9f4a",
+    "urlToImage": null,
+    "publishedAt": "2025-05-07T17:43:09Z",
+    "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": null,
+    "title": "How tech stalwart IBM is turning into an AI darling",
+    "description": null,
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6b7695c5-c5d6-4b89-b921-caa0290e3c0b",
+    "urlToImage": null,
+    "publishedAt": "2025-05-08T00:00:27Z",
+    "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": null,
+    "title": "IBM Just Gave Nvidia Stock Investors Terrible News",
+    "description": null,
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_81118f79-e6c0-4fa7-b5a3-e85abb55808c",
+    "urlToImage": null,
+    "publishedAt": "2025-05-11T10:10:00Z",
+    "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "full_content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Moz Farooque",
+    "title": "IBM Vows AI, Quantum Push with $150B Bet",
+    "description": "CEO Krishna touts $6B generative AI book and under-five-minute model setup",
+    "url": "https://finance.yahoo.com/news/ibm-vows-ai-quantum-push-171919014.html",
+    "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/1a9547df9c2991f19c7efb8289828c8c",
+    "publishedAt": "2025-05-06T17:19:19Z",
+    "content": "IBM (NYSE:IBM) is ramping up its push into artificial intelligence and quantum computing, aiming to help enterprises spin up custom AI agents in under five minutes and go head-to-head with U.S. rival… [+1944 chars]",
+    "full_content": "IBM (NYSE:IBM) is ramping up its push into artificial intelligence and quantum computing, aiming to help enterprises spin up custom AI agents in under five minutes and go head-to-head with U.S. rivals.\n\nIn an interview with Reuters, CEO Arvind Krishna said IBM's Granite family of AI models will integrate with tools from Salesforce (NYSE:CRM), Workday (NASDAQ:WDAY) and Adobe (NASDAQ:ADBE), allowing customers to build their own agents with minimal setup.\n\nLast month, IBM reported a $6 billion book of business in generative AI, signaling growing demand for its software and services. The company also partnered with Lumen (LUMN) to deliver enterprise-grade AI solutions, though its shares edged slightly lower in premarket trading.\n\nBeyond AI, Krishna pointed to quantum computing as a key battleground. IBM has pledged to invest $150 billion in U.S. infrastructure over five years, targeting mainframes and quantum systems to build out its next-gen computing footprint.\n\nThat investment follows a 1.48% gain in IBM's stock earlier in the day, showing investor interest in tech companies with large R&D budgets. IBM didn't offer detailed growth forecasts but said it aims to offset weaker hardware sales through AI, partnerships and capital deployment.\n\nSoftware and services now make up about 43.2% of IBM's revenue, driven by increased adoption of cloud and AI-enabled platforms. Its System z mainframe business still sees mid-single-digit growth, but high-margin AI and quantum tools are expected to fuel bigger gains.\n\nIBM Vows AI, Quantum Push with $150B Bet\n\nWe see a clear runway as companies look to standardize AI operations across legacy infrastructures, Krishna told Reuters.\n\nInternal projections suggest the Lumen deal and Granite rollout could generate double-digit growth in recurring software revenue.\n\nWhy it matters: IBM is positioning itself as a one-stop shop for enterprise AI and quantum needs, combining deep R&D spending with fast-deployment tools and strategic partnerships. Investors will look to the company's July earnings for signs these efforts are paying off.\n\nThis article first appeared on GuruFocus.\n\n"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Fact-checking Trump’s claim of securing $10 trillion in investments for US",
+    "description": "The White House reports $5.1T in promised investments, with $4.3T newly pledged. Experts say $2.1T may not fully happen.",
+    "url": "https://www.aljazeera.com/news/2025/5/11/fact-checking-trumps-claim-of-securing-10-trillion-in-investments-for-us",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25125778007759-1746544136.jpg?resize=1920%2C1440",
+    "publishedAt": "2025-05-11T18:22:05Z",
+    "content": "Since returning to the White House, US President Donald Trump has touted corporate and foreign US investment announcements as proof he is ushering in the golden age of America.\r\nOn January 21, Trump … [+9907 chars]",
+    "full_content": "The White House reports $5.1 trillion in promised investments, with $4.3 trillion newly pledged. But experts say $2.1 trillion may not fully happen.\n\nSince returning to the White House, US President Donald Trump has touted corporate and foreign US investment announcements as proof he is ushering in “the golden age of America”.\n\nOn January 21, Trump said that before he’d finished the “first full business day” of his second term, the United States had “already secured nearly $3 trillion of new investments”.\n\nOn April 2, he said, “It looks like we’re going to have about $6 trillion of investments”. Six days later, Trump told National Republican Congressional Committee Dinner attendees that the investment total was “now revised up to about $7 (trillion)”.\n\nDuring an April 30 NewsNation town hall, Trump speculated that “it could be more than $8 trillion”.\n\nOn May 4, Trump told Kristen Welker, the host of the NBC News programme Meet the Press, “I think we probably have close to $9 trillion of investments coming into this country.”\n\nOn May 6, Trump told reporters, “I think the real number could be $9 or $10 trillion.”\n\nFinally, on May 8, Trump said, “We have now close to $10 trillion — think of that, $10 trillion” in investments. “We’re talking about essentially two months.”\n\nAdvertisement\n\nThat’s far beyond the figures the White House has released publicly.\n\nWe tallied the White House’s public lists of investments; they amount to $2.1 trillion in corporate investments, or at most $5.1 trillion when including promised investments from other countries. Experts cautioned that the promised corporate investments are not guaranteed to materialise in full, or during Trump’s presidency, and some of them would have occurred regardless of who was president.\n\nTrump isn’t the first to overstate new investments on his watch. Outgoing US President Joe Biden said in 2024 that his bipartisan CHIPS and Science Act had attracted $640bn in private investments; economists told PolitiFact that Biden’s numbers were based on what companies had announced, which is not the same as dollars already spent.\n\nRoman V Yampolskiy, a University of Louisville professor and a specialist in artificial intelligence, which dominates the promised investments Trump cited, said, “Historically, large-scale investment announcements often overpromise and underdeliver. There is a performative element to them, especially in politically charged contexts. They function as political theatre as much as economic commitment.”\n\nWhite House lists do not match Trump’s words\n\nSince Trump’s inauguration, the White House has publicised investment announcements from three countries and roughly 60 companies on its website, including in a “non-comprehensive running list”. Many of the highest-dollar corporate announcements were in March and April.\n\nCorporate announcements in the White House’s lists total approximately $2.1 trillion worth of US investment.\n\nAdvertisement\n\nThe White House separately has cited commitments from the United Arab Emirates to invest $1.4 trillion over the next 10 years; from Japan to “boost” its investment in the US to $1 trillion; and from Saudi Arabia to invest $600bn in the US during Trump’s presidency. Combined with the corporate announcements, these bring the total to about $5.1 trillion, $4.9 trillion short of Trump’s figure.\n\nBut the $5.1 trillion total has caveats. For example, the White House said “Japan announced a $1 trillion investment in the US”, but the article it linked said in 2023, Japan’s US investment was $783.3bn and Japan would “boost” that to $1 trillion. That’s an increase of $216.7bn rather than a new $1 trillion investment. That would put the total value of newly pledged US investment at about $4.3 trillion.\n\nTrump’s second-term White House tally of US investments\n\nThe White House figures can’t easily be used for apples-to-apples comparisons. Some of the investments are planned over Trump’s four-year term, others over five years or a decade. In one case – ADQ and Energy Capital Partners’ planned $25bn investment — it isn’t limited to US-based projects.\n\nThe White House declined to detail additional investments. A spokesperson pointed to federal Bureau of Economic Analysis data that shows a 22 percent increase in business investment in the first quarter of 2025, calling it a historic increase.\n\nHowever, experts cautioned this increase was shaped by businesses stocking up on inventory before Trump’s tariffs take effect and said the increase is unlikely to be sustained.\n\nAdvertisement\n\nMany of the announcements are aspirational, experts say\n\nExperts told PolitiFact that each of the five biggest investments on Trump’s list warrants some caution, because they might not reach Trump’s cited dollar amounts or were not solely prompted by Trump’s policies.\n\n“Many of these announcements, particularly those in the AI and semiconductor sectors, appear to be, at least in part, aspirational in nature,” Yampolskiy said. “They serve a signalling function: to attract investor attention, shape policy discourse, and secure favourable regulatory or funding environments.”\n\nThe five largest company investments collectively account for 82 percent of the dollar value on the White House’s corporate list.\n\nFive companies accounting for the majority of new investment promises are:\n\nStargate\n\nThe Stargate Project is an artificial intelligence collaboration among OpenAI, Oracle and SoftBank, announced during a January 21 White House event. The White House values the investment at $500bn.\n\nThe company’s official announcement says $100bn will be invested “immediately” and that it “intends to invest” a total of $500bn over the next four years, a goal repeated by SoftBank CEO Masayoshi Son at the White House event.\n\n“Whether that much will ultimately get spent remains to be seen,” wrote John Higgins, chief economist at Capital Economics, an international consulting firm.\n\nEnrique Dans, who studies technology and policy at Madrid’s IE Business School, said the $500bn figure is “astronomical – roughly 2 percent of US gross domestic product – and lacks clear documentation”.\n\nAdvertisement\n\nAt the White House event, OpenAI CEO Sam Altman said, “We wouldn’t be able to do this without you, Mr President.” But Altman had been discussing plans for a $100bn investment 10 months before Trump won his second term, The Washington Post reported, including an Abilene, Texas, data centre that began construction in summer 2024.\n\n“AI investments have been on a global trajectory driven by technological maturity and competitive pressure, especially from China,” Dans said. “Any US president would have seen a surge.”\n\nNvidia\n\nNvidia Corp, another AI company, said it plans to invest up to $500bn in US infrastructure over the next four years. Previously, Nvidia manufactured most of its chips in Taiwan.\n\n“It is unlikely Nvidia would have moved any production to the US if it was not for pressure from the Trump administration,” Gil Luria, an analyst with the financial services firm D.A. Davidson, told Reuters. However, Luria added, “The half a trillion number is likely hyperbole.”\n\nDans said that although tax cuts from Trump’s first term have benefited the company’s focus on US-based efforts, “the core growth likely would have occurred anyway”, regardless of the president.\n\nApple\n\nOn February 24, days after Apple’s CEO, Tim Cook, met with Trump, the consumer electronics giant announced it plans to spend “more than $500bn in the US over the next four years.”\n\nAnalysts have expressed scepticism that this represents new investment. Dans called the investment “simply more of what [Apple] already does,” from “day-to-day activities with thousands of suppliers in all 50 states to the operation of its domestic data centres, as well as its investments in Apple TV+ and other projects already manufactured in the country.”\n\nAdvertisement\n\nIn a note to investors, David Vogt, an analyst with the Swiss-based bank UBS, wrote, “Call us a sceptic. … We believe [the figure] lacks substance.”\n\nIBM\n\nIBM announced April 28 plans to invest $150bn in the US, including more than $30bn in research and development on US-based manufacturing of mainframe and quantum computers.\n\nThis is “not clearly Trump-related,” Dans said. “IBM’s strategy pivots have been under way since the 2010s.”\n\nLuria said, “While we believe IBM will continue to invest in the emerging area of quantum technology, the bombastic figure is more likely a gesture towards the US administration,” Reuters reported.\n\nTaiwan Semiconductor Manufacturing\n\nTaiwan Semiconductor Manufacturing Co, which makes semiconductors for computing and electronics, has pledged to spend $100bn in the US. Analysts said this number is the most well-supported among the investments that Trump cites. Although bringing semiconductor production back to the US began during Trump’s first term, it was “greatly accelerated by” Biden’s CHIPS and Science Act, which prompted years of investment before Trump’s second term, Dans said.\n\nOver the past five years, the company has spent at least $65bn on fabrication facilities near Phoenix, Arizona, funded in part by $6.6bn from the CHIPS and Science Act.\n\nOverall, Dans said, “Trump might deserve some partial credit for setting a more aggressive tone on economic nationalism and supply chain reshoring, and for lowering the corporate tax reform, which did affect repatriation and some investment decisions. But most of these trends — the AI boom, the semiconductor reshoring, the cloud computing infrastructure — are long-term structural shifts that predate Trump and will continue regardless of who is in office.”\n\nAdvertisement\n\nOur ruling\n\nTrump said, “We have now close to $10 trillion, think of that, $10 trillion” in investments. “We’re talking about essentially two months.”\n\nThe White House has pointed to investment announcements totalling $5.1 trillion, including $2.1 trillion from companies and the rest from countries.\n\nThat’s at least $4.9 trillion short of Trump’s figure, and these announcements represent future spending, some of which is planned over four years, five years or a decade.\n\nExperts said many of the dollar amounts are aspirational and that the investments announced might never be fully reached. They also said some of this investment would have occurred regardless of who was president.\n\nWe rate the statement false."
+  }
+]
