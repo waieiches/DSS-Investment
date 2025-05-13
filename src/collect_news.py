@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 from dotenv import load_dotenv
 import click
 from newspaper import Article
+from sentiment.finbert_sentiment import analyze_sentiment_finbert
 
 # .env에서 API 키 불러오기
 load_dotenv()
@@ -50,6 +51,15 @@ def collect_news(ticker, name, days=7, page_size=20):
             article["full_content"] = full_content
         else:
             article["full_content"] = None
+
+        if full_content:
+            label, score = analyze_sentiment_finbert(full_content)
+            article["sentiment_label"] = label
+            article["sentiment_score"] = score
+        else:
+            article["sentiment_label"] = "neutral"
+            article["sentiment_score"] = 0.0
+
     return articles
 
 # 저장 함수
