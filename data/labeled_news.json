@@ -1,0 +1,1018 @@
+[
+  {
+    "sentiment": "negative",
+    "summary": "NVIDIA recently missed revenue expectations for the quarter, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "missed earnings",
+      "decline"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Hyundai recently missed revenue expectations for the quarter, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Hyundai",
+      "missed earnings",
+      "decline"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Boeing recently launched an innovative product, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "product launch",
+      "innovation"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Netflix recently saw a rise in stock price after a positive analyst rating, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Netflix",
+      "stock rise",
+      "analyst upgrade"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Google recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Google",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Apple recently announced a major strategic partnership, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "partnership",
+      "collaboration"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Amazon recently announced minor changes to its pricing structure, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "pricing",
+      "policy update"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Tesla recently experienced a data breach impacting user information, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Tesla",
+      "data breach",
+      "cybersecurity"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "NVIDIA recently was involved in a major lawsuit, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "lawsuit",
+      "legal issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Boeing recently hosted its annual developer conference, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "event",
+      "conference"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Boeing recently announced a product recall affecting thousands, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "recall",
+      "safety issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Google recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Google",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Hyundai recently experienced a data breach impacting user information, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Hyundai",
+      "data breach",
+      "cybersecurity"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Amazon recently launched an innovative product, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "product launch",
+      "innovation"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Google recently hired a new CTO with experience in robotics, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Google",
+      "executive hire",
+      "leadership"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Microsoft recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Microsoft",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Google recently missed revenue expectations for the quarter, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Google",
+      "missed earnings",
+      "decline"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Tesla recently launched an innovative product, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Tesla",
+      "product launch",
+      "innovation"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Tesla recently expanded operations into new global markets, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Tesla",
+      "expansion",
+      "global market"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Samsung recently shared its long-term roadmap for AI strategy, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Samsung",
+      "roadmap",
+      "AI"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "NVIDIA recently hired a new CTO with experience in robotics, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "executive hire",
+      "leadership"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Tesla recently launched an innovative product, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Tesla",
+      "product launch",
+      "innovation"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Amazon recently filed a patent for a new device design, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "patent",
+      "R&D"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Amazon recently reported strong quarterly earnings, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "earnings",
+      "growth",
+      "Q2"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Apple recently was involved in a major lawsuit, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "lawsuit",
+      "legal issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Samsung recently filed a patent for a new device design, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Samsung",
+      "patent",
+      "R&D"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Meta recently experienced a data breach impacting user information, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Meta",
+      "data breach",
+      "cybersecurity"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Apple recently reported strong quarterly earnings, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "earnings",
+      "growth",
+      "Q2"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Hyundai recently hired a new CTO with experience in robotics, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Hyundai",
+      "executive hire",
+      "leadership"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "NVIDIA recently reported strong quarterly earnings, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "earnings",
+      "growth",
+      "Q2"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Boeing recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "NVIDIA recently hosted its annual developer conference, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "event",
+      "conference"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Google recently saw a rise in stock price after a positive analyst rating, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Google",
+      "stock rise",
+      "analyst upgrade"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Netflix recently hosted its annual developer conference, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Netflix",
+      "event",
+      "conference"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Microsoft recently missed revenue expectations for the quarter, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Microsoft",
+      "missed earnings",
+      "decline"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Tesla recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Tesla",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Tesla recently hired a new CTO with experience in robotics, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Tesla",
+      "executive hire",
+      "leadership"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Netflix recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Netflix",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Meta recently announced a major strategic partnership, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Meta",
+      "partnership",
+      "collaboration"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Amazon recently announced minor changes to its pricing structure, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "pricing",
+      "policy update"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Samsung recently hosted its annual developer conference, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Samsung",
+      "event",
+      "conference"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Apple recently shared its long-term roadmap for AI strategy, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "roadmap",
+      "AI"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Apple recently shared its long-term roadmap for AI strategy, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "roadmap",
+      "AI"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "NVIDIA recently announced a major strategic partnership, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "partnership",
+      "collaboration"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Google recently filed a patent for a new device design, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Google",
+      "patent",
+      "R&D"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Boeing recently announced a major strategic partnership, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "partnership",
+      "collaboration"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Boeing recently was involved in a major lawsuit, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "lawsuit",
+      "legal issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Microsoft recently missed revenue expectations for the quarter, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Microsoft",
+      "missed earnings",
+      "decline"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "NVIDIA recently announced minor changes to its pricing structure, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "pricing",
+      "policy update"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Boeing recently announced minor changes to its pricing structure, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "pricing",
+      "policy update"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Apple recently hosted its annual developer conference, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "event",
+      "conference"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Apple recently announced minor changes to its pricing structure, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "pricing",
+      "policy update"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "NVIDIA recently launched an innovative product, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "product launch",
+      "innovation"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Samsung recently saw a rise in stock price after a positive analyst rating, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Samsung",
+      "stock rise",
+      "analyst upgrade"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Apple recently announced a major strategic partnership, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "partnership",
+      "collaboration"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Boeing recently experienced a data breach impacting user information, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "data breach",
+      "cybersecurity"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Hyundai recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Hyundai",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Intel recently hired a new CTO with experience in robotics, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Intel",
+      "executive hire",
+      "leadership"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Apple recently announced minor changes to its pricing structure, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "pricing",
+      "policy update"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Amazon recently launched an innovative product, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "product launch",
+      "innovation"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Amazon recently was involved in a major lawsuit, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "lawsuit",
+      "legal issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Intel recently expanded operations into new global markets, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Intel",
+      "expansion",
+      "global market"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Microsoft recently filed a patent for a new device design, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Microsoft",
+      "patent",
+      "R&D"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Apple recently hosted its annual developer conference, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "event",
+      "conference"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Tesla recently announced minor changes to its pricing structure, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Tesla",
+      "pricing",
+      "policy update"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Intel recently hired a new CTO with experience in robotics, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Intel",
+      "executive hire",
+      "leadership"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Intel recently was involved in a major lawsuit, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Intel",
+      "lawsuit",
+      "legal issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Apple recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Google recently announced a product recall affecting thousands, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Google",
+      "recall",
+      "safety issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "NVIDIA recently filed a patent for a new device design, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "patent",
+      "R&D"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Samsung recently saw a rise in stock price after a positive analyst rating, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Samsung",
+      "stock rise",
+      "analyst upgrade"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Hyundai recently filed a patent for a new device design, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Hyundai",
+      "patent",
+      "R&D"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Hyundai recently reported strong quarterly earnings, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Hyundai",
+      "earnings",
+      "growth",
+      "Q2"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "NVIDIA recently expanded operations into new global markets, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "expansion",
+      "global market"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Boeing recently hired a new CTO with experience in robotics, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "executive hire",
+      "leadership"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Intel recently hosted its annual developer conference, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Intel",
+      "event",
+      "conference"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Samsung recently hosted its annual developer conference, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Samsung",
+      "event",
+      "conference"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Meta recently experienced a data breach impacting user information, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Meta",
+      "data breach",
+      "cybersecurity"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Apple recently launched an innovative product, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "product launch",
+      "innovation"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Amazon recently launched an innovative product, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "product launch",
+      "innovation"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Amazon recently filed a patent for a new device design, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "patent",
+      "R&D"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "NVIDIA recently filed a patent for a new device design, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "patent",
+      "R&D"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Tesla recently was involved in a major lawsuit, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Tesla",
+      "lawsuit",
+      "legal issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Apple recently announced a product recall affecting thousands, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "recall",
+      "safety issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Boeing recently announced a product recall affecting thousands, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "recall",
+      "safety issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Netflix recently hired a new CTO with experience in robotics, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Netflix",
+      "executive hire",
+      "leadership"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Amazon recently was involved in a major lawsuit, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Amazon",
+      "lawsuit",
+      "legal issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Tesla recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Tesla",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "NVIDIA recently experienced a data breach impacting user information, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "data breach",
+      "cybersecurity"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Microsoft recently missed revenue expectations for the quarter, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Microsoft",
+      "missed earnings",
+      "decline"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Apple recently experienced a data breach impacting user information, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "data breach",
+      "cybersecurity"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Hyundai recently faced regulatory scrutiny and fines, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Hyundai",
+      "regulation",
+      "fine",
+      "scrutiny"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Samsung recently reported strong quarterly earnings, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Samsung",
+      "earnings",
+      "growth",
+      "Q2"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "NVIDIA recently expanded operations into new global markets, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "expansion",
+      "global market"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Netflix recently missed revenue expectations for the quarter, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Netflix",
+      "missed earnings",
+      "decline"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Boeing recently shared its long-term roadmap for AI strategy, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Boeing",
+      "roadmap",
+      "AI"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "positive",
+    "summary": "Apple recently reported strong quarterly earnings, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Apple",
+      "earnings",
+      "growth",
+      "Q2"
+    ],
+    "label": "매수"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "NVIDIA recently hired a new CTO with experience in robotics, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "NVIDIA",
+      "executive hire",
+      "leadership"
+    ],
+    "label": "관망"
+  },
+  {
+    "sentiment": "negative",
+    "summary": "Meta recently was involved in a major lawsuit, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Meta",
+      "lawsuit",
+      "legal issue"
+    ],
+    "label": "매도"
+  },
+  {
+    "sentiment": "neutral",
+    "summary": "Intel recently filed a patent for a new device design, drawing significant attention from industry analysts. This move is expected to impact its performance in the coming quarters. Investors are closely watching how the situation unfolds.",
+    "keywords": [
+      "Intel",
+      "patent",
+      "R&D"
+    ],
+    "label": "관망"
+  }
+]
