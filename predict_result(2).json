@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Citi Reiterates Buy Rating on Apple (AAPL), Keeps PT at $240",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_621ab329-e178-4783-ac89-905b4393b793",
+    "predict_label": "관망",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "뉴스 기사의 내용이 부족하여 투자 판단에 필요한 충분한 정보를 얻을 수 없습니다.",
+    "keywords": [
+      "내용 부족",
+      "정보 부족",
+      "판단 불가"
+    ]
+  },
+  {
+    "title": "Trump's relationship with Apple in souring",
+    "url": "https://qz.com/trump-tim-cook-apple-tariffs-iphone-india-1851782467",
+    "predict_label": "매도",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "미국에서 아이폰에 대해 25%의 관세를 부과할 가능성이 있다는 보고서와 함께 애플의 주식 가격이 하락하는 추세를 보이고 있습니다. 또한 애플이 인도에서 아이폰 공장을 건설하는 계획에 대해 트럼프 대통령이 반대의사를 표명했습니다. 이러한 상황들은 애플의 비즈니스에 부정적인 영향을 미칠 수 있으며, 이는 주식 가격에도 반영될 가능성이 높습니다.",
+    "keywords": [
+      "아이폰",
+      "관세",
+      "애플",
+      "주식 하락",
+      "인도 공장 건설 반대"
+    ]
+  },
+  {
+    "title": "The Trump White House is sending mixed signals on Apple iPhone tariffs",
+    "url": "https://qz.com/trump-white-house-apple-iphone-tariffs-hassett-1851782562",
+    "predict_label": "관망",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "트럼프 대통령은 애플에게 중국에서 미국으로 생산 공급망을 이동시키는 것을 권고하였습니다. 이에 따라 애플이 이를 수용할지 여부는 아직 불확실하며, 관세를 피하기 위해 애플이 인도로의 생산 이전을 가속화하고 있다는 점을 고려할 때, 애플 주식에 대한 투자는 현 시점에서는 불확실성이 큽니다.",
+    "keywords": [
+      "관세",
+      "애플",
+      "생산 이전",
+      "미국",
+      "인도"
+    ]
+  },
+  {
+    "title": "Apple is falling behind its Magnificent 7 rivals. Here's why",
+    "url": "https://qz.com/apple-stock-magnificent-7-tech-ai-nvidia-google-amazon-1851782680",
+    "predict_label": "매도",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Apple은 현재 AI 경쟁에서 뒤처져있으며, 주가는 올해 18% 하락했습니다. 이외에도 중국 시장에서의 어려움과 트럼프의 관세로 인한 도전에 직면해 있습니다. 그들의 최근 제품인 Apple Intelligence와 Vision Pro는 성과가 떨어졌고, AI 시장에서 따라잡기 위해 중요한 행동을 취해야 합니다.",
+    "keywords": [
+      "AI",
+      "Apple",
+      "주가 하락",
+      "중국 시장",
+      "트럼프 관세"
+    ]
+  },
+  {
+    "title": "Apple (AAPL) Faces Significant Threat From ChatGPT, Veteran Investor Says",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_08b285e3-26a9-490a-ab31-9d716de0332f",
+    "predict_label": "관망",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "기사 내용이 부족하여 투자 판단에 필요한 충분한 정보가 제공되지 않았습니다.",
+    "keywords": [
+      "내용 부족",
+      "정보 부족",
+      "판단 기준 없음"
+    ]
+  },
+  {
+    "title": "UBS Maintains Neutral Rating on Apple (AAPL), Keeps $210 PT",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d84040ea-4e89-42d1-a786-bad85dd1b058",
+    "predict_label": "관망",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "기사 내용이 없어서 투자 판단을 내릴 수 있는 충분한 정보가 부족합니다.",
+    "keywords": [
+      "정보 부족",
+      "내용 없음",
+      "기사 요약 부재",
+      "감성 분석 0.0",
+      "본문 없음"
+    ]
+  },
+  {
+    "title": "Amazon's car software deal with Stellantis is ending, report says",
+    "url": "https://qz.com/amazon-stellantis-car-software-partnership-smartcockpit-1851782655",
+    "predict_label": "매도",
+    "confidence": 0.36,
+    "source": "GPT fallback",
+    "reason": "Amazon과 Stellantis의 협력이 종료됐으며, 이는 Amazon이 자동차 소프트웨어 개발에 큰 진전을 보이지 못하고 있음을 시사합니다. 이런 상황은 Amazon의 장기적인 성장 전략에 부정적인 영향을 미칠 수 있습니다. 또한, Stellantis의 주가가 약 1% 하락했고, Amazon의 주가는 0.58% 상승했지만, 이는 협력 종료 소식에 대한 장기적인 영향을 반영하지 않을 수 있습니다.",
+    "keywords": [
+      "Amazon",
+      "Stellantis",
+      "협력 종료",
+      "자동차 소프트웨어",
+      "주가 변동"
+    ]
+  },
+  {
+    "title": "Jim Cramer on Apple Inc. (AAPL): “They’ll Have the Best AI”",
+    "url": "https://finance.yahoo.com/news/jim-cramer-apple-inc-aapl-202234283.html",
+    "predict_label": "관망",
+    "confidence": 0.36,
+    "source": "GPT fallback",
+    "reason": "Jim Cramer는 Apple의 CEO Tim Cook을 칭찬하며 Apple이 가장 좋은 AI를 가질 것이라고 말했습니다. 그러나 그는 AI 주식이 더 높은 수익률을 제공할 수 있다고 믿습니다. AAPL은 Cramer가 논의하는 주식 목록에서 3위를 차지하고 있지만, 투자자들은 AAPL보다 더 유망한 AI 주식을 고려해야 할 것입니다.",
+    "keywords": [
+      "Jim Cramer",
+      "Apple",
+      "AI",
+      "stocks",
+      "returns"
+    ]
+  },
+  {
+    "title": "Apple Inc. (AAPL) Should Be Bought on Weakness, Veteran Investor Says",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fa4ea9b5-8c21-45fa-9d41-c66c456bd2eb",
+    "predict_label": "관망",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "기사의 내용이 없어서 투자에 필요한 충분한 정보를 얻을 수 없음",
+    "keywords": [
+      "내용 없음",
+      "정보 부족",
+      "데이터 부족"
+    ]
+  },
+  {
+    "title": "Trump’s 25% Tariff Threat Looms, But Apple (AAPL) Isn’t Moving – Yet",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_813d24f2-b40b-4b1e-8026-5d19a8acfab3",
+    "predict_label": "관망",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "기사의 내용이 없어서 투자에 대한 판단을 내릴 수 있는 충분한 정보가 없습니다.",
+    "keywords": [
+      "내용 없음",
+      "정보 부족",
+      "판단 불가"
+    ]
+  }
+]

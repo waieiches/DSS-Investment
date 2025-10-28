@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from dotenv import load_dotenv
 import click
 from newspaper import Article
-from sentiment.finbert_sentiment import analyze_sentiment_finbert
+from src.sentiment.finbert_sentiment import analyze_sentiment_finbert
 
 # .env에서 API 키 불러오기
 load_dotenv()
@@ -22,7 +22,7 @@ def extract_full_content(url):
         return None
 
 # 뉴스 수집 함수
-def collect_news(ticker, name, days=7, page_size=20):
+def collect_news(ticker, name, days=7, page_size=10):
     url = "https://newsapi.org/v2/everything"
     from_date = (datetime.now() - timedelta(days=days)).strftime('%Y-%m-%d')
     to_date = datetime.now().strftime('%Y-%m-%d')

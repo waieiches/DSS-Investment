@@ -1,0 +1,301 @@
+[
+  {
+    "title": "Apple’s DIY repair program now covers iPads",
+    "url": "https://www.theverge.com/news/675475/apple-self-service-repair-progam-ipad-air-pro-mini",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Apple은 고객이 직접 기기를 수리할 수 있도록 자체 수리 프로그램을 확장하고 있으며, 이는 iPad 미니, 에어, 프로 모델 등을 포함한다. 이 프로그램이 내일부터 시작되며, 이 시점부터 Apple 태블릿의 예비 부품과 수리 키트를 주문할 수 있게 될 것이다. 이런 접근 방식은 고객의 브랜드 충성도를 높일 수 있으며, 이는 장기적으로 주가에 긍정적인 영향을 미칠 수 있다.",
+    "keywords": [
+      "Apple",
+      "self-service repair program",
+      "iPads",
+      "spare parts",
+      "repair kits"
+    ]
+  },
+  {
+    "title": "Apple is ready to replace Game Center with a more Xbox-like gaming app",
+    "url": "https://www.theverge.com/news/675241/apple-game-center-app-replace-rac7-sneaky-sasquatch-acquisition",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "애플이 새로운 게임 앱을 출시할 계획이며 이는 아이폰, 아이패드, 맥, 애플 TV에서 이용할 수 있을 것으로 보여진다. 이 앱은 사용자가 설치한 게임을 시작할 수 있게 해주고, 업적과 리더보드와 같은 기능을 제공하는 허브 역할을 할 것으로 보인다. 새로운 앱은 또한 애플 앱 스토어 외부에서 다운로드 받은 게임에 접근할 수 있게 해줄 것이다. 이런 신규 서비스 출시는 애플의 수익 증대를 이끌어 낼 수 있을 것이다.",
+    "keywords": [
+      "Apple",
+      "game app",
+      "launch",
+      "App Store",
+      "profit increase"
+    ]
+  },
+  {
+    "title": "Anker 3-in-1 MagSafe Charger Is at Its Lowest Price, Free Adapter Included for a Limited Time",
+    "url": "https://gizmodo.com/anker-3-in-1-magsafe-charger-is-at-its-lowest-price-free-adapter-included-for-a-limited-time-2000608407",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Anker의 MagSafe 3-in-1 충전 스테이션이 아마존에서 29% 할인된 가격으로 판매되고 있어, 이를 통해 $26의 할인 혜택을 받을 수 있다. 이 제품은 아이폰, 에어팟, 애플 워치 등 애플 제품을 한 번에 무선 충전할 수 있는 설계로, 효율적이고 빠른 충전을 가능하게 한다. 또한, 휴대폰을 충전하면서 동시에 보는 것을 지원하는 회전 기능도 갖추고 있다. 이러한 특징들은 이 제품을 매력적인 구매 대상으로 만든다.",
+    "keywords": [
+      "Anker",
+      "MagSafe 3-in-1 charging station",
+      "Apple products",
+      "wireless charge",
+      "29% off"
+    ]
+  },
+  {
+    "title": "Amid Competition, Amazon Is Clearing 2025 MacBook Air M4 Stock at an All-Time Low",
+    "url": "https://gizmodo.com/amid-competition-amazon-is-clearing-2025-macbook-air-m4-stock-at-an-all-time-low-2000608613",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "해당 기사는 Apple의 최신 MacBook Air 모델에 대한 긍정적인 리뷰와 함께, Amazon에서 해당 제품의 큰 할인을 제공하고 있다는 내용을 담고 있습니다. 이는 소비자들에게 매력적인 제안이며, 따라서 Apple의 주가에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+    "keywords": [
+      "Apple",
+      "MacBook Air",
+      "Amazon",
+      "할인",
+      "매력적인 제안"
+    ]
+  },
+  {
+    "title": "Best AirPods Pro Alternatives: AirPods for Android and More",
+    "url": "https://www.wired.com/gallery/best-airpods-alternatives/",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Apple의 AirPods Pro가 고급 기능과 강력한 소음 차단으로 인해 인기를 끌고 있으며, 이는 Apple의 주가에 긍정적인 영향을 미칠 수 있습니다. 또한, 본문에서는 Apple의 제품이 Android와 같은 다른 시스템에서도 잘 작동하는 대안 제품을 찾는 사람들을 위한 선택지를 제공한다는 것을 언급하고 있습니다. 이는 Apple의 시장 선점력을 강화시킬 수 있습니다.",
+    "keywords": [
+      "Apple",
+      "AirPods Pro",
+      "Versatility",
+      "Positive sentiment",
+      "Market penetration"
+    ]
+  },
+  {
+    "title": "Netflix’s series about the FTX fiasco has found its leading effective altruists",
+    "url": "https://www.theverge.com/news/676726/netflix-the-altruists-casting-ftx-sam-bankman-fried-caroline-ellison",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Netflix는 Amazon과 Apple과 같은 대형 OTT 플랫폼에서 콘텐츠를 제작하고 있으며, 이번에는 암호화폐 거래소 FTX에서 발생한 사기 이야기를 다루는 드라마 시리즈 'The Altruists'를 제작하고 있다고 합니다. 이 시리즈는 FTX의 전 CEO인 Sam Bankman-Fried와 그의 파트너 Caroline Ellison이 FTX 투자자들을 사기치는 과정을 다루고 있습니다. Netflix는 이 시리즈를 통해 암호화폐와 관련된 이슈를 다루는 콘텐츠를 제공함으로써, 시청자들의 관심을 끌 수 있을 것으로 보입니다. 따라서 Netflix의 주식을 매수하는 것이 좋을 것으로 판단됩니다.",
+    "keywords": [
+      "Netflix",
+      "드라마 시리즈",
+      "The Altruists",
+      "암호화폐",
+      "FTX"
+    ]
+  },
+  {
+    "title": "This UGREEN Tracker Is 3x Cheaper Than Apple AirTag, Nearly Free Right Now on Amazon",
+    "url": "https://gizmodo.com/this-ugreen-tracker-is-3x-cheaper-than-apple-airtag-nearly-free-right-now-on-amazon-2000608051",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "UGREEN이라는 회사의 FineTrack Smart Finder라는 제품이 50% 할인된 가격인 10달러에 판매되고 있다. 이 제품은 일상생활에서 항상 잃어버리는 키나 지갑 등을 찾는 데 도움을 줄 수 있으며, 블루투스 추적기 기능이 있다. 이런 제품이 저렴한 가격에 판매되고 있다는 뉴스는 UGREEN의 매출 증가를 예상할 수 있게 하므로, 주식을 매수하는 것이 좋아 보인다.",
+    "keywords": [
+      "UGREEN",
+      "FineTrack Smart Finder",
+      "50% 할인",
+      "블루투스 추적기",
+      "매출 증가 예상"
+    ]
+  },
+  {
+    "title": "Citi Reiterates Buy Rating on Apple (AAPL), Keeps PT at $240",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_621ab329-e178-4783-ac89-905b4393b793",
+    "predict_label": "관망",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "제공된 뉴스 기사의 내용이 없어, 투자에 대한 판단을 내릴 수 있는 충분한 정보가 부족합니다.",
+    "keywords": [
+      "뉴스 없음",
+      "정보 부족",
+      "판단 불가"
+    ]
+  },
+  {
+    "title": "iOS 19 Design Changes Rumored to Extend to Apple TV and Apple Watch",
+    "url": "https://www.macrumors.com/2025/05/26/tvos-19-watchos-12-design-changes-rumor/",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Apple의 운영 체제들이 이번 연도에 디자인 변경을 받을 예정이라는 보고가 있습니다. iOS 19, iPadOS 19, macOS 16 등의 새로운 디자인은 더 유리처럼 보이는 투명성이 추가될 것으로 예상되며, 이는 Apple TV의 tvOS 19와 Apple Watch의 watchOS 12에도 확장될 것입니다. 또한, 이러한 디자인 변경은 Apple의 Vision Pro 헤드셋을 위한 visionOS에서 영감을 받았으며, visionOS 3 역시 자체 디자인 변경을 가질 것으로 예상됩니다. 전반적으로 Apple은 운영 체제 간에 더 일관된 외관을 추구하고 있습니다. 이러한 정보들은 Apple의 제품과 서비스 개선을 시사하며, 이는 회사의 주가에 긍정적인 영향을 미칠 수 있습니다.",
+    "keywords": [
+      "Apple",
+      "운영 체제",
+      "디자인 변경",
+      "일관된 외관",
+      "WWDC 2025"
+    ]
+  },
+  {
+    "title": "Memorial Day Apple Deals Include Low Prices on AirPods, Apple Watch, iPad, and More",
+    "url": "https://www.macrumors.com/2025/05/26/memorial-day-apple-deals-2025/",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Amazon에서 다양한 Apple 제품들에 대해 큰 할인을 진행하고 있으며, AirPods, Apple Watch, iPad, Apple Pencil Pro, 및 MacBook Air 등 다양한 제품들이 대상입니다. 또한, Memorial Day 할인을 통해 Samsung, Logitech, Belkin 등 다른 인기 브랜드의 제품들도 할인 받을 수 있습니다. 이러한 할인 행사는 소비자들의 관심을 끌어 Amazon의 매출을 증가시킬 것으로 예상됩니다.",
+    "keywords": [
+      "Amazon",
+      "Apple",
+      "할인",
+      "매출 증가",
+      "소비자"
+    ]
+  },
+  {
+    "title": "Apple Store in the Netherlands Temporarily Closing Starting Next Month",
+    "url": "https://www.macrumors.com/2025/05/29/apple-den-haag-temporarily-closing/",
+    "predict_label": "관망",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Apple이 네덜란드의 Den Haag 매장을 임시로 닫고 리모델링을 시작한다는 사실은 회사의 진행 중인 사업 전략과 관련이 있습니다. 재개장일은 아직 확정되지 않았으나, 리모델링은 종종 몇 달이 걸리기 때문에 재개장이 빠르면 몇 달 후가 될 것입니다. 또한, 리모델링된 매장은 온라인 주문을 위한 Apple Pickup 스테이션, 향상된 접근성 등을 특징으로 할 것으로 예상됩니다. 이러한 정보는 Apple의 비즈니스 전략에 대한 이해를 높이는 데 도움이 되지만, 현재로서는 해당 정보가 Apple 주식의 가치에 미치는 직접적인 영향을 판단하기 어렵습니다.",
+    "keywords": [
+      "Apple",
+      "Den Haag store",
+      "renovations",
+      "temporarily closed",
+      "Netherlands"
+    ]
+  },
+  {
+    "title": "Android Auto will get Spotify Jam and support for video apps and web browsers",
+    "url": "https://www.theverge.com/news/674126/android-auto-spotify-jam-web-browsers-video-apps",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Google의 Android Auto가 신규 기능 및 업데이트를 통해 사용자 경험을 향상시키고 있음을 확인할 수 있습니다. 이는 Google의 기술력과 지속적인 혁신을 보여주는 동시에, 사용자 수를 늘리고, 장기적인 성장을 기대할 수 있게 합니다. 특히, Spotify와의 협력을 통해 새롭게 소개되는 'Spotify Jam' 기능은 사용자들이 공동으로 오디오를 제어할 수 있는 기능을 제공하며, 이를 통해 Android Auto의 접근성과 연동성을 높일 것으로 보입니다.",
+    "keywords": [
+      "Google",
+      "Android Auto",
+      "Spotify",
+      "업데이트",
+      "혁신"
+    ]
+  },
+  {
+    "title": "OpenAI wants ChatGPT to be a ‘super assistant’ for every part of your life",
+    "url": "https://www.theverge.com/command-line-newsletter/677705/openai-chatgpt-super-assistant",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "OpenAI의 ChatGPT는 더욱 강력한 AI 슈퍼 어시스턴트로 발전하는 계획을 가지고 있으며, 이는 더욱 풍부하고 개인화된 서비스를 제공할 수 있다는 것을 의미합니다. 이를 통해 OpenAI는 기존의 챗봇 시장에서 더욱 독특한 위치를 차지할 수 있을 것입니다. 또한, 이 기업은 자체 데이터 센터를 구축하려는 계획을 가지고 있으며, 이는 ChatGPT의 증가하는 사용량을 처리할 수 있는 더 강력한 인프라를 구축하려는 의지를 보여줍니다. 그러나 이러한 발전은 투자가 필요하며, 이는 긍정적인 성장 및 수익성을 위한 잠재력을 보여줍니다.",
+    "keywords": [
+      "OpenAI",
+      "ChatGPT",
+      "AI 슈퍼 어시스턴트",
+      "데이터 센터",
+      "성장 잠재력"
+    ]
+  },
+  {
+    "title": "Apple Raises iCloud+ Prices in Three Countries",
+    "url": "https://www.macrumors.com/2025/05/26/apple-raises-icloud-prices-in-three-countries/",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Apple이 최근 iCloud+의 가격을 브라질, 칠레, 페루에서 인상했습니다. 2024년 동안 Apple은 일본, 한국, 태국, 인도네시아, 터키, 파키스탄, 나이지리아, 이집트, 탄자니아, 필리핀 등 최소 10개 국가에서 일부 또는 모든 iCloud+ 저장 공간 계획의 가격을 인상했습니다. 이러한 가격 인상은 Apple의 수익성 증가를 의미할 수 있으며, 그에 따라 주가가 상승할 가능성이 있습니다.",
+    "keywords": [
+      "Apple",
+      "iCloud+",
+      "가격 인상",
+      "브라질",
+      "칠레",
+      "페루"
+    ]
+  },
+  {
+    "title": "You Can Earn a Running Day Apple Watch Activity Award on June 4",
+    "url": "https://www.macrumors.com/2025/05/27/apple-watch-running-day-activity/",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Apple은 적극적으로 Apple Watch에 관한 다양한 이벤트를 개최하며 고객 참여를 유도하고 있다. 이는 Apple Watch의 사용자 경험을 향상시키고, 신규 사용자를 끌어들이는 방법이다. 이런 활동은 Apple의 성장성을 보여주며, 회사의 주가에 긍정적인 영향을 미칠 수 있다.",
+    "keywords": [
+      "Apple Watch",
+      "Activity Challenge",
+      "Global Running Day",
+      "Customer Engagement",
+      "Growth"
+    ]
+  },
+  {
+    "title": "Apple Executives Won't Be Appearing at This Year's WWDC Episode of The Talk Show Live",
+    "url": "https://www.macrumors.com/2025/05/29/no-apple-executives-talk-show-live/",
+    "predict_label": "매도",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "기사에서 언급된 바와 같이 애플은 기존의 전통을 무시하고 Gruber의 토크쇼에 출연하지 않기로 결정했습니다. 이는 Gruber가 애플의 서비스 지연에 대해 부정적인 의견을 표명한데 대한 보복으로 보일 수 있습니다. 이러한 상황은 애플의 기업 이미지에 부정적인 영향을 미칠 수 있으며, 이는 장기적으로 주가에 악영향을 미칠 수 있습니다. 또한, 애플이 발표한 기능이 실제로 작동하지 않는다는 것이 밝혀졌고, 이는 고객의 신뢰를 손상시킬 수 있습니다.",
+    "keywords": [
+      "애플",
+      "Gruber",
+      "서비스 지연",
+      "기업 이미지",
+      "고객 신뢰"
+    ]
+  },
+  {
+    "title": "Report: Apple Planned to Offer Starlink-Like Home Internet Service",
+    "url": "https://www.macrumors.com/2025/05/27/apple-planned-home-internet-service/",
+    "predict_label": "매도",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Apple의 위성 인터넷 서비스 계획이 연기되거나 취소된 상황에서, 회사는 이미 수백만 달러를 들여 해당 서비스를 유지하고 있습니다. 또한, 이 서비스는 이미 시대에 뒤떨어진 것으로 보이며, 더 나아가 애플의 텔레콤 파트너들을 화나게 할 수 있다는 우려가 있습니다. 애플이 이런 위성 기능을 유지하려는 몇몇 고위 경영진에 대한 반대가 이어지고 있습니다. 이들은 고객들이 자신들의 모바일 통신사를 통해 위성 기능을 가입할 가능성이 더 높다고 주장하고 있습니다.",
+    "keywords": [
+      "Apple",
+      "satellite internet service",
+      "Project Eagle",
+      "telecom partners",
+      "discontinue"
+    ]
+  },
+  {
+    "title": "Apple Card Savings Account's Interest Rate Lowered Again",
+    "url": "https://www.macrumors.com/2025/05/28/apple-card-savings-account-rate-lowered-again/",
+    "predict_label": "관망",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Apple Card의 저축 계좌 이자율이 사상 최저로 내려갔지만, 그래도 일반적인 저축 계좌 이자율보다는 높게 유지되고 있다. 또한, Goldman Sachs와의 파트너십에서 보고된 결별은 현재 Apple Card 사용자에게 어떤 영향을 미칠지 아직 불확실하다. 이러한 불확실성들 때문에 현재는 관망하는 것이 좋다.",
+    "keywords": [
+      "Apple Card",
+      "이자율 하락",
+      "Goldman Sachs",
+      "파트너십",
+      "불확실성"
+    ]
+  },
+  {
+    "title": "Apple Buys Its First Ever Video Game Studio",
+    "url": "https://www.cnet.com/tech/services-and-software/apple-buys-its-first-ever-video-game-studio/",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Apple이 인기 게임 'Sneaky Sasquatch'를 만든 게임 스튜디오 RAC7을 인수했다는 소식은 Apple이 모바일 게임 산업으로의 진입을 가속화하려는 의도를 보여줍니다. 모바일 게임 산업은 고도로 수익성이 좋은 산업으로, 2023년에는 게임 수익의 절반을 차지하는 등 빠르게 성장하고 있습니다. 이러한 Apple의 전략적인 행보는 회사의 순익 증가를 뒷받침할 것으로 예상되므로 주식을 매수하는 것이 좋다고 판단됩니다.",
+    "keywords": [
+      "Apple",
+      "RAC7 인수",
+      "모바일 게임",
+      "Apple Arcade",
+      "Sneaky Sasquatch"
+    ]
+  },
+  {
+    "title": "Trump’s tariff threat now targets Samsung and your favorite smartphones",
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/trumps-tariff-threat-now-targets-samsung-and-your-favorite-smartphones",
+    "predict_label": "매도",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "미국 대통령 트럼프가 미국 내에서 제조되지 않은 모든 스마트폰에 25%의 관세를 부과하겠다는 계획을 밀고 있으며, 이에 따라 애플과 삼성 등의 기업이 큰 압박을 받고 있다. 특히 삼성은 이러한 관세 부과로 인해 가격을 소비자에게 전가할 가능성이 높아짐에 따라 미국 내에서의 판매가 떨어질 수 있다. 또한, 미중 무역 전쟁으로 인해 중국에서 제조되는 아이폰에 대한 관세 부과로 애플의 주가에도 영향을 미칠 수 있다.",
+    "keywords": [
+      "트럼프",
+      "25% 관세",
+      "애플",
+      "삼성",
+      "미중 무역 전쟁"
+    ]
+  }
+]

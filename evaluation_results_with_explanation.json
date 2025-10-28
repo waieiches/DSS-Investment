@@ -1,0 +1,1968 @@
+[
+  {
+    "summary": "Amazon held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Amazon",
+      "IPO filing",
+      "regulatory approval",
+      "dividend announcement"
+    ],
+    "true_label": "매도",
+    "predicted_label": "관망",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "주어진 뉴스 요약과 키워드는 Amazon의 개발자 회의에 대한 내용이지만, IPO filing, regulatory approval, dividend announcement에 대한 구체적인 정보가 없습니다. 따라서 이 정보만으로는 투자 판단을 내리기 어렵습니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "IPO filing",
+      "regulatory approval",
+      "dividend announcement"
+    ]
+  },
+  {
+    "summary": "Netflix is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Netflix",
+      "leadership change",
+      "market expansion"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "Netflix가 최근의 부정행위 혐의로 SEC 조사를 받고 있다는 뉴스는 회사의 신뢰성과 주가에 부정적인 영향을 미칠 수 있습니다. 이러한 불확실성은 투자자들에게 위험 요소로 작용하므로, 현재로서는 매도를 권장합니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "SEC investigation",
+      "misconduct",
+      "risk"
+    ]
+  },
+  {
+    "summary": "Intel updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Intel",
+      "market expansion",
+      "cloud growth",
+      "chip shortage"
+    ],
+    "true_label": "매수",
+    "predicted_label": "관망",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "Intel이 서비스 약관을 업데이트했지만, 이것이 어떤 영향을 미칠지에 대한 명확한 정보가 없습니다. 또한, 시장의 반응이 혼재되어 있어 이를 통해 투자 판단을 내리기에는 불확실성이 있습니다. 키워드에는 '시장 확장', '클라우드 성장', '칩 부족' 등이 있지만, 이들이 어떻게 Intel의 주가에 영향을 미칠지에 대한 구체적인 정보가 뉴스에서 제공되지 않았습니다.",
+    "extracted_keywords": [
+      "Intel",
+      "서비스 약관 업데이트",
+      "혼재된 반응",
+      "불확실성"
+    ]
+  },
+  {
+    "summary": "Microsoft announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Microsoft",
+      "market expansion",
+      "partnership"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.44,
+    "source": "GPT fallback",
+    "reason": "Microsoft가 예상보다 더 좋은 실적을 발표했기 때문에 투자자들의 신뢰가 증가했습니다. 이는 회사의 성장 가능성을 시사하며, 이는 주가 상승을 예상하게 합니다.",
+    "extracted_keywords": [
+      "Microsoft",
+      "better-than-expected earnings",
+      "investor confidence",
+      "market expansion"
+    ]
+  },
+  {
+    "summary": "Intel announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Intel",
+      "earnings beat",
+      "cloud growth",
+      "dividend announcement"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "Intel이 대규모 감원을 발표했다는 뉴스는 회사의 경영 상태가 좋지 않음을 시사합니다. 이는 시장에서의 성과에 대한 우려가 커지고 있음을 반영하며, 이는 주가에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Intel",
+      "massive layoffs",
+      "market performance",
+      "concerns"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Apple saw increased market activity.",
+    "keywords": [
+      "Apple",
+      "partnership",
+      "cyber attack"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.36,
+    "source": "GPT fallback",
+    "reason": "Apple이 새로운 AI 기반 제품을 출시한 후 시장 활동이 증가했다는 뉴스는 Apple의 성장 가능성을 시사합니다. 또한, '파트너십'과 '사이버 공격'이라는 키워드는 Apple이 새로운 파트너십을 맺거나, 사이버 보안에 대한 투자를 확대할 가능성을 시사하는 것으로 해석될 수 있습니다. 이는 Apple의 미래 성장을 위한 투자 기회를 제시하므로 매수를 권장합니다.",
+    "extracted_keywords": [
+      "Apple",
+      "AI 기반 제품",
+      "시장 활동 증가",
+      "파트너십",
+      "사이버 공격"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Meta's user base, raising security concerns.",
+    "keywords": [
+      "Meta",
+      "cost cutting",
+      "SEC investigation",
+      "advertising revenue drop"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.48,
+    "source": "GPT fallback",
+    "reason": "Meta에 대한 데이터 유출 사건은 사용자 기반에 대한 보안 문제를 야기하고 있습니다. 이로 인해 회사의 신뢰성이 손상될 수 있으며, 이는 광고 수익 감소로 이어질 수 있습니다. 또한, 비용 절감과 SEC 조사라는 키워드는 회사의 재무 상태에 대한 우려를 나타냅니다.",
+    "extracted_keywords": [
+      "Meta",
+      "데이터 유출",
+      "보안 문제",
+      "광고 수익 감소"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Google's user base, raising security concerns.",
+    "keywords": [
+      "Google",
+      "regulatory approval",
+      "partnership",
+      "layoffs"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "데이터 유출이라는 심각한 이슈가 발생하여 Google의 사용자 기반에 영향을 미쳤습니다. 이로 인해 보안 문제가 부각되어, 이는 회사의 신뢰도를 하락시키고 잠재적인 법적 문제를 초래할 수 있습니다. 또한, '레이오프'라는 키워드가 나타나는 것으로 보아 회사 내부에서도 불안정성이 존재하는 것으로 보입니다.",
+    "extracted_keywords": [
+      "데이터 유출",
+      "보안 문제",
+      "신뢰도 하락",
+      "레이오프"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Google saw increased market activity.",
+    "keywords": [
+      "Google",
+      "dividend announcement",
+      "cloud growth",
+      "cyber attack"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Google이 새로운 AI 기반 제품을 출시하면서 시장 활동이 증가했다는 뉴스는 Google의 혁신력과 시장에서의 경쟁력을 보여줍니다. 또한, 'cloud growth' 키워드는 Google의 클라우드 사업이 성장하고 있음을 시사하며, 이는 장기적인 성장 가능성을 암시합니다. 'dividend announcement'는 주주들에게 이익을 돌려줄 가능성을 나타내므로 긍정적인 신호입니다. 'cyber attack'은 부정적인 요소로 보일 수 있지만, 이는 Google의 보안 강화 필요성을 보여주며, 이를 통해 Google이 보안에 더 투자하게 될 가능성을 시사합니다.",
+    "extracted_keywords": [
+      "AI-powered product",
+      "market activity",
+      "cloud growth",
+      "dividend announcement"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Netflix's user base, raising security concerns.",
+    "keywords": [
+      "Netflix",
+      "stock split",
+      "supply chain issue"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Netflix의 데이터 유출 사건으로 인해 사용자들의 보안에 대한 우려가 커지고 있습니다. 이는 Netflix의 브랜드 이미지와 신뢰도를 손상시킬 수 있으며, 이로 인해 주식 가치가 하락할 가능성이 있습니다. 또한, 키워드에 'stock split'과 'supply chain issue'가 포함되어 있어, 회사의 주식 분할 계획이나 공급망 문제가 있을 수 있다는 신호로 해석될 수 있습니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "data breach",
+      "stock split",
+      "supply chain issue"
+    ]
+  },
+  {
+    "summary": "Meta is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Meta",
+      "cloud growth",
+      "antitrust lawsuit"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매도",
+    "confidence": 0.47,
+    "source": "GPT fallback",
+    "reason": "Meta가 최근의 부정행위 의혹으로 SEC의 조사를 받고 있습니다. 이는 회사의 신뢰성을 훼손시키고 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 'antitrust lawsuit' 키워드는 경쟁법 위반 소송을 의미하며, 이는 회사에게 불리한 상황을 야기할 수 있습니다.",
+    "extracted_keywords": [
+      "Meta",
+      "SEC investigation",
+      "misconduct",
+      "antitrust lawsuit"
+    ]
+  },
+  {
+    "summary": "Nvidia held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Nvidia",
+      "leadership change",
+      "cloud growth"
+    ],
+    "true_label": "매수",
+    "predicted_label": "관망",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "제공된 정보만으로는 Nvidia의 주식을 매수하거나 매도하기에 충분한 정보가 없습니다. Nvidia가 개발자 회의에서 어떤 혁신을 보여주었는지, 리더십 변화가 어떤 영향을 미치는지, 클라우드 성장이 어떻게 이루어지고 있는지에 대한 구체적인 내용이 필요합니다.",
+    "extracted_keywords": [
+      "Nvidia",
+      "leadership change",
+      "cloud growth",
+      "developer conference"
+    ]
+  },
+  {
+    "summary": "Apple is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Apple",
+      "SEC investigation",
+      "data breach",
+      "stock split"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "Apple이 아시아의 새로운 시장을 탐색하고 있다는 뉴스는 회사의 장기 전략의 일부로 볼 수 있습니다. 이는 회사의 성장 가능성을 나타내며, 이는 주가에 긍정적인 영향을 미칠 수 있습니다. 그러나 SEC 조사와 데이터 유출, 주식 분할 등의 키워드는 주의가 필요하다는 신호일 수 있으므로, 이러한 요소들을 계속 모니터링하는 것이 중요합니다.",
+    "extracted_keywords": [
+      "Apple",
+      "Asia",
+      "new markets",
+      "long-term strategy"
+    ]
+  },
+  {
+    "summary": "Nvidia held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Nvidia",
+      "product delay",
+      "IPO filing"
+    ],
+    "true_label": "매수",
+    "predicted_label": "관망",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "제공된 정보만으로는 Nvidia의 주식을 매수하거나 매도할 충분한 근거가 제시되지 않았습니다. Nvidia가 개발자 회의를 개최했다는 사실만으로는 회사의 재무 상태나 성장 전망을 정확히 알 수 없습니다. 또한, '제품 지연'과 'IPO filing'이라는 키워드가 어떻게 Nvidia와 관련되어 있는지 명확하지 않습니다.",
+    "extracted_keywords": [
+      "Nvidia",
+      "개발자 회의",
+      "제품 지연",
+      "IPO filing"
+    ]
+  },
+  {
+    "summary": "Microsoft secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Microsoft",
+      "earnings beat",
+      "layoffs"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.45,
+    "source": "GPT fallback",
+    "reason": "Microsoft가 주요 파트너십을 확보하여 전 세계적으로 클라우드 서비스를 확장하고 있다는 뉴스는 Microsoft의 성장 잠재력을 보여줍니다. 이는 회사의 수익성을 높일 수 있으며, 따라서 주가에 긍정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Microsoft",
+      "클라우드 서비스",
+      "파트너십",
+      "확장"
+    ]
+  },
+  {
+    "summary": "Netflix announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Netflix",
+      "supply chain issue",
+      "stock split",
+      "regulatory approval"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "Netflix의 이번 분기 실적이 예상보다 좋아 투자자들의 신뢰를 높였습니다. 이는 주가 상승을 예상하게 만들며, 이에 따라 매수 판단을 내립니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "better-than-expected earnings",
+      "investor confidence",
+      "stock price"
+    ]
+  },
+  {
+    "summary": "Meta updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Meta",
+      "new product",
+      "stock split",
+      "leadership change"
+    ],
+    "true_label": "매도",
+    "predicted_label": "관망",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "Meta의 이용 약관 업데이트에 대한 공개적인 반응이 혼합적이므로, 이것이 회사에 어떤 영향을 미칠지 확실하지 않습니다. 또한, 뉴스 요약에는 새로운 제품, 주식 분할, 리더십 변화와 같은 키워드가 포함되어 있지만, 이들에 대한 구체적인 정보가 부족하여 투자 판단을 내리기 어렵습니다.",
+    "extracted_keywords": [
+      "Meta",
+      "terms of service",
+      "mixed reactions",
+      "uncertainty"
+    ]
+  },
+  {
+    "summary": "Amazon announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Amazon",
+      "leadership change",
+      "stock split"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "Amazon이 대규모 인력 감축을 발표했다는 뉴스는 회사의 재무 상태에 대한 부정적인 신호를 보내고 있습니다. 또한, 시장 성과에 대한 우려가 커지고 있어 주가에 부정적인 영향을 미칠 가능성이 높습니다. 또한, 리더십 변화와 주식 분할이라는 키워드는 불확실성을 높이는 요소로 작용할 수 있습니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "대규모 인력 감축",
+      "시장 성과 우려",
+      "리더십 변화",
+      "주식 분할"
+    ]
+  },
+  {
+    "summary": "Google announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Google",
+      "acquisition",
+      "leadership change"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "Google이 예상보다 더 좋은 실적을 발표했기 때문에 투자자들의 신뢰가 증가했습니다. 이는 주식 가치의 상승을 예상하게 만듭니다.",
+    "extracted_keywords": [
+      "Google",
+      "better-than-expected earnings",
+      "boosting",
+      "investor confidence"
+    ]
+  },
+  {
+    "summary": "Netflix secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Netflix",
+      "earnings beat",
+      "partnership"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Netflix가 글로벌 클라우드 서비스를 확장하기 위한 주요 파트너십을 확보했다는 뉴스는 회사의 성장 가능성을 보여줍니다. 이러한 파트너십은 Netflix의 서비스 범위를 확장하고, 더 많은 고객에게 서비스를 제공하게 됨으로써 수익을 늘릴 수 있습니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "partnership",
+      "cloud services",
+      "global expansion"
+    ]
+  },
+  {
+    "summary": "Amazon announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Amazon",
+      "acquisition",
+      "AI launch",
+      "leadership change"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Amazon이 예상보다 더 좋은 실적을 발표했기 때문에 투자자들의 신뢰가 증가했습니다. 또한, 키워드를 보면 Amazon이 인수와 AI 출시, 리더십 변화 등을 진행하고 있음을 알 수 있습니다. 이러한 요인들은 Amazon의 성장 가능성을 나타내는 중요한 지표로 볼 수 있습니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "better-than-expected earnings",
+      "acquisition",
+      "AI launch",
+      "leadership change"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Meta's user base, raising security concerns.",
+    "keywords": [
+      "Meta",
+      "earnings beat",
+      "IPO filing",
+      "market expansion"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "Meta의 사용자 데이터가 유출되어 보안 문제가 발생하였습니다. 이는 회사의 신뢰도를 손상시키고, 사용자의 이탈을 초래할 수 있습니다. 이러한 이슈는 회사의 수익성에 부정적인 영향을 미칠 수 있으며, 주가에도 악영향을 미칠 가능성이 있습니다.",
+    "extracted_keywords": [
+      "Meta",
+      "data breach",
+      "security concerns",
+      "user base"
+    ]
+  },
+  {
+    "summary": "Amazon is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Amazon",
+      "dividend announcement",
+      "supply chain issue",
+      "layoffs"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매도",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "Amazon이 최근의 부정행위 혐의로 SEC 조사를 받고 있습니다. 이는 회사의 신뢰성과 재무 건전성에 영향을 미칠 수 있으며, 이는 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 공급망 문제와 해고라는 키워드는 Amazon의 운영 상황이 좋지 않음을 시사하며, 이는 장기적으로 주가에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "SEC investigation",
+      "supply chain issue",
+      "layoffs"
+    ]
+  },
+  {
+    "summary": "Netflix held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Netflix",
+      "chip shortage",
+      "cost cutting",
+      "layoffs"
+    ],
+    "true_label": "매수",
+    "predicted_label": "관망",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "주어진 정보만으로는 Netflix의 주식에 대한 투자 판단을 내리기 어렵습니다. 개발자 회의에서 어떤 혁신이 공개되었는지, 칩 부족이 얼마나 심각한지, 비용 절감과 인력 감축이 어떤 영향을 미칠지에 대한 구체적인 내용이 필요합니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "chip shortage",
+      "cost cutting",
+      "layoffs"
+    ]
+  },
+  {
+    "summary": "Tesla held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Tesla",
+      "product delay",
+      "SEC investigation"
+    ],
+    "true_label": "관망",
+    "predicted_label": "관망",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Tesla가 개발자 회의에서 다가오는 혁신을 선보였다는 정보만으로는 투자 판단을 내리기에 충분한 정보가 제공되지 않았습니다. 또한, '제품 지연'과 'SEC 조사'라는 키워드가 언급되었지만, 이에 대한 구체적인 내용이 없어 투자에 대한 확실한 판단을 내리기 어렵습니다.",
+    "extracted_keywords": [
+      "Tesla",
+      "product delay",
+      "SEC investigation",
+      "developer conference"
+    ]
+  },
+  {
+    "summary": "Microsoft held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Microsoft",
+      "IPO filing",
+      "cloud growth"
+    ],
+    "true_label": "매도",
+    "predicted_label": "관망",
+    "confidence": 0.34,
+    "source": "GPT fallback",
+    "reason": "Microsoft가 개발자 회의를 열었으며, 다가오는 혁신을 선보였다는 정보만 제공되었고, IPO filing이나 cloud growth와 같은 구체적인 경제 지표나 금융 데이터는 제공되지 않았습니다. 따라서 이 뉴스만으로는 Microsoft의 주식을 매수하거나 매도하는 결정을 내리기에는 정보가 부족합니다.",
+    "extracted_keywords": [
+      "Microsoft",
+      "개발자 회의",
+      "혁신",
+      "정보 부족"
+    ]
+  },
+  {
+    "summary": "Intel announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Intel",
+      "earnings beat",
+      "supply chain issue"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.46,
+    "source": "GPT fallback",
+    "reason": "Intel이 예상보다 더 좋은 실적을 발표했기 때문에 투자자들의 신뢰가 상승하였습니다. 이는 회사의 성장 가능성을 시사하며, 이에 따라 주가가 상승할 가능성이 있습니다.",
+    "extracted_keywords": [
+      "Intel",
+      "earnings beat",
+      "investor confidence",
+      "growth potential"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Nvidia saw increased market activity.",
+    "keywords": [
+      "Nvidia",
+      "recall",
+      "chip shortage",
+      "regulatory approval"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.34,
+    "source": "GPT fallback",
+    "reason": "Nvidia가 새로운 AI 기반 제품을 출시하면서 시장 활동이 증가했다는 뉴스가 보고되었습니다. 이는 회사의 혁신력과 기술력을 보여주는 좋은 지표이며, 이러한 발전은 장기적으로 주가에 긍정적인 영향을 미칠 수 있습니다. 그러나 'recall'과 'chip shortage'라는 키워드도 있으므로, 이 부분에 대한 추가적인 정보와 분석이 필요할 수 있습니다. 'regulatory approval' 키워드는 새로운 제품이 규제 기관의 승인을 받았다는 것을 시사할 수도 있으므로, 이는 또 다른 긍정적인 신호입니다.",
+    "extracted_keywords": [
+      "Nvidia",
+      "AI-powered product",
+      "market activity",
+      "regulatory approval"
+    ]
+  },
+  {
+    "summary": "Google is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Google",
+      "antitrust lawsuit",
+      "advertising revenue drop"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Google이 아시아 신규 시장을 탐색하는 것은 장기적인 전략의 일부로, 이는 회사의 성장 잠재력을 나타내는 긍정적인 신호입니다. 물론, 공정거래법 소송과 광고 수익 감소는 단기적인 위험 요소로 볼 수 있지만, Google의 다양한 사업 포트폴리오와 혁신 능력을 고려할 때 이러한 문제를 극복할 수 있을 것으로 예상됩니다.",
+    "extracted_keywords": [
+      "Google",
+      "Asia",
+      "new markets",
+      "long-term strategy"
+    ]
+  },
+  {
+    "summary": "Netflix secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Netflix",
+      "partnership",
+      "antitrust lawsuit"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Netflix가 전 세계적으로 클라우드 서비스를 확장하기 위해 주요 파트너십을 확보한 것은 회사의 성장 가능성을 높이는 긍정적인 요소입니다. 이는 Netflix의 서비스 향상, 고객 기반 확대, 그리고 수익 증가를 이끌 수 있습니다. 그러나, 'antitrust lawsuit' 키워드가 언급되어 있어, 이 부분에 대한 추가 정보와 법적 위험을 확인하는 것이 필요합니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "partnership",
+      "cloud services",
+      "antitrust lawsuit"
+    ]
+  },
+  {
+    "summary": "Netflix is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Netflix",
+      "cost cutting",
+      "dividend announcement",
+      "IPO filing"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매도",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "Netflix가 최근의 부정행위에 대한 SEC 조사에 직면하고 있어, 이는 회사의 재정 상황과 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 비용 절감, 배당 발표, IPO 제출 등의 키워드는 회사의 재정 상황에 대한 불확실성을 나타내며, 이는 주가에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "SEC 조사",
+      "부정행위",
+      "비용 절감"
+    ]
+  },
+  {
+    "summary": "Netflix secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Netflix",
+      "IPO filing",
+      "layoffs"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Netflix가 전 세계적으로 클라우드 서비스를 확장하기 위한 주요 파트너십을 확보했다는 뉴스는 회사의 성장 가능성을 보여줍니다. 이러한 전략적 파트너십은 Netflix의 사업 영역을 확장하고, 더 많은 고객에게 서비스를 제공할 수 있는 기회를 제공하므로, 장기적으로 회사의 수익성을 높일 수 있습니다. 그러나 'IPO filing'과 'layoffs'라는 키워드는 추가적인 정보가 필요하므로, 이 부분은 추가적인 연구가 필요합니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "클라우드 서비스",
+      "파트너십",
+      "확장"
+    ]
+  },
+  {
+    "summary": "Tesla secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Tesla",
+      "regulatory approval",
+      "cloud growth"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.45,
+    "source": "GPT fallback",
+    "reason": "Tesla가 전 세계적으로 클라우드 서비스를 확장하기 위한 주요 파트너십을 확보했다는 뉴스는 회사의 성장 전략과 미래 가치에 대한 긍정적인 시그널입니다. 이는 Tesla의 기술 및 서비스 영역을 넓히고, 이에 따른 수익 증가 가능성을 시사합니다.",
+    "extracted_keywords": [
+      "Tesla",
+      "partnership",
+      "cloud services",
+      "global expansion"
+    ]
+  },
+  {
+    "summary": "Netflix held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Netflix",
+      "partnership",
+      "regulatory approval",
+      "cyber attack"
+    ],
+    "true_label": "관망",
+    "predicted_label": "관망",
+    "confidence": 0.34,
+    "source": "GPT fallback",
+    "reason": "뉴스 요약 내용이 Netflix의 개발자 회의를 진행했다는 사실 외에는 특별한 정보를 제공하지 않습니다. 따라서 이 정보만으로는 Netflix의 주식에 대한 투자 판단을 내리기 어렵습니다. 제공된 키워드 중 'partnership', 'regulatory approval', 'cyber attack'에 대한 구체적인 내용이 없어 이를 통해 투자 결정을 내리기는 어렵습니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "developer conference",
+      "partnership",
+      "regulatory approval",
+      "cyber attack"
+    ]
+  },
+  {
+    "summary": "Apple is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Apple",
+      "new product",
+      "dividend announcement",
+      "stock split"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매도",
+    "confidence": 0.47,
+    "source": "GPT fallback",
+    "reason": "Apple이 SEC 조사를 받고 있다는 뉴스는 주식 가치에 부정적인 영향을 미칠 수 있습니다. 특히, 부정행위에 대한 혐의가 있다면, 이는 회사의 신용도를 손상시키고, 투자자들의 신뢰를 잃을 수 있으므로 주의가 필요합니다.",
+    "extracted_keywords": [
+      "Apple",
+      "SEC investigation",
+      "allegations of misconduct",
+      "stock value"
+    ]
+  },
+  {
+    "summary": "Google is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Google",
+      "advertising revenue drop",
+      "AI launch",
+      "dividend announcement"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "Google이 아시아의 새로운 시장을 탐색하고 있음은 회사의 장기 전략의 일부로 보입니다. 이는 새로운 성장 기회를 찾고 있음을 시사하며, 이는 잠재적으로 주가에 긍정적인 영향을 미칠 수 있습니다. 또한, AI 론칭은 기술 투자를 확대하고 있음을 보여주며, 이는 회사의 미래 성장을 뒷받침할 수 있습니다. 그러나 광고 수익의 감소는 주의가 필요한 부분이며, 이는 회사의 주요 수익원에 영향을 미칠 수 있습니다. 그러나 배당 발표는 주주 가치를 높이는 데 기여할 수 있습니다.",
+    "extracted_keywords": [
+      "아시아 신규 시장",
+      "AI 론칭",
+      "광고 수익 감소",
+      "배당 발표"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Intel saw increased market activity.",
+    "keywords": [
+      "Intel",
+      "cyber attack",
+      "new product",
+      "SEC investigation"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.44,
+    "source": "GPT fallback",
+    "reason": "Intel이 새로운 AI 기반 제품을 출시하면서 시장 활동이 증가했다는 뉴스가 있습니다. 이는 Intel의 기술력과 혁신성을 보여주는 좋은 지표이며, 이러한 성장은 주가에 긍정적인 영향을 미칠 수 있습니다. 그러나 'cyber attack'과 'SEC investigation'이라는 키워드가 있어서, 이 부분은 추가적인 정보를 수집하고 분석해야 할 필요가 있습니다.",
+    "extracted_keywords": [
+      "Intel",
+      "new product",
+      "market activity",
+      "AI"
+    ]
+  },
+  {
+    "summary": "Amazon secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Amazon",
+      "layoffs",
+      "cyber attack"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.44,
+    "source": "GPT fallback",
+    "reason": "Amazon이 전 세계적으로 클라우드 서비스를 확장하기 위한 주요 파트너십을 확보한 것은 회사의 성장 가능성을 보여줍니다. 이는 Amazon의 수익성을 높일 수 있는 기회를 제공하며, 이는 주식 가치를 높일 수 있습니다. 그러나 'layoffs'와 'cyber attack'과 같은 키워드가 포함되어 있어 이 부분에 대한 추가 정보가 필요할 수 있습니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "클라우드 서비스",
+      "파트너십",
+      "확장"
+    ]
+  },
+  {
+    "summary": "Tesla announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Tesla",
+      "earnings beat",
+      "dividend announcement",
+      "recall"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.47,
+    "source": "GPT fallback",
+    "reason": "Tesla가 대규모 감원을 발표했다는 뉴스는 회사의 재무 상태에 대한 우려를 증폭시킵니다. 또한, 시장 성과에 대한 우려가 커지고 있음을 시사하며, 이는 주가에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Tesla",
+      "layoffs",
+      "market performance",
+      "concerns"
+    ]
+  },
+  {
+    "summary": "Tesla announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Tesla",
+      "new product",
+      "SEC investigation"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.44,
+    "source": "GPT fallback",
+    "reason": "Tesla의 대량 해고 소식은 회사의 재정 상태와 시장 성과에 대한 우려를 불러일으키며, 이는 주가에 부정적인 영향을 미칠 수 있습니다. 또한, SEC 조사가 진행 중인 것으로 보아, 회사에 대한 불확실성이 증가하고 있습니다.",
+    "extracted_keywords": [
+      "Tesla",
+      "layoffs",
+      "market performance",
+      "SEC investigation"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Amazon saw increased market activity.",
+    "keywords": [
+      "Amazon",
+      "regulatory approval",
+      "chip shortage"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.35,
+    "source": "GPT fallback",
+    "reason": "Amazon이 새로운 AI 기반 제품을 출시한 후 시장 활동이 증가했다는 뉴스는 Amazon의 혁신력과 시장 반응을 보여줍니다. 그러나 키워드 중 'chip shortage'가 포함되어 있어, 반도체 부족 문제가 Amazon의 제품 생산에 영향을 미칠 수 있음을 시사합니다. 그러나 Amazon의 규모와 다양한 사업 영역을 고려할 때, 이러한 문제는 장기적으로는 크게 영향을 미치지 않을 것으로 예상됩니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "AI-powered product",
+      "market activity",
+      "chip shortage"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Microsoft's user base, raising security concerns.",
+    "keywords": [
+      "Microsoft",
+      "antitrust lawsuit",
+      "product delay"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "데이터 유출은 Microsoft의 사용자 기반에 영향을 미치며 보안 문제를 초래하였습니다. 이는 회사의 신뢰성을 손상시키고, 장기적으로는 사용자 수 감소로 이어질 수 있습니다. 또한, 키워드에 언급된 'antitrust lawsuit'와 'product delay'는 회사에 대한 부정적인 시그널로 해석될 수 있습니다. 이러한 이유로 Microsoft의 주식을 매도하는 것이 좋다고 판단됩니다.",
+    "extracted_keywords": [
+      "데이터 유출",
+      "보안 문제",
+      "antitrust lawsuit",
+      "product delay"
+    ]
+  },
+  {
+    "summary": "Google is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Google",
+      "supply chain issue",
+      "market expansion"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "Google이 아시아의 새로운 시장을 탐색하는 것은 장기적 전략의 일부로, 이는 회사의 성장 잠재력을 높일 수 있습니다. 또한, 공급망 문제에 대한 언급이 있지만, Google은 이러한 문제를 해결하기 위한 충분한 자원을 가지고 있을 것으로 예상됩니다.",
+    "extracted_keywords": [
+      "Google",
+      "Asia",
+      "market expansion",
+      "supply chain issue"
+    ]
+  },
+  {
+    "summary": "Intel announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Intel",
+      "product delay",
+      "cost cutting",
+      "supply chain issue"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Intel이 예상보다 더 좋은 실적을 발표했기 때문에 투자자들의 신뢰가 증가했습니다. 이는 주가 상승을 예상하게 만듭니다. 또한, 제품 지연, 비용 절감, 공급망 문제 등의 키워드가 언급되었지만, 이러한 문제들이 이미 주가에 반영되었거나, 회사가 이를 해결하기 위한 전략을 가지고 있을 가능성이 있습니다.",
+    "extracted_keywords": [
+      "Intel",
+      "better-than-expected earnings",
+      "investor confidence",
+      "product delay"
+    ]
+  },
+  {
+    "summary": "Netflix held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Netflix",
+      "chip shortage",
+      "market expansion"
+    ],
+    "true_label": "매도",
+    "predicted_label": "관망",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "뉴스 요약 내용이 Netflix의 개발자 회의에 대한 내용이지만, 구체적인 혁신이나 변화에 대한 정보가 없습니다. 또한, 키워드에는 'chip shortage'와 'market expansion'이 포함되어 있지만, 이 두 가지가 Netflix에 어떤 영향을 미치는지에 대한 정보가 없습니다. 따라서 현재로서는 Netflix 주식에 대한 투자 판단을 내리기 어렵습니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "developer conference",
+      "chip shortage",
+      "market expansion"
+    ]
+  },
+  {
+    "summary": "Intel held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Intel",
+      "product delay",
+      "layoffs",
+      "new product"
+    ],
+    "true_label": "매도",
+    "predicted_label": "관망",
+    "confidence": 0.36,
+    "source": "GPT fallback",
+    "reason": "주어진 뉴스 요약만으로는 Intel의 주식에 대한 투자 판단을 내리기에 충분한 정보가 제공되지 않았습니다. 'product delay', 'layoffs', 'new product' 등의 키워드가 언급되었지만, 이것들이 Intel의 재무 상태나 사업 전략에 어떤 영향을 미치는지에 대한 구체적인 내용이 없습니다. 따라서 추가 정보를 기다린 후 투자 판단을 내리는 것이 바람직해 보입니다.",
+    "extracted_keywords": [
+      "Intel",
+      "product delay",
+      "layoffs",
+      "new product"
+    ]
+  },
+  {
+    "summary": "Netflix announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Netflix",
+      "partnership",
+      "IPO filing"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.35,
+    "source": "GPT fallback",
+    "reason": "Netflix가 대규모 감원을 발표했다는 뉴스는 회사의 재무 상태가 좋지 않음을 시사합니다. 이는 시장에서의 성과에 대한 우려가 커지고 있음을 보여주며, 이러한 불확실성은 주가에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "massive layoffs",
+      "market performance",
+      "concerns"
+    ]
+  },
+  {
+    "summary": "Amazon announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Amazon",
+      "partnership",
+      "advertising revenue drop"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.48,
+    "source": "GPT fallback",
+    "reason": "Amazon이 대규모 감원을 발표했으며, 시장 성과에 대한 우려가 커지고 있습니다. 이는 회사의 재무 상태가 좋지 않음을 시사하며, 이는 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 광고 수익 감소에 대한 언급은 회사의 주요 수익원 중 하나가 약화되고 있음을 나타냅니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "massive layoffs",
+      "market performance concerns",
+      "advertising revenue drop"
+    ]
+  },
+  {
+    "summary": "Meta is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Meta",
+      "advertising revenue drop",
+      "chip shortage"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Meta가 아시아 시장을 탐색하는 것은 장기 전략의 일부로, 이는 새로운 성장 기회를 의미합니다. 또한, 광고 수익의 감소와 칩 부족이 현재의 문제일 수 있지만, 이러한 문제는 장기적으로 볼 때 일시적인 것일 수 있습니다. 따라서 Meta의 미래 성장 가능성을 고려할 때, 이 시점에서의 매수가 적절해 보입니다.",
+    "extracted_keywords": [
+      "Meta",
+      "아시아 시장 탐색",
+      "장기 전략",
+      "광고 수익 감소",
+      "칩 부족"
+    ]
+  },
+  {
+    "summary": "Intel updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Intel",
+      "earnings beat",
+      "regulatory approval"
+    ],
+    "true_label": "관망",
+    "predicted_label": "관망",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "Intel이 서비스 이용 약관을 업데이트했지만, 이로 인한 공개 반응이 혼재되어 있어 확실한 판단을 내리기 어렵습니다. 또한, 'earnings beat'과 'regulatory approval'이라는 키워드가 있지만, 이 두 키워드가 어떤 방향으로 Intel의 주가에 영향을 미칠지 명확하게 나타나지 않았습니다.",
+    "extracted_keywords": [
+      "Intel",
+      "terms of service",
+      "mixed reactions",
+      "earnings beat",
+      "regulatory approval"
+    ]
+  },
+  {
+    "summary": "Samsung is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Samsung",
+      "chip shortage",
+      "SEC investigation"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Samsung이 SEC의 조사를 받고 있는 상황에서, 이는 회사의 재무 상태와 신뢰성에 대한 불확실성을 높일 수 있습니다. 또한, 이러한 불확실성은 주가에 부정적인 영향을 미칠 수 있으며, 투자자들은 이러한 위험을 피하려 할 수 있습니다.",
+    "extracted_keywords": [
+      "Samsung",
+      "SEC investigation",
+      "misconduct",
+      "financial uncertainty"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Netflix saw increased market activity.",
+    "keywords": [
+      "Netflix",
+      "cloud growth",
+      "regulatory approval"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.44,
+    "source": "GPT fallback",
+    "reason": "Netflix가 새로운 AI 기반 제품을 출시하여 시장 활동이 증가하였다는 뉴스는 회사의 혁신성과 성장 가능성을 보여줍니다. 이는 주가 상승을 예상하게 하는 긍정적인 신호입니다. 또한, 'cloud growth'와 'regulatory approval' 키워드는 Netflix가 클라우드 기반 서비스를 확장하고 규제 승인을 받았음을 시사하며, 이는 회사의 안정성과 미래 성장을 예상하게 합니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "AI-powered product",
+      "cloud growth",
+      "regulatory approval"
+    ]
+  },
+  {
+    "summary": "Amazon announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Amazon",
+      "acquisition",
+      "product delay",
+      "cloud growth"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "Amazon의 이번 분기 실적이 예상보다 좋아 투자자들의 신뢰를 높였습니다. 이는 주가 상승을 예상하게 하는 좋은 신호입니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "better-than-expected earnings",
+      "boosting investor confidence"
+    ]
+  },
+  {
+    "summary": "Meta announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Meta",
+      "partnership",
+      "regulatory approval",
+      "stock split"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "Meta에서 대규모 인력 감축이 발표된 것은 회사의 경영 상태가 좋지 않음을 시사합니다. 또한, 시장 성과에 대한 우려가 커지고 있어 주가가 하락할 가능성이 높습니다.",
+    "extracted_keywords": [
+      "Meta",
+      "layoffs",
+      "market performance",
+      "concerns"
+    ]
+  },
+  {
+    "summary": "Microsoft announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Microsoft",
+      "chip shortage",
+      "AI launch",
+      "cloud growth"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매도",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Microsoft가 대규모 감원을 발표한 것은 회사의 시장 성과에 대한 우려가 커지고 있음을 시사합니다. 이는 회사의 재무 상태와 미래 성장에 대한 불확실성을 높이며, 이는 주식 가치에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Microsoft",
+      "layoffs",
+      "market performance",
+      "uncertainty"
+    ]
+  },
+  {
+    "summary": "Meta is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Meta",
+      "acquisition",
+      "supply chain issue",
+      "layoffs"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "Meta가 아시아 시장으로의 확장을 탐색하고 있다는 뉴스는 회사의 장기 전략의 일환으로 보입니다. 이는 새로운 시장에서의 성장 가능성을 시사하며, 이는 주가에 긍정적인 영향을 미칠 수 있습니다. 그러나 공급망 문제와 감원이라는 키워드도 있으므로, 이 부분에 대한 추가적인 정보와 분석이 필요할 수 있습니다. 그럼에도 불구하고, 현재 정보만으로는 Meta의 장기적인 성장 전략이 긍정적으로 작용할 것으로 판단됩니다.",
+    "extracted_keywords": [
+      "Meta",
+      "Asia",
+      "market expansion",
+      "long-term strategy"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Netflix saw increased market activity.",
+    "keywords": [
+      "Netflix",
+      "earnings beat",
+      "cost cutting",
+      "regulatory approval"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.47,
+    "source": "GPT fallback",
+    "reason": "Netflix가 새로운 AI 기반 제품을 출시하면서 시장 활동이 증가했다는 뉴스가 나왔습니다. 이는 회사의 혁신력을 보여주며, 이러한 제품 출시가 회사의 수익성을 높일 수 있음을 시사합니다. 또한, 'cost cutting'과 'regulatory approval'이라는 키워드는 회사가 비용을 줄이고 규제 승인을 받는 데 성공했다는 것을 나타냅니다. 이는 회사의 운영 효율성과 규제 적합성을 보여주는 긍정적인 신호입니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "AI-powered product",
+      "cost cutting",
+      "regulatory approval"
+    ]
+  },
+  {
+    "summary": "Meta is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Meta",
+      "AI launch",
+      "regulatory approval",
+      "leadership change"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "Meta가 SEC의 조사를 받고 있는 상황에서, 이는 회사에 대한 불확실성을 증가시키며 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 이러한 사안은 회사의 리더십 변화를 초래할 수 있으며, 이는 잠재적으로 비즈니스 전략에 변화를 가져올 수 있습니다.",
+    "extracted_keywords": [
+      "Meta",
+      "SEC investigation",
+      "misconduct",
+      "leadership change"
+    ]
+  },
+  {
+    "summary": "Nvidia is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Nvidia",
+      "advertising revenue drop",
+      "acquisition"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Nvidia가 아시아 시장에서 새로운 시장을 탐색하고 있다는 뉴스는 회사의 장기 전략의 일부로 보입니다. 이는 회사가 새로운 시장을 찾아 더 큰 성장을 추구하고 있다는 긍정적인 신호로 해석될 수 있습니다. 그러나, 이 뉴스만으로는 Nvidia의 전체적인 재무 상태나 경영 전략을 완전히 이해하기는 어렵습니다. 따라서 추가적인 정보를 기다리는 것이 좋지만, 현재 정보를 바탕으로 판단한다면 '매수'를 추천합니다.",
+    "extracted_keywords": [
+      "Nvidia",
+      "Asia",
+      "new markets",
+      "long-term strategy"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Netflix's user base, raising security concerns.",
+    "keywords": [
+      "Netflix",
+      "dividend announcement",
+      "product delay"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Netflix의 사용자 데이터가 크게 유출되었다는 뉴스는 회사의 신뢰성과 보안에 대한 우려를 증가시킬 수 있습니다. 이는 고객의 이탈을 초래하고, 장기적으로는 회사의 수익성에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "data breach",
+      "security concerns",
+      "customer churn"
+    ]
+  },
+  {
+    "summary": "Tesla updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Tesla",
+      "data breach",
+      "AI launch"
+    ],
+    "true_label": "매수",
+    "predicted_label": "관망",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Tesla가 이용 약관을 업데이트했지만, 이에 대한 대중의 반응이 혼재되어 있어서 확실한 투자 판단을 내리기 어렵습니다. 또한, 'data breach'와 'AI launch'라는 키워드가 어떤 맥락에서 언급되었는지 명확하지 않아, 이 뉴스만으로는 투자에 필요한 충분한 정보를 얻기 어렵습니다.",
+    "extracted_keywords": [
+      "Tesla",
+      "terms of service",
+      "mixed reactions",
+      "data breach",
+      "AI launch"
+    ]
+  },
+  {
+    "summary": "Meta updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Meta",
+      "cloud growth",
+      "supply chain issue"
+    ],
+    "true_label": "관망",
+    "predicted_label": "관망",
+    "confidence": 0.36,
+    "source": "GPT fallback",
+    "reason": "Meta의 서비스 이용 약관 변경에 대한 대중의 반응이 혼재되어 있어, 이로 인한 장기적인 영행이 아직 불분명합니다. 또한, 공급망 문제와 클라우드 성장에 대한 키워드가 있지만, 이들이 Meta의 주가에 어떤 영향을 미칠지 명확하지 않습니다.",
+    "extracted_keywords": [
+      "Meta",
+      "terms of service",
+      "public reaction",
+      "supply chain issue",
+      "cloud growth"
+    ]
+  },
+  {
+    "summary": "Apple announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Apple",
+      "supply chain issue",
+      "new product"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.38,
+    "source": "GPT fallback",
+    "reason": "Apple이 예상보다 더 좋은 실적을 발표했기 때문에 투자자들의 신뢰가 상승했습니다. 이는 주가 상승을 예상하게 하는 강력한 신호입니다.",
+    "extracted_keywords": [
+      "Apple",
+      "better-than-expected earnings",
+      "boosting investor confidence"
+    ]
+  },
+  {
+    "summary": "Microsoft is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Microsoft",
+      "AI launch",
+      "dividend announcement"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "Microsoft가 아시아 신규 시장 진출을 탐색하고 있음으로써 장기적인 성장 전략을 보여주고 있습니다. 또한, AI 출시와 배당 발표는 회사의 기술적 발전과 재무적 안정성을 반영하며, 이는 주가 상승을 예상하게 합니다.",
+    "extracted_keywords": [
+      "Microsoft",
+      "Asia",
+      "AI launch",
+      "dividend announcement"
+    ]
+  },
+  {
+    "summary": "Amazon secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Amazon",
+      "cloud growth",
+      "dividend announcement"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Amazon이 전 세계적으로 클라우드 서비스를 확장하기 위한 주요 파트너십을 확보한 것은 회사의 성장 전략의 중요한 부분입니다. 이러한 확장은 Amazon의 수익성을 향상시키고, 주식 가치를 높일 수 있습니다. 또한, 배당 공시는 주주들에게 추가적인 수익을 제공하므로, 이는 주식을 매수하는 데 더욱 동기를 부여할 수 있습니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "cloud growth",
+      "major partnership",
+      "dividend announcement"
+    ]
+  },
+  {
+    "summary": "Meta announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Meta",
+      "recall",
+      "earnings beat",
+      "cost cutting"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "Meta에서 대규모 인력 감축을 발표했다는 뉴스는 회사의 재무 상태에 대한 우려를 증폭시킬 수 있습니다. 이는 일반적으로 주가에 부정적인 영향을 미치므로, 이 시점에서 매도를 고려하는 것이 바람직해 보입니다.",
+    "extracted_keywords": [
+      "Meta",
+      "massive layoffs",
+      "market performance",
+      "cost cutting"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Amazon's user base, raising security concerns.",
+    "keywords": [
+      "Amazon",
+      "advertising revenue drop",
+      "leadership change"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매도",
+    "confidence": 0.46,
+    "source": "GPT fallback",
+    "reason": "데이터 유출로 인해 사용자들의 신뢰가 떨어질 수 있으며, 이는 장기적으로 Amazon의 매출에 부정적인 영향을 미칠 수 있습니다. 또한, 광고 수익의 감소와 리더십의 변화는 회사의 불안정성을 나타내는 신호일 수 있습니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "data breach",
+      "advertising revenue drop",
+      "leadership change"
+    ]
+  },
+  {
+    "summary": "Microsoft updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Microsoft",
+      "earnings beat",
+      "market expansion",
+      "chip shortage"
+    ],
+    "true_label": "관망",
+    "predicted_label": "관망",
+    "confidence": 0.36,
+    "source": "GPT fallback",
+    "reason": "Microsoft의 서비스 이용 약관 변경에 대한 공개적인 반응이 혼합된 것으로 보아, 이는 회사에 대한 긍정적이나 부정적인 영향을 미칠 수 있습니다. 또한, 'earnings beat'와 'market expansion'이라는 키워드는 Microsoft의 긍정적인 성장을 나타내지만, 'chip shortage'는 전반적인 기술 산업에 악영향을 미칠 수 있는 요소입니다. 따라서 이러한 상황들을 종합적으로 고려할 때, 현재는 Microsoft 주식에 대한 투자 판단을 보류하는 것이 바람직해 보입니다.",
+    "extracted_keywords": [
+      "terms of service",
+      "mixed reactions",
+      "earnings beat",
+      "market expansion",
+      "chip shortage"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Netflix saw increased market activity.",
+    "keywords": [
+      "Netflix",
+      "data breach",
+      "cloud growth"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.47,
+    "source": "GPT fallback",
+    "reason": "Netflix가 새로운 AI 기반 제품을 출시하면서 시장 활동이 증가했다는 뉴스가 나왔습니다. 이는 회사의 혁신력을 보여주며, 이러한 혁신이 장기적으로 회사의 성장을 촉진할 수 있다는 긍정적인 신호입니다. 그러나 'data breach'와 'cloud growth'와 같은 키워드가 언급되었기 때문에, 이러한 이슈들이 Netflix의 성장을 방해할 수 있음을 염두에 두어야 합니다. 따라서, 이러한 이슈들을 계속 모니터링하면서 투자를 진행하는 것이 중요합니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "AI-powered product",
+      "market activity",
+      "data breach",
+      "cloud growth"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Tesla's user base, raising security concerns.",
+    "keywords": [
+      "Tesla",
+      "stock split",
+      "SEC investigation",
+      "leadership change"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.44,
+    "source": "GPT fallback",
+    "reason": "테슬라의 사용자 데이터 유출이 발생하여 보안 문제가 제기되었습니다. 이는 테슬라의 브랜드 이미지와 신뢰도를 손상시킬 수 있으며, 이로 인해 주가가 하락할 가능성이 있습니다. 또한, SEC 조사와 리더십 변화 등의 불확실성도 투자 위험을 높일 수 있습니다.",
+    "extracted_keywords": [
+      "Tesla",
+      "data breach",
+      "security concerns",
+      "SEC investigation",
+      "leadership change"
+    ]
+  },
+  {
+    "summary": "Nvidia announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Nvidia",
+      "new product",
+      "recall"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매도",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Nvidia가 대규모 인력 감축을 발표했다는 뉴스는 회사의 재무 상태와 미래 성장에 대한 우려를 불러일으킬 수 있습니다. 또한, 시장 성과에 대한 우려가 커지고 있는 상황에서 이러한 결정이 내려진 것은 Nvidia의 사업 전략에 대한 불확실성을 높일 수 있습니다.",
+    "extracted_keywords": [
+      "Nvidia",
+      "layoffs",
+      "market performance",
+      "uncertainty"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Intel saw increased market activity.",
+    "keywords": [
+      "Intel",
+      "layoffs",
+      "data breach"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Intel이 새로운 AI 기반 제품을 출시한 후 시장 활동이 증가했다는 뉴스가 나왔습니다. 이는 회사의 혁신력과 성장 가능성을 보여주는 긍정적인 신호로 해석될 수 있습니다. 그러나 '해고'와 '데이터 유출'과 같은 키워드도 있으므로, 이 부분에 대한 추가 정보가 필요할 수 있습니다. 그러나 현재로서는 새로운 제품 출시가 주가에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+    "extracted_keywords": [
+      "Intel",
+      "AI 기반 제품",
+      "시장 활동 증가",
+      "해고",
+      "데이터 유출"
+    ]
+  },
+  {
+    "summary": "Meta announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Meta",
+      "recall",
+      "cyber attack"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매도",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "Meta에서 대규모 인력 감축이 발표되었으며, 시장 성과에 대한 우려가 커지고 있습니다. 이는 회사의 재무 상태와 미래 성장에 대한 불확실성을 나타내며, 이러한 불확실성은 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 키워드에는 '리콜'과 '사이버 공격'이 포함되어 있어, 제품 결함이나 보안 문제가 있을 수 있음을 시사하며, 이 역시 주가에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Meta",
+      "대규모 인력 감축",
+      "시장 성과 우려",
+      "리콜",
+      "사이버 공격"
+    ]
+  },
+  {
+    "summary": "Nvidia is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Nvidia",
+      "data breach",
+      "regulatory approval",
+      "dividend announcement"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Nvidia가 불량행위에 대한 최근의 주장 이후 SEC 조사에 직면하고 있습니다. 이는 회사의 미래에 대한 불확실성을 높이며, 이는 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 데이터 유출이라는 키워드는 회사의 보안 문제를 시사하며, 이는 또한 주가에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Nvidia",
+      "SEC 조사",
+      "불량행위",
+      "데이터 유출"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Apple's user base, raising security concerns.",
+    "keywords": [
+      "Apple",
+      "leadership change",
+      "earnings beat",
+      "cost cutting"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.43,
+    "source": "GPT fallback",
+    "reason": "사용자 데이터 유출로 인한 보안 문제가 발생했기 때문에, 이는 Apple의 브랜드 이미지와 신뢰도에 영향을 미칠 수 있습니다. 또한, 이러한 이슈는 회사의 잠재적인 법적 문제와 비용을 초래할 수 있습니다.",
+    "extracted_keywords": [
+      "Apple",
+      "data breach",
+      "security concerns",
+      "potential legal issues"
+    ]
+  },
+  {
+    "summary": "Google is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Google",
+      "SEC investigation",
+      "antitrust lawsuit"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "Google이 아시아 시장에 진출하는 것은 그들의 장기 전략의 일부로, 이는 새로운 성장 기회를 의미합니다. 그러나 SEC 조사와 반독점 소송이라는 키워드는 주의가 필요함을 나타냅니다. 이러한 리스크 요소들이 있지만, Google의 잠재적인 성장 가능성이 이를 상쇄할 것으로 보입니다.",
+    "extracted_keywords": [
+      "Google",
+      "Asia market expansion",
+      "Long-term strategy",
+      "SEC investigation",
+      "Antitrust lawsuit"
+    ]
+  },
+  {
+    "summary": "Google secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Google",
+      "cloud growth",
+      "leadership change"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.49,
+    "source": "GPT fallback",
+    "reason": "Google이 전 세계적으로 클라우드 서비스를 확장하기 위한 주요 파트너십을 확보한 것은 그들의 사업 성장을 가속화시킬 수 있는 큰 기회입니다. 또한, 이는 Google의 클라우드 사업에 대한 리더십 변화를 시사하며, 이는 긍정적인 시그널로 해석될 수 있습니다.",
+    "extracted_keywords": [
+      "Google",
+      "cloud growth",
+      "partnership",
+      "leadership change"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Samsung saw increased market activity.",
+    "keywords": [
+      "Samsung",
+      "market expansion",
+      "supply chain issue"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Samsung이 새로운 AI 기반 제품을 출시한 후 시장 활동이 증가했다는 뉴스는 Samsung의 혁신력과 시장 선도력을 보여줍니다. 또한, 이러한 활동은 회사의 수익성을 높일 수 있으며, 이는 주가에 긍정적인 영향을 미칠 수 있습니다. 그러나 공급망 문제가 언급되었으므로, 이 부분에 대한 추가적인 정보를 추적하면서 투자를 진행하는 것이 중요합니다.",
+    "extracted_keywords": [
+      "Samsung",
+      "AI 기반 제품",
+      "시장 활동 증가",
+      "공급망 문제"
+    ]
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Meta saw increased market activity.",
+    "keywords": [
+      "Meta",
+      "chip shortage",
+      "stock split",
+      "advertising revenue drop"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Meta가 새로운 AI 기반 제품을 출시한 후 시장 활동이 증가했다는 뉴스가 나왔습니다. 이는 회사의 기술력과 혁신성을 보여주며, 장기적으로 주가에 긍정적인 영향을 미칠 수 있습니다. 그러나 키워드에는 '칩 부족'과 '광고 수익 감소'라는 부정적인 요소도 포함되어 있으므로, 이 부분은 주의 깊게 모니터링해야 합니다.",
+    "extracted_keywords": [
+      "Meta",
+      "AI-powered product",
+      "market activity increase",
+      "chip shortage"
+    ]
+  },
+  {
+    "summary": "Apple updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Apple",
+      "acquisition",
+      "stock split"
+    ],
+    "true_label": "매도",
+    "predicted_label": "관망",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "Apple의 서비스 이용 약관 변경은 공개적인 반응이 혼재되어 있어, 이것이 주식 가격에 어떤 영향을 미칠지 확실하지 않습니다. 또한, 'acquisition'과 'stock split'이라는 키워드가 언급되었지만, 이에 대한 구체적인 내용이 없어, 이를 바탕으로 투자 판단을 내리기 어렵습니다.",
+    "extracted_keywords": [
+      "Apple",
+      "terms of service",
+      "mixed reactions",
+      "acquisition",
+      "stock split"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Samsung's user base, raising security concerns.",
+    "keywords": [
+      "Samsung",
+      "market expansion",
+      "cost cutting",
+      "AI launch"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "데이터 유출이라는 심각한 보안 문제가 발생하여 Samsung의 사용자 기반에 영향을 미칠 수 있습니다. 이로 인해 회사의 신뢰도가 하락하고, 이는 장기적으로 주가에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Samsung",
+      "data breach",
+      "security concerns",
+      "user base"
+    ]
+  },
+  {
+    "summary": "Apple announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Apple",
+      "leadership change",
+      "acquisition",
+      "chip shortage"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "Apple이 대규모 인력 감축을 발표했다는 뉴스는 회사의 경영 상황이 좋지 않음을 시사합니다. 또한 시장 성과에 대한 우려가 커지고 있어, 주식 가치가 하락할 가능성이 있습니다. 또한 키워드에 'leadership change'와 'chip shortage'가 있어, 이는 회사의 불확실성을 높이는 요소로 작용할 수 있습니다.",
+    "extracted_keywords": [
+      "massive layoffs",
+      "market performance",
+      "leadership change",
+      "chip shortage"
+    ]
+  },
+  {
+    "summary": "Samsung secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Samsung",
+      "acquisition",
+      "stock split"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Samsung이 전 세계적으로 클라우드 서비스를 확장하기 위한 주요 파트너십을 확보했다는 뉴스는 Samsung의 사업 확장과 수익성 증가를 의미합니다. 또한, 'acquisition'과 'stock split' 키워드는 회사가 성장하고 주식 가치를 높이기 위한 전략을 취하고 있다는 것을 시사합니다.",
+    "extracted_keywords": [
+      "Samsung",
+      "acquisition",
+      "stock split",
+      "cloud services"
+    ]
+  },
+  {
+    "summary": "Google held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Google",
+      "AI launch",
+      "chip shortage",
+      "cyber attack"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.34,
+    "source": "GPT fallback",
+    "reason": "Google이 자사의 연례 개발자 회의에서 다가오는 혁신을 선보였다는 뉴스는 Google의 기술력과 혁신성을 보여주는 소식입니다. AI 발사, 칩 부족, 사이버 공격 등의 키워드는 Google이 이러한 문제를 해결하려는 노력을 보여주며, 이는 회사의 성장 가능성을 시사합니다.",
+    "extracted_keywords": [
+      "Google",
+      "AI launch",
+      "chip shortage",
+      "cyber attack"
+    ]
+  },
+  {
+    "summary": "Apple announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Apple",
+      "antitrust lawsuit",
+      "advertising revenue drop",
+      "product delay"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "Apple의 예상보다 더 좋은 분기 실적 발표로 투자자들의 신뢰가 증가하였습니다. 이는 주식 가치 향상을 의미하며, 이는 매수의 좋은 시기를 나타낼 수 있습니다. 그러나, 공정거래법 소송, 광고 수익 감소, 제품 지연 등의 키워드는 주의가 필요함을 나타냅니다. 이러한 요인들은 Apple의 장기적인 성장에 영향을 미칠 수 있으므로, 이를 고려하여 투자를 결정해야 합니다.",
+    "extracted_keywords": [
+      "Apple",
+      "better-than-expected earnings",
+      "investor confidence",
+      "antitrust lawsuit",
+      "advertising revenue drop",
+      "product delay"
+    ]
+  },
+  {
+    "summary": "Apple held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Apple",
+      "recall",
+      "partnership"
+    ],
+    "true_label": "관망",
+    "predicted_label": "관망",
+    "confidence": 0.34,
+    "source": "GPT fallback",
+    "reason": "주어진 정보만으로는 Apple의 주식에 대한 명확한 판단을 내리기 어렵습니다. 개발자 회의에서 어떤 혁신이 발표되었는지, 그리고 'recall'과 'partnership' 키워드가 어떻게 관련되어 있는지에 대한 구체적인 내용이 필요합니다.",
+    "extracted_keywords": [
+      "Apple",
+      "developer conference",
+      "recall",
+      "partnership"
+    ]
+  },
+  {
+    "summary": "Meta is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Meta",
+      "market expansion",
+      "acquisition",
+      "cyber attack"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.36,
+    "source": "GPT fallback",
+    "reason": "Meta에 대한 SEC의 조사는 회사의 법적 위험을 높일 수 있으며, 이는 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 이러한 불확실성은 투자자들의 신뢰를 손상시키고, 회사의 시장 확장 및 인수 계획에 방해가 될 수 있습니다. 사이버 공격의 가능성도 회사의 위험 요소를 높입니다.",
+    "extracted_keywords": [
+      "Meta",
+      "SEC investigation",
+      "legal risk",
+      "cyber attack"
+    ]
+  },
+  {
+    "summary": "Netflix secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Netflix",
+      "SEC investigation",
+      "recall"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매수",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Netflix가 전 세계적으로 클라우드 서비스를 확장하기 위한 주요 파트너십을 확보했다는 뉴스는 회사의 성장 가능성을 시사합니다. 이는 Netflix의 사업 영역을 넓히고, 더 많은 고객에게 서비스를 제공하게 될 것이며, 이는 장기적으로 수익성을 높일 수 있습니다. 그러나 'SEC investigation'과 'recall'이라는 키워드는 주의가 필요하며, 이 부분에 대한 추가 정보가 필요합니다.",
+    "extracted_keywords": [
+      "Netflix",
+      "클라우드 서비스 확장",
+      "파트너십",
+      "SEC investigation",
+      "recall"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Microsoft's user base, raising security concerns.",
+    "keywords": [
+      "Microsoft",
+      "advertising revenue drop",
+      "cloud growth",
+      "IPO filing"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Microsoft의 데이터 유출 사건은 사용자 기반에 영향을 미치며 보안 문제를 야기하고 있습니다. 이는 회사의 신뢰도를 손상시킬 수 있으며, 이로 인해 광고 수익이 감소할 가능성이 있습니다. 또한, 클라우드 성장과 IPO filing 키워드는 Microsoft의 사업 확장 및 성장에 대한 가능성을 시사하지만, 현재의 보안 문제는 이러한 긍정적인 측면을 무색하게 만들 수 있습니다.",
+    "extracted_keywords": [
+      "Microsoft",
+      "data breach",
+      "security concerns",
+      "advertising revenue drop"
+    ]
+  },
+  {
+    "summary": "Google announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Google",
+      "product delay",
+      "stock split",
+      "advertising revenue drop"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매수",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "Google이 예상보다 더 좋은 실적을 발표했기 때문에 투자자들의 신뢰가 증가했습니다. 이는 주가 상승을 예상하게 만듭니다. 그러나 뉴스에 언급된 '제품 지연', '주식 분할', '광고 수익 감소'와 같은 부정적인 요소들도 고려해야 합니다. 그러나 현재로서는 긍정적인 요소가 더 두드러지므로 매수를 추천합니다.",
+    "extracted_keywords": [
+      "Google",
+      "better-than-expected earnings",
+      "investor confidence",
+      "stock price increase expectation"
+    ]
+  },
+  {
+    "summary": "Samsung held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Samsung",
+      "leadership change",
+      "cost cutting",
+      "new product"
+    ],
+    "true_label": "관망",
+    "predicted_label": "관망",
+    "confidence": 0.36,
+    "source": "GPT fallback",
+    "reason": "뉴스에서는 Samsung의 연례 개발자 회의가 열렸다는 사실만을 알려주고 있습니다. 이 회의에서 어떤 혁신이 소개되었는지, 리더십 변화나 비용 절감, 새로운 제품 등에 대한 구체적인 정보가 없으므로, 이 정보만으로는 Samsung 주식에 대한 투자 판단을 내리기 어렵습니다.",
+    "extracted_keywords": [
+      "Samsung",
+      "leadership change",
+      "cost cutting",
+      "new product"
+    ]
+  },
+  {
+    "summary": "Intel updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Intel",
+      "cost cutting",
+      "market expansion"
+    ],
+    "true_label": "관망",
+    "predicted_label": "관망",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Intel이 서비스 이용 약관을 업데이트했지만, 이에 대한 대중의 반응이 분분하다는 정보만 제공되었습니다. 이로 인한 비용 절감 및 시장 확장에 대한 구체적인 내용이나 예상 효과가 명확하지 않으므로, 추가 정보가 제공될 때까지 투자 판단을 보류하는 것이 바람직해 보입니다.",
+    "extracted_keywords": [
+      "Intel",
+      "terms of service",
+      "cost cutting",
+      "market expansion"
+    ]
+  },
+  {
+    "summary": "A significant data breach has affected Apple's user base, raising security concerns.",
+    "keywords": [
+      "Apple",
+      "supply chain issue",
+      "SEC investigation",
+      "leadership change"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "데이터 유출은 Apple의 사용자 기반에 큰 영향을 미칠 수 있으며, 이는 회사의 신뢰도를 크게 손상시킬 수 있습니다. 또한 공급망 문제, SEC 조사, 리더십 변화 등의 키워드는 회사에 대한 불확실성을 높이는 요소로 작용할 수 있습니다.",
+    "extracted_keywords": [
+      "데이터 유출",
+      "Apple",
+      "SEC 조사",
+      "리더십 변화"
+    ]
+  },
+  {
+    "summary": "Nvidia announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Nvidia",
+      "chip shortage",
+      "supply chain issue",
+      "SEC investigation"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "Nvidia가 대규모 인력 감축을 발표한 것은 회사의 경영 상황이 좋지 않음을 시사합니다. 또한, 시장에서의 성과에 대한 우려가 커지고 있으며, 칩 부족과 공급망 문제로 인해 회사의 생산능력이 저하될 가능성이 있습니다. 더욱이, SEC 조사가 진행 중인 것으로 보아, 회사에 대한 불확실성이 높아질 수 있습니다.",
+    "extracted_keywords": [
+      "대규모 인력 감축",
+      "시장 성과 우려",
+      "칩 부족",
+      "SEC 조사"
+    ]
+  },
+  {
+    "summary": "Intel is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Intel",
+      "cyber attack",
+      "advertising revenue drop"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매도",
+    "confidence": 0.44,
+    "source": "GPT fallback",
+    "reason": "Intel이 최근의 부정행위 혐의에 대해 SEC(미국 증권거래위원회)의 조사를 받고 있습니다. 이는 회사의 신뢰성을 약화시키고 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 키워드에서 언급된 'cyber attack'과 'advertising revenue drop'은 회사의 재무 상태와 사업 성과에 부정적인 영향을 미칠 수 있습니다.",
+    "extracted_keywords": [
+      "Intel",
+      "SEC investigation",
+      "misconduct",
+      "cyber attack",
+      "advertising revenue drop"
+    ]
+  },
+  {
+    "summary": "Meta announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Meta",
+      "cyber attack",
+      "data breach",
+      "leadership change"
+    ],
+    "true_label": "매도",
+    "predicted_label": "매도",
+    "confidence": 0.39,
+    "source": "GPT fallback",
+    "reason": "Meta에서의 대규모 인력 감축은 회사의 안정성과 성장 가능성에 대한 우려를 증가시키며, 이는 주가에 부정적인 영향을 미칠 수 있습니다. 또한, 사이버 공격과 데이터 유출이라는 키워드는 회사의 보안 체계에 대한 문제를 시사하며, 이는 장기적으로 회사의 신뢰성을 저하시킬 수 있습니다. 마지막으로, 리더십의 변화는 회사의 불확실성을 높이며, 이는 주가 변동성을 증가시킬 수 있습니다.",
+    "extracted_keywords": [
+      "Meta",
+      "massive layoffs",
+      "cyber attack",
+      "data breach",
+      "leadership change"
+    ]
+  },
+  {
+    "summary": "Google held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Google",
+      "partnership",
+      "leadership change"
+    ],
+    "true_label": "관망",
+    "predicted_label": "관망",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "Google의 개발자 회의는 신규 혁신에 대한 정보를 제공하지만, 현재로서는 이것이 주식 가치에 어떤 영향을 미칠지 확실하지 않습니다. 또한, 'partnership'와 'leadership change'와 같은 키워드는 변동성을 나타낼 수 있지만, 구체적인 내용이 제공되지 않아서 확실한 판단을 내리기 어렵습니다.",
+    "extracted_keywords": [
+      "Google",
+      "developer conference",
+      "partnership",
+      "leadership change"
+    ]
+  },
+  {
+    "summary": "Amazon announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Amazon",
+      "data breach",
+      "SEC investigation",
+      "regulatory approval"
+    ],
+    "true_label": "관망",
+    "predicted_label": "매수",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "Amazon이 예상보다 더 좋은 실적을 발표했기 때문에 투자자들의 신뢰가 증가했습니다. 이는 주식 가격 상승을 예상하게 하는 긍정적인 신호입니다. 그러나 데이터 위반, SEC 조사, 규제 승인 등의 키워드가 언급되었으므로, 이러한 요소들이 Amazon의 주가에 부정적인 영향을 미칠 수 있음을 염두에 두어야 합니다.",
+    "extracted_keywords": [
+      "Amazon",
+      "better-than-expected earnings",
+      "investor confidence",
+      "data breach"
+    ]
+  },
+  {
+    "summary": "Tesla is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Tesla",
+      "market expansion",
+      "IPO filing",
+      "dividend announcement"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "Tesla가 최근의 부정행위 혐의로 SEC 조사를 받고 있다는 뉴스는 주가에 부정적인 영향을 미칠 수 있습니다. 이러한 불확실성은 투자자들에게 불안감을 줄 수 있으며, 이는 주가 하락을 초래할 수 있습니다.",
+    "extracted_keywords": [
+      "Tesla",
+      "SEC investigation",
+      "misconduct",
+      "stock price"
+    ]
+  },
+  {
+    "summary": "Samsung is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Samsung",
+      "IPO filing",
+      "regulatory approval",
+      "antitrust lawsuit"
+    ],
+    "true_label": "매수",
+    "predicted_label": "매도",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Samsung이 SEC의 조사를 받고 있으며, 부정행위에 대한 최근의 주장으로 인해 회사의 이미지와 신뢰성이 훼손될 가능성이 있습니다. 또한 이러한 문제는 회사의 IPO filing 및 규제 승인 절차에 영향을 미칠 수 있으며, 독점금지법 소송과 같은 법적 문제도 수반할 수 있습니다.",
+    "extracted_keywords": [
+      "Samsung",
+      "SEC investigation",
+      "misconduct",
+      "antitrust lawsuit"
+    ]
+  }
+]

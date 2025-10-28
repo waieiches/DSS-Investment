@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Nvidia stock: What export controls mean for the chip giant",
+    "url": "https://finance.yahoo.com/video/nvidia-stock-export-controls-mean-180000127.html",
+    "predict_label": "매수",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Nvidia는 중국에서의 판매 비중이 높으며, 비록 시장 점유율이 많이 떨어졌지만 아직도 중요한 시장으로 남아있다. 또한, 중국에서의 새로운 AI 칩 출시 계획과 인공지능 시장 규모가 커질 것이라는 전망이 있으므로, 회사의 성장 가능성이 있어보인다.",
+    "keywords": [
+      "Nvidia",
+      "AI chip",
+      "China",
+      "market share",
+      "export curbs"
+    ]
+  },
+  {
+    "title": "Jim Cramer on NVIDIA Corporation (NVDA): “The Stock’s in No Man’s Land”",
+    "url": "https://finance.yahoo.com/news/jim-cramer-nvidia-corporation-nvda-193856034.html",
+    "predict_label": "관망",
+    "confidence": 0.35,
+    "source": "GPT fallback",
+    "reason": "기사에 따르면, NVIDIA는 하드웨어 회사에서 소프트웨어를 중요하게 생각하는 회사로 전환하고 있습니다. 또한, NVIDIA는 Jim Cramer가 논의하는 주식 중에서 5위를 차지하고 있습니다. 그러나 Cramer는 AI 주식이 더 높은 수익률을 제공할 수 있다고 믿습니다. 이에 따라, NVIDIA에 대한 투자는 잠재력이 있지만, 더 큰 upside potential을 가진 AI 주식을 찾는 투자자들에게는 다른 AI 주식을 추천하는 것이 좋을 수 있습니다.",
+    "keywords": [
+      "NVIDIA",
+      "Jim Cramer",
+      "AI stocks",
+      "investment",
+      "software"
+    ]
+  },
+  {
+    "title": "Nvidia will release cheaper Blackwell AI chips in China to avoid U.S. restrictions, report says",
+    "url": "https://finance.yahoo.com/news/nvidia-release-cheaper-blackwell-ai-143127391.html",
+    "predict_label": "매도",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Nvidia가 미국의 AI 칩 수출 제한으로 중국 시장에서 본인의 제품을 판매하기 위해 제품 라인을 재조정하고 있습니다. 이에 따라, 중국 시장에서의 Nvidia의 시장 점유율이 90%에서 50%로 줄었습니다. 또한, 중국의 Huawei와 같은 국내 AI 하드웨어 개발이 가속화되어 경쟁이 심화되고 있습니다. 이러한 상황은 Nvidia에게 불리하다고 판단되며, 중장기적으로는 Nvidia의 매출과 수익에 부정적인 영향을 미칠 것으로 예상됩니다.",
+    "keywords": [
+      "Nvidia",
+      "AI 칩",
+      "수출 제한",
+      "중국 시장",
+      "시장 점유율"
+    ]
+  },
+  {
+    "title": "BI Investor of the Month: Meet the fund manager up 28% over the last year",
+    "url": "https://www.businessinsider.com/bi-investor-of-the-month-fund-manager-returning-28-over-last-year-2025-5",
+    "predict_label": "매수",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Ankur Crawford이 관리하는 Alger Concentrated Equity ETF (CNEQ)는 지난 12개월 동안 30%의 수익률을 기록하며 유사한 펀드의 96%를 능가했다. 또한, Crawford은 인공지능에 대해 호재적인 입장을 가지고 있으며 Nvidia와 Microsoft와 같은 회사에 대규모 주식을 보유하고 있다. 이는 해당 기업들의 주가 상승을 예상함을 의미한다.",
+    "keywords": [
+      "Ankur Crawford",
+      "Alger Concentrated Equity ETF",
+      "30% return",
+      "bullish on AI",
+      "Nvidia",
+      "Microsoft"
+    ]
+  },
+  {
+    "title": "Tested: Nvidia’s GeForce Now just breathed new life into my Steam Deck",
+    "url": "https://www.theverge.com/pc-gaming/676167/nvidia-geforce-now-steam-deck-test-hands-on",
+    "predict_label": "매수",
+    "confidence": 0.35,
+    "source": "GPT fallback",
+    "reason": "Nvidia의 GeForce Now가 Steam Deck과 호환되면서 고품질의 클라우드 게임을 제공한다는 호평을 받았습니다. 이 서비스는 비싼 GPU를 구매하는 대신 클라우드 게이밍을 선택하는 좋은 대안이라는 저자의 견해를 반영하고 있습니다. 또한, 이 서비스는 고품질 게임을 제공하면서도 배터리 수명을 늘리는 이점이 있습니다. 그러나 이 서비스는 좋은 인터넷 연결이 필요하며 제한된 게임 사용 가능성이 있습니다. 이러한 점들을 고려할 때, Nvidia는 성장 가능성이 높은 클라우드 게임 시장에서 경쟁력을 갖추고 있다고 볼 수 있습니다.",
+    "keywords": [
+      "Nvidia",
+      "GeForce Now",
+      "Steam Deck",
+      "cloud gaming",
+      "GPU"
+    ]
+  },
+  {
+    "title": "Nvidia's most important number doesn't have a dollar sign in front of it: Token growth",
+    "url": "https://www.businessinsider.com/nvidias-success-explosive-ai-token-generation-growth-2025-5",
+    "predict_label": "매수",
+    "confidence": 0.4,
+    "source": "GPT fallback",
+    "reason": "Nvidia의 사업이 토큰 생성에 초점을 맞추고 있으며, 이는 AI 성장의 핵심 지표로 간주되고 있다. 이는 Microsoft와 Google과 같은 기업들이 토큰 생성에서 큰 증가를 보이고 있음을 나타내며, 이는 AI 도구와 출력의 성장을 시사한다. 토큰의 증가는 AI의 미래에 있어 중요한 요소로 간주되며, Nvidia의 시장 점유율은 이 트렌드에서 이익을 얻고 있다.",
+    "keywords": [
+      "Nvidia",
+      "revenue",
+      "token generation",
+      "AI growth",
+      "market share"
+    ]
+  },
+  {
+    "title": "Nvidia's earnings report means another big test for the chip giant",
+    "url": "https://www.businessinsider.com/nvidia-earnings-tariffs-big-test-chip-ai-deepseek-2025-5",
+    "predict_label": "매수",
+    "confidence": 0.37,
+    "source": "GPT fallback",
+    "reason": "기사에 따르면, Nvidia는 현재 불확실성과 관세에 대한 우려에 직면해 있지만, Wall Street는 여전히 이 기술 거인의 미래에 대해 긍정적입니다. 불구하고 Nvidia의 주가는 최근 저점에서 44% 상승했으며, Bank of America와 Piper Sandler는 모두 Nvidia의 주식에 대한 상향 평가를 내놓았습니다. 이러한 이유로 Nvidia 주식을 매수하는 것이 좋다고 판단합니다.",
+    "keywords": [
+      "Nvidia",
+      "earnings",
+      "Wall Street",
+      "tariffs",
+      "guidance"
+    ]
+  },
+  {
+    "title": "The 3 biggest takeaways from Nvidia's Q1 earnings call: China, China, China",
+    "url": "https://www.businessinsider.com/nvidia-q1-earnings-call-fy26-takeaways-summary-jensen-huang-china-2025-5",
+    "predict_label": "매수",
+    "confidence": 0.41,
+    "source": "GPT fallback",
+    "reason": "Nvidia는 첫 분기 동안 미국의 수출 제한에도 불구하고 44.06 billion 달러의 수익을 보고했으며, 주가도 거래 후시간에 거의 5% 상승했습니다. 또한, 데이터 센터 부문은 전년 대비 73% 성장했습니다. 이러한 성장률은 회사가 AI 분야에서 강력한 위치를 유지하고 있다는 것을 보여줍니다. 물론, 중국 시장 제한이 영향을 미쳤지만, 이는 장기적으로 봤을 때 다른 국가로의 확장을 촉진할 수 있습니다.",
+    "keywords": [
+      "Nvidia",
+      "Revenue",
+      "China",
+      "Export controls",
+      "Data centers"
+    ]
+  },
+  {
+    "title": "Nvidia beats on earnings again — even while it's locked out of China",
+    "url": "https://qz.com/nvidia-nvda-1q-earnings-financial-results-1851782776",
+    "predict_label": "매수",
+    "confidence": 0.42,
+    "source": "GPT fallback",
+    "reason": "Nvidia의 첫 번째 분기 실적은 미국의 수출 제한에도 불구하고 강하게 나타났으며, 그들의 Data Center 부문이 눈에 띄는 성장을 보여주었습니다. 또한, 회사는 AI 분야에서의 지속적인 성장 기회에 대해 낙관적입니다. 이러한 이유로 Nvidia의 주식은 매수 상태로 보입니다.",
+    "keywords": [
+      "Nvidia",
+      "첫 번째 분기 실적",
+      "Data Center",
+      "AI",
+      "성장 기회"
+    ]
+  }
+]

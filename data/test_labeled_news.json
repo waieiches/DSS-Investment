@@ -1,0 +1,1061 @@
+[
+  {
+    "summary": "Amazon held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Amazon",
+      "IPO filing",
+      "regulatory approval",
+      "dividend announcement"
+    ],
+    "sentiment": "neutral",
+    "label": "매도"
+  },
+  {
+    "summary": "Netflix is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Netflix",
+      "leadership change",
+      "market expansion"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Intel updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Intel",
+      "market expansion",
+      "cloud growth",
+      "chip shortage"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "Microsoft announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Microsoft",
+      "market expansion",
+      "partnership"
+    ],
+    "sentiment": "positive",
+    "label": "매수"
+  },
+  {
+    "summary": "Intel announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Intel",
+      "earnings beat",
+      "cloud growth",
+      "dividend announcement"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Apple saw increased market activity.",
+    "keywords": [
+      "Apple",
+      "partnership",
+      "cyber attack"
+    ],
+    "sentiment": "positive",
+    "label": "매도"
+  },
+  {
+    "summary": "A significant data breach has affected Meta's user base, raising security concerns.",
+    "keywords": [
+      "Meta",
+      "cost cutting",
+      "SEC investigation",
+      "advertising revenue drop"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "A significant data breach has affected Google's user base, raising security concerns.",
+    "keywords": [
+      "Google",
+      "regulatory approval",
+      "partnership",
+      "layoffs"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Google saw increased market activity.",
+    "keywords": [
+      "Google",
+      "dividend announcement",
+      "cloud growth",
+      "cyber attack"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "A significant data breach has affected Netflix's user base, raising security concerns.",
+    "keywords": [
+      "Netflix",
+      "stock split",
+      "supply chain issue"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Meta is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Meta",
+      "cloud growth",
+      "antitrust lawsuit"
+    ],
+    "sentiment": "negative",
+    "label": "관망"
+  },
+  {
+    "summary": "Nvidia held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Nvidia",
+      "leadership change",
+      "cloud growth"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "Apple is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Apple",
+      "SEC investigation",
+      "data breach",
+      "stock split"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Nvidia held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Nvidia",
+      "product delay",
+      "IPO filing"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "Microsoft secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Microsoft",
+      "earnings beat",
+      "layoffs"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Netflix announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Netflix",
+      "supply chain issue",
+      "stock split",
+      "regulatory approval"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Meta updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Meta",
+      "new product",
+      "stock split",
+      "leadership change"
+    ],
+    "sentiment": "neutral",
+    "label": "매도"
+  },
+  {
+    "summary": "Amazon announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Amazon",
+      "leadership change",
+      "stock split"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Google announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Google",
+      "acquisition",
+      "leadership change"
+    ],
+    "sentiment": "positive",
+    "label": "매도"
+  },
+  {
+    "summary": "Netflix secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Netflix",
+      "earnings beat",
+      "partnership"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Amazon announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Amazon",
+      "acquisition",
+      "AI launch",
+      "leadership change"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "A significant data breach has affected Meta's user base, raising security concerns.",
+    "keywords": [
+      "Meta",
+      "earnings beat",
+      "IPO filing",
+      "market expansion"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Amazon is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Amazon",
+      "dividend announcement",
+      "supply chain issue",
+      "layoffs"
+    ],
+    "sentiment": "negative",
+    "label": "관망"
+  },
+  {
+    "summary": "Netflix held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Netflix",
+      "chip shortage",
+      "cost cutting",
+      "layoffs"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "Tesla held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Tesla",
+      "product delay",
+      "SEC investigation"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Microsoft held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Microsoft",
+      "IPO filing",
+      "cloud growth"
+    ],
+    "sentiment": "neutral",
+    "label": "매도"
+  },
+  {
+    "summary": "Intel announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Intel",
+      "earnings beat",
+      "supply chain issue"
+    ],
+    "sentiment": "positive",
+    "label": "매도"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Nvidia saw increased market activity.",
+    "keywords": [
+      "Nvidia",
+      "recall",
+      "chip shortage",
+      "regulatory approval"
+    ],
+    "sentiment": "positive",
+    "label": "매수"
+  },
+  {
+    "summary": "Google is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Google",
+      "antitrust lawsuit",
+      "advertising revenue drop"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "Netflix secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Netflix",
+      "partnership",
+      "antitrust lawsuit"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+  "summary": "Netflix is facing an SEC investigation following recent allegations of misconduct. The inquiry raises concerns among investors about potential legal and financial repercussions. This development may introduce uncertainty into the company’s near-term outlook.",
+  "keywords": [
+    "Netflix",
+    "cost cutting",
+    "dividend announcement",
+    "IPO filing"
+  ],
+  "sentiment": "negative",
+  "label": "매도"
+},
+{
+  "summary": "Netflix secured a major partnership to expand its cloud services globally. This move is expected to strengthen its technological infrastructure and broaden its market reach. However, investor response has been mixed due to ongoing concerns about internal restructuring and layoffs.",
+  "keywords": [
+    "Netflix",
+    "IPO filing",
+    "layoffs"
+  ],
+  "sentiment": "neutral",
+  "label": "관망"
+},
+{
+  "summary": "Tesla secured a major partnership to expand its cloud services globally. The agreement is seen as a strategic move to bolster its AI and autonomous driving capabilities. Investors have responded positively, viewing the development as a catalyst for future growth.",
+  "keywords": [
+    "Tesla",
+    "regulatory approval",
+    "cloud growth"
+  ],
+  "sentiment": "positive",
+  "label": "매수"
+}
+,
+  {
+    "summary": "Tesla secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Tesla",
+      "regulatory approval",
+      "cloud growth"
+    ],
+    "sentiment": "positive",
+    "label": "매수"
+  },
+  {
+    "summary": "Netflix held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Netflix",
+      "partnership",
+      "regulatory approval",
+      "cyber attack"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Apple is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Apple",
+      "new product",
+      "dividend announcement",
+      "stock split"
+    ],
+    "sentiment": "negative",
+    "label": "관망"
+  },
+  {
+    "summary": "Google is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Google",
+      "advertising revenue drop",
+      "AI launch",
+      "dividend announcement"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Intel saw increased market activity.",
+    "keywords": [
+      "Intel",
+      "cyber attack",
+      "new product",
+      "SEC investigation"
+    ],
+    "sentiment": "positive",
+    "label": "매도"
+  },
+  {
+    "summary": "Amazon secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Amazon",
+      "layoffs",
+      "cyber attack"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Tesla announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Tesla",
+      "earnings beat",
+      "dividend announcement",
+      "recall"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Tesla announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Tesla",
+      "new product",
+      "SEC investigation"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Amazon saw increased market activity.",
+    "keywords": [
+      "Amazon",
+      "regulatory approval",
+      "chip shortage"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "A significant data breach has affected Microsoft's user base, raising security concerns.",
+    "keywords": [
+      "Microsoft",
+      "antitrust lawsuit",
+      "product delay"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Google is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Google",
+      "supply chain issue",
+      "market expansion"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "Intel announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Intel",
+      "product delay",
+      "cost cutting",
+      "supply chain issue"
+    ],
+    "sentiment": "positive",
+    "label": "매도"
+  },
+  {
+    "summary": "Netflix held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Netflix",
+      "chip shortage",
+      "market expansion"
+    ],
+    "sentiment": "neutral",
+    "label": "매도"
+  },
+  {
+    "summary": "Intel held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Intel",
+      "product delay",
+      "layoffs",
+      "new product"
+    ],
+    "sentiment": "neutral",
+    "label": "매도"
+  },
+  {
+    "summary": "Netflix announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Netflix",
+      "partnership",
+      "IPO filing"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Amazon announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Amazon",
+      "partnership",
+      "advertising revenue drop"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Meta is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Meta",
+      "advertising revenue drop",
+      "chip shortage"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Intel updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Intel",
+      "earnings beat",
+      "regulatory approval"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Samsung is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Samsung",
+      "chip shortage",
+      "SEC investigation"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Netflix saw increased market activity.",
+    "keywords": [
+      "Netflix",
+      "cloud growth",
+      "regulatory approval"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Amazon announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Amazon",
+      "acquisition",
+      "product delay",
+      "cloud growth"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Meta announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Meta",
+      "partnership",
+      "regulatory approval",
+      "stock split"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Microsoft announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Microsoft",
+      "chip shortage",
+      "AI launch",
+      "cloud growth"
+    ],
+    "sentiment": "negative",
+    "label": "관망"
+  },
+  {
+    "summary": "Meta is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Meta",
+      "acquisition",
+      "supply chain issue",
+      "layoffs"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Netflix saw increased market activity.",
+    "keywords": [
+      "Netflix",
+      "earnings beat",
+      "cost cutting",
+      "regulatory approval"
+    ],
+    "sentiment": "positive",
+    "label": "매수"
+  },
+  {
+    "summary": "Meta is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Meta",
+      "AI launch",
+      "regulatory approval",
+      "leadership change"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Nvidia is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Nvidia",
+      "advertising revenue drop",
+      "acquisition"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "A significant data breach has affected Netflix's user base, raising security concerns.",
+    "keywords": [
+      "Netflix",
+      "dividend announcement",
+      "product delay"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Tesla updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Tesla",
+      "data breach",
+      "AI launch"
+    ],
+    "sentiment": "neutral",
+    "label": "매수"
+  },
+  {
+    "summary": "Meta updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Meta",
+      "cloud growth",
+      "supply chain issue"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Apple announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Apple",
+      "supply chain issue",
+      "new product"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Microsoft is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Microsoft",
+      "AI launch",
+      "dividend announcement"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Amazon secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Amazon",
+      "cloud growth",
+      "dividend announcement"
+    ],
+    "sentiment": "positive",
+    "label": "매도"
+  },
+  {
+    "summary": "Meta announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Meta",
+      "recall",
+      "earnings beat",
+      "cost cutting"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "A significant data breach has affected Amazon's user base, raising security concerns.",
+    "keywords": [
+      "Amazon",
+      "advertising revenue drop",
+      "leadership change"
+    ],
+    "sentiment": "negative",
+    "label": "관망"
+  },
+  {
+    "summary": "Microsoft updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Microsoft",
+      "earnings beat",
+      "market expansion",
+      "chip shortage"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Netflix saw increased market activity.",
+    "keywords": [
+      "Netflix",
+      "data breach",
+      "cloud growth"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "A significant data breach has affected Tesla's user base, raising security concerns.",
+    "keywords": [
+      "Tesla",
+      "stock split",
+      "SEC investigation",
+      "leadership change"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Nvidia announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Nvidia",
+      "new product",
+      "recall"
+    ],
+    "sentiment": "negative",
+    "label": "관망"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Intel saw increased market activity.",
+    "keywords": [
+      "Intel",
+      "layoffs",
+      "data breach"
+    ],
+    "sentiment": "positive",
+    "label": "매도"
+  },
+  {
+    "summary": "Meta announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Meta",
+      "recall",
+      "cyber attack"
+    ],
+    "sentiment": "negative",
+    "label": "관망"
+  },
+  {
+    "summary": "Nvidia is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Nvidia",
+      "data breach",
+      "regulatory approval",
+      "dividend announcement"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "A significant data breach has affected Apple's user base, raising security concerns.",
+    "keywords": [
+      "Apple",
+      "leadership change",
+      "earnings beat",
+      "cost cutting"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Google is exploring new markets in Asia as part of its long-term strategy.",
+    "keywords": [
+      "Google",
+      "SEC investigation",
+      "antitrust lawsuit"
+    ],
+    "sentiment": "neutral",
+    "label": "매도"
+  },
+  {
+    "summary": "Google secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Google",
+      "cloud growth",
+      "leadership change"
+    ],
+    "sentiment": "positive",
+    "label": "매수"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Samsung saw increased market activity.",
+    "keywords": [
+      "Samsung",
+      "market expansion",
+      "supply chain issue"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Following the launch of its new AI-powered product, Meta saw increased market activity.",
+    "keywords": [
+      "Meta",
+      "chip shortage",
+      "stock split",
+      "advertising revenue drop"
+    ],
+    "sentiment": "positive",
+    "label": "매수"
+  },
+  {
+    "summary": "Apple updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Apple",
+      "acquisition",
+      "stock split"
+    ],
+    "sentiment": "neutral",
+    "label": "매도"
+  },
+  {
+    "summary": "A significant data breach has affected Samsung's user base, raising security concerns.",
+    "keywords": [
+      "Samsung",
+      "market expansion",
+      "cost cutting",
+      "AI launch"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Apple announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Apple",
+      "leadership change",
+      "acquisition",
+      "chip shortage"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Samsung secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Samsung",
+      "acquisition",
+      "stock split"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Google held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Google",
+      "AI launch",
+      "chip shortage",
+      "cyber attack"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Apple announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Apple",
+      "antitrust lawsuit",
+      "advertising revenue drop",
+      "product delay"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Apple held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Apple",
+      "recall",
+      "partnership"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Meta is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Meta",
+      "market expansion",
+      "acquisition",
+      "cyber attack"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Netflix secured a major partnership to expand its cloud services globally.",
+    "keywords": [
+      "Netflix",
+      "SEC investigation",
+      "recall"
+    ],
+    "sentiment": "positive",
+    "label": "매도"
+  },
+  {
+    "summary": "A significant data breach has affected Microsoft's user base, raising security concerns.",
+    "keywords": [
+      "Microsoft",
+      "advertising revenue drop",
+      "cloud growth",
+      "IPO filing"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Google announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Google",
+      "product delay",
+      "stock split",
+      "advertising revenue drop"
+    ],
+    "sentiment": "positive",
+    "label": "매수"
+  },
+  {
+    "summary": "Samsung held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Samsung",
+      "leadership change",
+      "cost cutting",
+      "new product"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Intel updated its terms of service, which drew mixed reactions from the public.",
+    "keywords": [
+      "Intel",
+      "cost cutting",
+      "market expansion"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "A significant data breach has affected Apple's user base, raising security concerns.",
+    "keywords": [
+      "Apple",
+      "supply chain issue",
+      "SEC investigation",
+      "leadership change"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Nvidia announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Nvidia",
+      "chip shortage",
+      "supply chain issue",
+      "SEC investigation"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Intel is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Intel",
+      "cyber attack",
+      "advertising revenue drop"
+    ],
+    "sentiment": "negative",
+    "label": "관망"
+  },
+  {
+    "summary": "Meta announced massive layoffs amid growing concerns over market performance.",
+    "keywords": [
+      "Meta",
+      "cyber attack",
+      "data breach",
+      "leadership change"
+    ],
+    "sentiment": "negative",
+    "label": "매도"
+  },
+  {
+    "summary": "Google held its annual developer conference today, showcasing upcoming innovations.",
+    "keywords": [
+      "Google",
+      "partnership",
+      "leadership change"
+    ],
+    "sentiment": "neutral",
+    "label": "관망"
+  },
+  {
+    "summary": "Amazon announced better-than-expected earnings this quarter, boosting investor confidence.",
+    "keywords": [
+      "Amazon",
+      "data breach",
+      "SEC investigation",
+      "regulatory approval"
+    ],
+    "sentiment": "positive",
+    "label": "관망"
+  },
+  {
+    "summary": "Tesla is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Tesla",
+      "market expansion",
+      "IPO filing",
+      "dividend announcement"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  },
+  {
+    "summary": "Samsung is facing an SEC investigation following recent allegations of misconduct.",
+    "keywords": [
+      "Samsung",
+      "IPO filing",
+      "regulatory approval",
+      "antitrust lawsuit"
+    ],
+    "sentiment": "negative",
+    "label": "매수"
+  }
+]
